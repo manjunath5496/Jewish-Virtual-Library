@@ -55,7 +55,30 @@
          
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(33).pdf" style="text-decoration:none;">Yahweh and Moses in Conflict </a></b></li>                               
                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(34).pdf" style="text-decoration:none;">Abortion in Judaism </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(35).pdf" style="text-decoration:none;">Did Moses Speak Attic? Jewish Historiography and Scripture in the Hellenistic Period </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(36).pdf" style="text-decoration:none;">American Judaism: A History</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(37).pdf" style="text-decoration:none;"> Gods of Our Fathers: The Memory of Egypt in Judaism and Christianity </a></b></li>
                                 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(38).pdf" style="text-decoration:none;">Israel's God and Rebecca's Children</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(39).pdf" style="text-decoration:none;">Jesus and Judaism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(40).pdf" style="text-decoration:none;">Jewish Dharma: A Guide to the Practice of Judaism and Zen</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(41).pdf" style="text-decoration:none;">Judaism and Hellenism Reconsidered</a></b></li>
                                 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(42).pdf" style="text-decoration:none;">Judaism: The Basics</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(43).pdf" style="text-decoration:none;">MOSES: Heroic Man, Man of God</a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(44).pdf" style="text-decoration:none;">Moses Maimonides: The Man and His Works </a></b></li>
+                                                                      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(45).pdf" style="text-decoration:none;">Moses the Egyptian: The Memory of Egypt in Western Monotheism</a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(46).pdf" style="text-decoration:none;">The Routledge Dictionary of Judaism </a></b></li>
+                                                                      
  
  </ul>
