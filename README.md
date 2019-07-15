@@ -79,6 +79,14 @@
                                        
          
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(46).pdf" style="text-decoration:none;">The Routledge Dictionary of Judaism </a></b></li>
+
+                                                                      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(47).pdf" style="text-decoration:none;">The Book of King Solomon</a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(48).pdf" style="text-decoration:none;">KING SOLOMON'S ADVICE for the world </a></b></li>
+
+
                                                                       
  
  </ul>
