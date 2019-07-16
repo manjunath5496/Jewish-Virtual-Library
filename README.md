@@ -239,58 +239,58 @@
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(132).pdf" style="text-decoration:none;">Peripheral Desires: The German Discovery of Sex</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(39).pdf" style="text-decoration:none;">Jesus and Judaism</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(40).pdf" style="text-decoration:none;">Jewish Dharma: A Guide to the Practice of Judaism and Zen</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(41).pdf" style="text-decoration:none;">Judaism and Hellenism Reconsidered</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(133).pdf" style="text-decoration:none;">Peter Selz: Sketches of a Life in Art</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(134).pdf" style="text-decoration:none;">Preaching Eugenics: Religious Leaders and the American Eugenics Movement</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(135).pdf" style="text-decoration:none;">Remembering Palestine in 1948: Beyond National Narratives</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(42).pdf" style="text-decoration:none;">Judaism: The Basics</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(136).pdf" style="text-decoration:none;">Science and Conscience: The Life of James Franck</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(43).pdf" style="text-decoration:none;">MOSES: Heroic Man, Man of God</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(137).pdf" style="text-decoration:none;">Science and the Truthfulness of Beauty</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(44).pdf" style="text-decoration:none;">Moses Maimonides: The Man and His Works </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(138).pdf" style="text-decoration:none;">SECRET OF THE SAVIOR: The Myth of the Messiah in Mark </a></b></li>
                                                                       
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(45).pdf" style="text-decoration:none;">Moses the Egyptian: The Memory of Egypt in Western Monotheism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(139).pdf" style="text-decoration:none;">Seeing the World and Knowing God: Hebrew Wisdom and Christian Doctrine in a Late-Modern Context</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(46).pdf" style="text-decoration:none;">The Routledge Dictionary of Judaism </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(140).pdf" style="text-decoration:none;">Spiritual Radical: Abraham Joshua Heschel in America, 1940–1972</a></b></li>
 
                                                                       
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(47).pdf" style="text-decoration:none;">The Book of King Solomon</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(141).pdf" style="text-decoration:none;">Studies in Jewish Myth and Jewish Messianism</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(48).pdf" style="text-decoration:none;">KING SOLOMON'S ADVICE for the world </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(142).pdf" style="text-decoration:none;">Studying the Jewish Future </a></b></li>
 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(49).pdf" style="text-decoration:none;">Goetia: The Lesser Key of Solomon the King </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(50).pdf" style="text-decoration:none;">A Harmony of Samuel, Kings, and Chronicles </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(143).pdf" style="text-decoration:none;">The Alchemy of Air: A Jewish Genius, a Doomed Tycoon, and the Scientific Discovery That Fed the World but Fueled the Rise of Hitler </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(144).pdf" style="text-decoration:none;">The Emergence Of Modern Jewish Politics </a></b></li>
                                
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(51).pdf" style="text-decoration:none;">DAVID IN DISTRESS: His Portrait Through the Historical Psalms</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(52).pdf" style="text-decoration:none;"> David, Saul, and God </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(145).pdf" style="text-decoration:none;">The Eternal Dissident: Rabbi Leonard I. Beerman and the Radical Imperative to Think and Act</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(146).pdf" style="text-decoration:none;"> The Holocaust and its Contexts </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(53).pdf" style="text-decoration:none;">King Solomon's Mines</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(147).pdf" style="text-decoration:none;">The Last Revolutionaries: German Communists and Their Century</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(54).pdf" style="text-decoration:none;">Ellis Island to Ebbets Field: Sport and the American Jewish Experience</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(55).pdf" style="text-decoration:none;">The Provincials: A Personal History of Jews in the South</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(56).pdf" style="text-decoration:none;">Hebrew for Theologians: A Textbook for the Study of Biblical Hebrew in Relation to Hebrew Thinking </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(148).pdf" style="text-decoration:none;">Turbulent Times: The British Jewish Community Today</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(149).pdf" style="text-decoration:none;">Under A Cruel Star: A Life in Prague 1941-1968</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(150).pdf" style="text-decoration:none;">Uranium Wars: The Scientific Rivalry that Created the Nuclear Age  </a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(57).pdf" style="text-decoration:none;">The Fulfilment of Doom?: The Dialogic Interaction Between the Book of Lamentations and the Pre-Exilic/Early Exilic Prophetic Literature</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(151).pdf" style="text-decoration:none;">Year Zero of the Arab-Israeli Conflict 1929</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(58).pdf" style="text-decoration:none;">PALESTINE and JEWISH HISTORY </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(59).pdf" style="text-decoration:none;"> How Silent Were the Churches? Canadian Protestantism and the Jewish Plight during the Nazi Era</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(60).pdf" style="text-decoration:none;">Pledges of Jewish Allegiance: Conversion, Law, and Policymaking in Nineteenth- and Twentieth-Century Orthodox Responsa</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(152).pdf" style="text-decoration:none;">Spinoza: A Life </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(153).pdf" style="text-decoration:none;"> PHILOSOPHICAL AND POLITICAL WRITINGS</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(154).pdf" style="text-decoration:none;">Jew and Philosopher: The Return to Maimonides in the Jewish Thought of Leo Strauss</a></b></li> 
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(61).pdf" style="text-decoration:none;">An Island Called Home: Returning to Jewish Cuba</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(62).pdf" style="text-decoration:none;">The Némirovsky Question: The Life, Death, and Legacy of a Jewish Writer in Twentieth-Century France </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(155).pdf" style="text-decoration:none;">DIFFICULT FREEDOM: Essays on Judaism</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(156).pdf" style="text-decoration:none;">Radical Enlightenment: Philosophy and the Making of Modernity 1650-1750 </a></b></li>
 
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(63).pdf" style="text-decoration:none;">My War against the Nazis</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(64).pdf" style="text-decoration:none;">Love Your Neighbor and Yourself: A Jewish Approach to Modern Personal Ethics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(157).pdf" style="text-decoration:none;">Sharing in the Inheritance: Identity and the Moral Life in Colossians</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(158).pdf" style="text-decoration:none;">Ciersonides on Providence, Covenant, and the Chosen People</a></b></li>
                                 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(65).pdf" style="text-decoration:none;">The Name of God in Jewish Thought</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(66).pdf" style="text-decoration:none;">Perspectives on the Holocaust </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(67).pdf" style="text-decoration:none;">Everyday Jewish Life in Imperial Russia </a></b></li>                                                           
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(159).pdf" style="text-decoration:none;">Smart Jews: The Construction of the Image of Jewish Superior Intelligence</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(160).pdf" style="text-decoration:none;">Reasoning After Revelation </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(161).pdf" style="text-decoration:none;">Hitler's Philosophers </a></b></li>                                                           
                                 
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(68).pdf" style="text-decoration:none;">Passing Illusions: Jewish Visibility in Weimar Germany </a></b></li>
