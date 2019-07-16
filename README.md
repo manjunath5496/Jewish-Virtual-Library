@@ -156,23 +156,23 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(87).pdf" style="text-decoration:none;">Jacob's Legacy: A Genetic View of Jewish History</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(88).pdf" style="text-decoration:none;">A Difficult Woman: The Challenging Life and Times of Lillian Hellman</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(42).pdf" style="text-decoration:none;">Judaism: The Basics</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(89).pdf" style="text-decoration:none;">A Mind Always in Motion: The Autobiography of Emilio Segre</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(43).pdf" style="text-decoration:none;">MOSES: Heroic Man, Man of God</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(90).pdf" style="text-decoration:none;">A Polish Doctor in the Nazi Camps: My Mother's Memories of Imprisonment, Immigration, and a Life Remade</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(44).pdf" style="text-decoration:none;">Moses Maimonides: The Man and His Works </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(91).pdf" style="text-decoration:none;">A War of Words: Political Violence and Public Debate in Israel </a></b></li>
                                                                       
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(45).pdf" style="text-decoration:none;">Moses the Egyptian: The Memory of Egypt in Western Monotheism</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(92).pdf" style="text-decoration:none;">After the Rescue: Jewish Identity and Community in Contemporary Denmark</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(46).pdf" style="text-decoration:none;">The Routledge Dictionary of Judaism </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(93).pdf" style="text-decoration:none;">Albert Meets America </a></b></li>
 
                                                                       
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(47).pdf" style="text-decoration:none;">The Book of King Solomon</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(94).pdf" style="text-decoration:none;">Ally: My Journey Across the American-Israeli Divide</a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(48).pdf" style="text-decoration:none;">KING SOLOMON'S ADVICE for the world </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(95).pdf" style="text-decoration:none;">An Unpromising Land: Jewish Migration to Palestine in the Early Twentieth Century </a></b></li>
 
 
 
