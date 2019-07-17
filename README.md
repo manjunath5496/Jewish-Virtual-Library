@@ -548,9 +548,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(295).pdf" style="text-decoration:none;">Chosen Capital: The Jewish Encounter with American Capitalism </a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(296).pdf" style="text-decoration:none;">Jewish Concepts of Scripture </a></b></li>                                                           
                                 
-                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(297).pdf" style="text-decoration:none;">Dr. Charles David Spivak: A Jewish Immigrant and the American Tuberculosis Movement </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(298).pdf" style="text-decoration:none;">The Chosen Game: A Jewish Basketball History </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(298).pdf" style="text-decoration:none;">The Chosen Game: A Jewish Basketball History </a></b></li>
                                
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(299).pdf" style="text-decoration:none;">DREAMING OF MICHELANGELO: Jewish Variations on a Modern Theme</a></b></li>
