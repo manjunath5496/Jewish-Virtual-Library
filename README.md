@@ -650,9 +650,11 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(348).pdf" style="text-decoration:none;">The Frozen Rabbi </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(349).pdf" style="text-decoration:none;">The Last Jews in Baghdad</a></b></li>
+                         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(350).pdf" style="text-decoration:none;">Interpretations of the Name Israel in Ancient Judaism and Some Early Christian Writings</a></b></li>  
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(351).pdf" style="text-decoration:none;">Judaism and the Koran</a></b></li> 
                                
-                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(352).pdf" style="text-decoration:none;">The Celebration of the Eucharist</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(352).pdf" style="text-decoration:none;">The Celebration of the Eucharist</a></b></li> 
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(353).pdf" style="text-decoration:none;">An Introduction to Second Temple Judaism: History and Religion of the Jews in the Time of Nehemiah, the Maccabees, Hillel, and Jesus</a></b></li> 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(354).pdf" style="text-decoration:none;">Shylock is Shakespeare </a></b></li>                               
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(355).pdf" style="text-decoration:none;">Milton and the Rabbis </a></b></li>
