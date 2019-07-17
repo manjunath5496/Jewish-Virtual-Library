@@ -692,8 +692,25 @@ to the Praise of the Fathers in Ben Sira's Concept of the History of Israel </a>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(375).pdf" style="text-decoration:none;">The Origins of Seder: The Passover Rite and Early Rabbinic Judaism </a></b></li>   
    
    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(376).pdf" style="text-decoration:none;">Natural History of Ashkenazi Intelligence</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(377).pdf" style="text-decoration:none;">How Jews Became Smart: Anti-"Natural History of Ashkenazi Intelligence" </a></b></li>
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(378).pdf" style="text-decoration:none;">Mendelian Disorders Among Jews  </a></b></li> 
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(379).pdf" style="text-decoration:none;">The History of the Jews in the Greco-Roman World </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(380).pdf" style="text-decoration:none;">Jewish Identities in a Changing World </a></b></li>
+                                                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(381).pdf" style="text-decoration:none;">The Idea Of Modern Jewish Culture </a></b></li>
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(382).pdf" style="text-decoration:none;">The Relationship of Orthodox Jews with Believing Jews of Other
+Religious Ideologies and Non-Believing Jews </a></b></li> 
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(383).pdf" style="text-decoration:none;">Augustine And The Jews </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(384).pdf" style="text-decoration:none;">The Book of Solomon's Magick </a></b></li>
    
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(385).pdf" style="text-decoration:none;">The Secret Relationship Between Blacks and Jews </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(386).pdf" style="text-decoration:none;">King of the Jews: Temple Theology in John's Gospel </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(387).pdf" style="text-decoration:none;">Messianism Among Jews And Christians </a></b></li>     
    
    
    
