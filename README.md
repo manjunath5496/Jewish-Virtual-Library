@@ -631,8 +631,46 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(339).pdf" style="text-decoration:none;">Jews and Samaritans</a></b></li>
                                
       
-   
-   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(340).pdf" style="text-decoration:none;">The Congress of Vienna: Power and Politics after Napoleon </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(341).pdf" style="text-decoration:none;">Reforming Fictions: Native, African, and Jewish American Women's Literature and Journalism in the Progressive Era</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(342).pdf" style="text-decoration:none;">Jews and Non-Jews: Memories and Interactions from the Perspective of Cultural Studies </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(343).pdf" style="text-decoration:none;">Jesus Never Lived! Volume 3 The Pagan Morals of Jesus Christ </a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(344).pdf" style="text-decoration:none;">Evangelicals and Israel </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(345).pdf" style="text-decoration:none;">The Healthy Jew: The Symbiosis of Judaism and Modern Medicine  </a></b></li>
+                                                                      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(346).pdf" style="text-decoration:none;">The Collected Stories of Moacyr Scliar </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(347).pdf" style="text-decoration:none;">Naked in the Promised Land </a></b></li>                               
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(348).pdf" style="text-decoration:none;">The Frozen Rabbi </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(349).pdf" style="text-decoration:none;">The Last Jews in Baghdad</a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(352).pdf" style="text-decoration:none;">The Celebration of the Eucharist</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(354).pdf" style="text-decoration:none;">Shylock is Shakespeare </a></b></li>                               
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(355).pdf" style="text-decoration:none;">Milton and the Rabbis </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(356).pdf" style="text-decoration:none;">Fascinating Rhythm: Reading Jazz in American Writing  </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(357).pdf" style="text-decoration:none;">A Guest in My Own Country: A Hungarian Life</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(358).pdf" style="text-decoration:none;">In Spite of Partition: Jews, Arabs, and the Limits of Separatist Imagination</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(359).pdf" style="text-decoration:none;">Facing Black and Jew: Literature as Public Space in Twentieth-Century America</a></b></li>
+                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(360).pdf" style="text-decoration:none;">The Slopes of Lebanon: Amos Oz</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(361).pdf" style="text-decoration:none;">The Tent of Abraham: Stories of Hope and Peace for Jews, Christians, and Muslims </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(363).pdf" style="text-decoration:none;">Rosenfeld's Lives: Fame, Oblivion, and the Furies of Writing </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(364).pdf" style="text-decoration:none;">The Question of Zion </a></b></li>
+                               
+                               
+
    
    
    
