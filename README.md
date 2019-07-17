@@ -592,7 +592,45 @@
    
    
    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(320).pdf" style="text-decoration:none;">The Accommodated Jew, English Antisemitism from Bede to Milton</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(321).pdf" style="text-decoration:none;"> Jews in today's German culture </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(322).pdf" style="text-decoration:none;">From Gods to God: How the Bible Debunked, Suppressed, or Changed Ancient Myths and Legends</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(323).pdf" style="text-decoration:none;">Hitler and the Nazi Cult of Celebrity </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(324).pdf" style="text-decoration:none;">Soviet Jews in World War II: Fighting, Witnessing, Remembering</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(325).pdf" style="text-decoration:none;">Israel's Years of Bogus Grandeur: From the Six-Day War to the First Intifada </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(326).pdf" style="text-decoration:none;">Trinity of Passion: The Literary Left and the Antifascist Crusade</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(327).pdf" style="text-decoration:none;">From Kabbalah to Class Struggle  </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(328).pdf" style="text-decoration:none;">The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds </a></b></li>
+                                                                      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(329).pdf" style="text-decoration:none;">Memoirs: All Rivers Run to the Sea  </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(330).pdf" style="text-decoration:none;">Why This World: A Biography of Clarice Lispector</a></b></li>                               
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(331).pdf" style="text-decoration:none;">The Enigma of Isaac Babel </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(332).pdf" style="text-decoration:none;">The Restoration of the Jews: Early Modern Hermeneutics, Eschatology, and National Identity in the Works of Thomas Brightman </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(333).pdf" style="text-decoration:none;">François Truffaut and Friends: Modernism, Sexuality, and Film Adaptation</a></b></li>
+                               
    
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(334).pdf" style="text-decoration:none;">The Library at Night</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(335).pdf" style="text-decoration:none;">TORAH Queeries</a></b></li>
+                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(336).pdf" style="text-decoration:none;">The State of the Jesus: A Critical Appraisal </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(337).pdf" style="text-decoration:none;">Wrestling with God and Men</a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(338).pdf" style="text-decoration:none;">From Shtetl to Stardom: Jews and Hollywood </a></b></li>                                                           
+                                                     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(339).pdf" style="text-decoration:none;">Jews and Samaritans</a></b></li>
+                               
+      
    
    
    
