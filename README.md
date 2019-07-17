@@ -519,16 +519,16 @@
          
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(282).pdf" style="text-decoration:none;">My Germany: A Jewish Writer Returns to the World His Parents Escaped </a></b></li>
                                                                       
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(241).pdf" style="text-decoration:none;">On the Origins of Jewish Self-Hatred </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(283).pdf" style="text-decoration:none;">King David's Harp : Autobiographical Essays By Jewish Latin American Writers </a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(242).pdf" style="text-decoration:none;">Mysticism and Madness: The Religious Thought of Rabbi Nachman of Bratslav </a></b></li>                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(284).pdf" style="text-decoration:none;">Modern Jewish Women Writers in America </a></b></li>                               
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(243).pdf" style="text-decoration:none;">Interim Judaism </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(244).pdf" style="text-decoration:none;">Idolatry and Representation: The Philosophy of Franz Rosenzweig Reconsidered </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(285).pdf" style="text-decoration:none;">Imagining Lives: Autobiographical Fiction of Yiddish Writers </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(286).pdf" style="text-decoration:none;">The Tenement Saga</a></b></li>
                                
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(245).pdf" style="text-decoration:none;">The Jewish Social Contract: An Essay in Political Theology</a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(287).pdf" style="text-decoration:none;">Post-War Jewish Fiction: Ambivalence, Self-Explanation and Transatlantic Connections</a></b></li>   
    
    
    
