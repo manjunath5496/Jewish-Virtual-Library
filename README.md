@@ -547,7 +547,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(294).pdf" style="text-decoration:none;">Heidi Schorr: Millennial Memory Perspectives in Jewish American Fiction</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(295).pdf" style="text-decoration:none;">Chosen Capital: The Jewish Encounter with American Capitalism </a></b></li>
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(296).pdf" style="text-decoration:none;">Jewish Concepts of Scripture </a></b></li>                                                           
-                                
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(297).pdf" style="text-decoration:none;">Prof. Heinrich Graetz's History Of The Jews </a></b></li>                             
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(298).pdf" style="text-decoration:none;">The Chosen Game: A Jewish Basketball History </a></b></li>
                                
                                
@@ -557,6 +557,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(301).pdf" style="text-decoration:none;">The New Jew in Film: Exploring Jewishness and Judaism in Contemporary Cinema</a></b></li>
                           
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(302).pdf" style="text-decoration:none;">Lenin's Jewish Question </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(303).pdf" style="text-decoration:none;">Fallen Angels And The History Of Judaism And Christianity</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(304).pdf" style="text-decoration:none;">POYLN: My Life within Jewish Life in Poland, Sketches and Images</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(305).pdf" style="text-decoration:none;">Jewish Fundamentalism in Israel </a></b></li>
                                 
