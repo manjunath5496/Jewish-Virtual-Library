@@ -666,6 +666,7 @@
                                 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(360).pdf" style="text-decoration:none;">The Slopes of Lebanon: Amos Oz</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(361).pdf" style="text-decoration:none;">The Tent of Abraham: Stories of Hope and Peace for Jews, Christians, and Muslims </a></b></li>
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(362).pdf" style="text-decoration:none;">Shekhinah/Spirit: Divine Presence in Jewish and Christian Religion  </a></b></li> 
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(363).pdf" style="text-decoration:none;">Rosenfeld's Lives: Fame, Oblivion, and the Furies of Writing </a></b></li>                                                           
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(364).pdf" style="text-decoration:none;">The Question of Zion </a></b></li>
