@@ -712,8 +712,15 @@ Religious Ideologies and Non-Believing Jews </a></b></li>
       
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(387).pdf" style="text-decoration:none;">Messianism Among Jews And Christians </a></b></li>     
    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(388).pdf" style="text-decoration:none;">Jews in Nazi Berlin: From Kristallnacht to Liberation</a></b></li>
    
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(389).pdf" style="text-decoration:none;">Religious Violence between Christians and Jews </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(390).pdf" style="text-decoration:none;">Suddenly Jewish: Jews Raised as Gentiles Discover Their Jewish Roots </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(391).pdf" style="text-decoration:none;">Paul: Jew, Greek, and Roman </a></b></li>   
    
-   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(392).pdf" style="text-decoration:none;">Adolf Hitler - Founder of Israel: Israel in War With Jews </a></b></li>   
+     
  
  </ul>
