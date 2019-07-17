@@ -489,35 +489,35 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(265).pdf" style="text-decoration:none;">No Joke: Making Jewish Humor </a></b></li>
                                
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(224).pdf" style="text-decoration:none;">SPINOZA AND MEDIEVAL JEWISH PHILOSOPHY</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(266).pdf" style="text-decoration:none;">The Jewish Question: A Marxist Interpretation</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(225).pdf" style="text-decoration:none;">Rosenzweig and Heidegger: Between Judaism and German Philosophy</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(226).pdf" style="text-decoration:none;">Imaginary Neighbors: Mediating Polish-Jewish Relations After the Holocaust</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(267).pdf" style="text-decoration:none;">Willkommen und Abschied: Thirty-Five Years of German Writers-in-Residence at Oberlin College</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(268).pdf" style="text-decoration:none;">A TIME OUT OF JOINT: A Journey from Nazi Germany to Post-War Britain</a></b></li>
                                 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(227).pdf" style="text-decoration:none;">The Finkler Question</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(228).pdf" style="text-decoration:none;">Leo Strauss and the Politics of Exile </a></b></li>
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(229).pdf" style="text-decoration:none;">Maimonides in His World </a></b></li>                                                           
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(269).pdf" style="text-decoration:none;">The Hare with Amber Eyes: A HIDDEN INHERITANCE</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(270).pdf" style="text-decoration:none;">GERMAN TEXT CRIMES </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(271).pdf" style="text-decoration:none;">Antonio's Devils: Writers of the Jewish Enlightenment and the Birth of Modern Hebrew and Yiddish Literature </a></b></li>                                                           
                                 
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(230).pdf" style="text-decoration:none;">Einstein's Jewish Science: Physics at the Intersection of Politics and Religion </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(231).pdf" style="text-decoration:none;">Why Aren't Jewish Women Circumcised? </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(272).pdf" style="text-decoration:none;">Contemporary Jewish Writing in Europe </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(273).pdf" style="text-decoration:none;">Jewish Renaissance in the Russian Revolution </a></b></li>
                                
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(232).pdf" style="text-decoration:none;">Political Philosophy and the God of Abraham</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(233).pdf" style="text-decoration:none;"> Hannah Arendt and the Jewish Question </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(274).pdf" style="text-decoration:none;">My Future Is in America</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(275).pdf" style="text-decoration:none;"> Exiles on Main Street: Jewish American Writers and American Literary Culture </a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(234).pdf" style="text-decoration:none;">Ninety Two Poems and Hymns of Yehuda Halevi</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(276).pdf" style="text-decoration:none;">The Jewel Trader of Pegu: A Novel</a></b></li>
                           
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(235).pdf" style="text-decoration:none;">The Jews as a Chosen People </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(236).pdf" style="text-decoration:none;">The Sensual God: How the Senses Make the Almighty Senseless</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(237).pdf" style="text-decoration:none;">Spinoza's Heresy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(277).pdf" style="text-decoration:none;">African, Native, and Jewish American Literature and the Reshaping of Modernism </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(278).pdf" style="text-decoration:none;">Jewish Questions: Responsa on Sephardic Life in the Early Modern Period</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(279).pdf" style="text-decoration:none;">The Jewish Divide Over Israel: Accusers and Defenders </a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(238).pdf" style="text-decoration:none;">A Just Zionism: On the Morality of the Jewish State</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(280).pdf" style="text-decoration:none;">The Ambivalent Author: Five German Writers and their Jewish Characters, 1848–1914</a></b></li>  
         
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(239).pdf" style="text-decoration:none;">Autonomy in Jewish Philosophy </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(281).pdf" style="text-decoration:none;">Leon Trotsky: A Revolutionary's Life </a></b></li>
                                        
          
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(240).pdf" style="text-decoration:none;">Beyond the Walls: Abraham Joshua Heschel and Edith Stein on the Significance of Empathy for Jewish-Christian Dialo </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(282).pdf" style="text-decoration:none;">My Germany: A Jewish Writer Returns to the World His Parents Escaped </a></b></li>
                                                                       
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(241).pdf" style="text-decoration:none;">On the Origins of Jewish Self-Hatred </a></b></li>
                                        
