@@ -668,12 +668,19 @@
                                 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(360).pdf" style="text-decoration:none;">The Slopes of Lebanon: Amos Oz</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(361).pdf" style="text-decoration:none;">The Tent of Abraham: Stories of Hope and Peace for Jews, Christians, and Muslims </a></b></li>
-                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(362).pdf" style="text-decoration:none;">Shekhinah/Spirit: Divine Presence in Jewish and Christian Religion  </a></b></li> 
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(362).pdf" style="text-decoration:none;">Shekhinah / Spirit: Divine Presence in Jewish and Christian Religion  </a></b></li> 
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(363).pdf" style="text-decoration:none;">Rosenfeld's Lives: Fame, Oblivion, and the Furies of Writing </a></b></li>                                                           
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(364).pdf" style="text-decoration:none;">The Question of Zion </a></b></li>
                                
-                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(365).pdf" style="text-decoration:none;">Jewish Reception of Greek Bible Versions. Studies in Their Use in Late Antiquity and the Middle Ages</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(366).pdf" style="text-decoration:none;">Jews, Christians and Polytheists in the Ancient Synagogue </a></b></li>
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(367).pdf" style="text-decoration:none;">The Quest for the Historical Israel: Archaeology and the History of Early Israel  </a></b></li> 
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(368).pdf" style="text-decoration:none;">Simon the High Priest in Sirach 50: An Exegetical Study of the Significance of Simon the High Priest as Climax
+to the Praise of the Fathers in Ben Sira's Concept of the History of Israel </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(369).pdf" style="text-decoration:none;">Revealing the Mysterion: The Use of Mystery in Daniel and Second Temple Judaism with Its Bearing on First Corinthians </a></b></li>
+                                                              
 
    
    
