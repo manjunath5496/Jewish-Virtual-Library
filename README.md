@@ -681,9 +681,15 @@ to the Praise of the Fathers in Ben Sira's Concept of the History of Israel </a>
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(369).pdf" style="text-decoration:none;">Revealing the Mysterion: The Use of Mystery in Daniel and Second Temple Judaism with Its Bearing on First Corinthians </a></b></li>
                                                               
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(370).pdf" style="text-decoration:none;">Building Jewish in the Roman East </a></b></li>
+                                           <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(371).pdf" style="text-decoration:none;">From Sermon to Commentary: Expounding the Bible in Talmudic Babylonia </a></b></li> 
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(372).pdf" style="text-decoration:none;">Judaism as a Civilization: Toward a Reconstruction of American-Jewish Life </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(373).pdf" style="text-decoration:none;">Normative and Sectarian Judaism in the Second Temple Period </a></b></li>
    
-   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(374).pdf" style="text-decoration:none;">The Life of Judaism </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(375).pdf" style="text-decoration:none;">The Origins of Seder: The Passover Rite and Early Rabbinic Judaism </a></b></li>   
    
    
    
