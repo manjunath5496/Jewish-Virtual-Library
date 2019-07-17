@@ -451,6 +451,104 @@
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(245).pdf" style="text-decoration:none;">The Jewish Social Contract: An Essay in Political Theology</a></b></li>
                                
+   
+  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(246).pdf" style="text-decoration:none;">The Jews of France Today</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(247).pdf" style="text-decoration:none;">LAW, POLITICS, AND MORALITY IN JUDAISM</a></b></li>
+                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(248).pdf" style="text-decoration:none;">Walter Benjamin: An Introduction to His Work and Thought</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(249).pdf" style="text-decoration:none;">The Wandering Who? A Study of Jewish Identity Politics</a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(250).pdf" style="text-decoration:none;">Scholem, Arendt, Klemperer Intimate Chronicles in Turbulent Times </a></b></li>                                                           
+                                                     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(251).pdf" style="text-decoration:none;">Politics in the Hebrew Bible </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(252).pdf" style="text-decoration:none;">The Talmud's Theological Language-Game </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(253).pdf" style="text-decoration:none;">Faith and Freedom: Moses Mendelssohn's Theological-Political Thought</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(254).pdf" style="text-decoration:none;"> Towards a Jewish-Christian-Muslim Theology </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(255).pdf" style="text-decoration:none;">Lingering Bilingualism: Modern Hebrew and Yiddish Literatures in Contact</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(256).pdf" style="text-decoration:none;">Russian Idea-Jewish Presence: Essays on Russian-Jewish Intellectual Life </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(257).pdf" style="text-decoration:none;">Credit and Debt in Medieval England c.1180-c.1350</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(258).pdf" style="text-decoration:none;">Jewish Russians </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(259).pdf" style="text-decoration:none;">Stalin's Secret Pogrom: The Postwar Inquisition of the Jewish Anti-Fascist Committee</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(260).pdf" style="text-decoration:none;">Jewish Presences </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(261).pdf" style="text-decoration:none;">Jewish Writers of the Twentieth Century </a></b></li>
                                                                       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(262).pdf" style="text-decoration:none;">Acting Jewish: Negotiating Ethnicity on the American Stage and Screen </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(263).pdf" style="text-decoration:none;">The Quest for Jewish Belief and Identity in the Graphic Novel </a></b></li>                               
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(264).pdf" style="text-decoration:none;">CITY OF ORANGES: Arabs and Jews in Jaffa </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(265).pdf" style="text-decoration:none;">No Joke: Making Jewish Humor </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(224).pdf" style="text-decoration:none;">SPINOZA AND MEDIEVAL JEWISH PHILOSOPHY</a></b></li>
+                               
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(225).pdf" style="text-decoration:none;">Rosenzweig and Heidegger: Between Judaism and German Philosophy</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(226).pdf" style="text-decoration:none;">Imaginary Neighbors: Mediating Polish-Jewish Relations After the Holocaust</a></b></li>
+                                
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(227).pdf" style="text-decoration:none;">The Finkler Question</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(228).pdf" style="text-decoration:none;">Leo Strauss and the Politics of Exile </a></b></li>
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(229).pdf" style="text-decoration:none;">Maimonides in His World </a></b></li>                                                           
+                                
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(230).pdf" style="text-decoration:none;">Einstein's Jewish Science: Physics at the Intersection of Politics and Religion </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(231).pdf" style="text-decoration:none;">Why Aren't Jewish Women Circumcised? </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(232).pdf" style="text-decoration:none;">Political Philosophy and the God of Abraham</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(233).pdf" style="text-decoration:none;"> Hannah Arendt and the Jewish Question </a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(234).pdf" style="text-decoration:none;">Ninety Two Poems and Hymns of Yehuda Halevi</a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(235).pdf" style="text-decoration:none;">The Jews as a Chosen People </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(236).pdf" style="text-decoration:none;">The Sensual God: How the Senses Make the Almighty Senseless</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(237).pdf" style="text-decoration:none;">Spinoza's Heresy </a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(238).pdf" style="text-decoration:none;">A Just Zionism: On the Morality of the Jewish State</a></b></li>  
+        
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(239).pdf" style="text-decoration:none;">Autonomy in Jewish Philosophy </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(240).pdf" style="text-decoration:none;">Beyond the Walls: Abraham Joshua Heschel and Edith Stein on the Significance of Empathy for Jewish-Christian Dialo </a></b></li>
+                                                                      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(241).pdf" style="text-decoration:none;">On the Origins of Jewish Self-Hatred </a></b></li>
+                                       
+         
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(242).pdf" style="text-decoration:none;">Mysticism and Madness: The Religious Thought of Rabbi Nachman of Bratslav </a></b></li>                               
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(243).pdf" style="text-decoration:none;">Interim Judaism </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(244).pdf" style="text-decoration:none;">Idolatry and Representation: The Philosophy of Franz Rosenzweig Reconsidered </a></b></li>
+                               
+                               
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(245).pdf" style="text-decoration:none;">The Jewish Social Contract: An Essay in Political Theology</a></b></li>   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
  
  </ul>
