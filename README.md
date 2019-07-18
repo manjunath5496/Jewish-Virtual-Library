@@ -39,7 +39,7 @@
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(1).pdf" style="text-decoration:none;">The Four Stages of Rabbinic Judaism </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(2).pdf" style="text-decoration:none;">Bible Stories from the Old Testament </a></b></li>
-                               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(3).pdf" style="text-decoration:none;">Samuel And His God </a></b></li>                              
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(4).rar" style="text-decoration:none;">David, King of Israel: His Life and Its Lessons</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(5).pdf" style="text-decoration:none;"> The Book of Deuteronomy </a></b></li>
