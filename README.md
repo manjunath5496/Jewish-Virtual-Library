@@ -16,9 +16,9 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_politics" title="List of Jewish politicians">List of Jewish politicians</a></li>
 </ul>
 
+</br>
 
-
-
+<p><strong>Books:</strong></p>
 
 <hr>
 
