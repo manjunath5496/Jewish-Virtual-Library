@@ -838,11 +838,32 @@ Modern Europe</a></b></li>
        
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(428).pdf" style="text-decoration:none;">The Jewish Fake Book </a></b></li>   
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(429).pdf" style="text-decoration:none;">God Laughed: Sources of Jewish Humor </a></b></li>   
  
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(430).pdf" style="text-decoration:none;">A Jewish Guide to Death and Mourning in Champaign-Urbana</a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(431).pdf" style="text-decoration:none;">The Devil's Arithmetic</a></b></li>   
  
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(432).pdf" style="text-decoration:none;">Living Judaism: The Complete Guide to Jewish Belief, Tradition, and Practice</a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(433).pdf" style="text-decoration:none;">The Diary Of A Young Girl: Definitive Edition </a></b></li>   
  
+       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(434).pdf" style="text-decoration:none;">Jewish Ritual, Reality and Response at the End of Life </a></b></li>  
  
+       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(435).pdf" style="text-decoration:none;"> A Guide to Jewish Religious Practice </a></b></li>   
+ 
+       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(436).pdf" style="text-decoration:none;">Wealth And Poverty Of Nations: Why Some Are So Rich And Some So Poor </a></b></li>  
+ 
+        
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(437).pdf" style="text-decoration:none;"> THE LEGENDS OF THE JEWS </a></b></li>   
+ 
+       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(438).pdf" style="text-decoration:none;">Modern Perspectives on Medical Halacha </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(439).pdf" style="text-decoration:none;">Heretics </a></b></li>  
  
  </ul>
