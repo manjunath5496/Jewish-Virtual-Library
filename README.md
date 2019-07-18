@@ -25,6 +25,9 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_fictional_Jews" title="List of fictional Jews">List of fictional Jews</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Lists_of_Jews_associated_with_the_visual_arts" title="List of Jewish artists">List of Jewish artists</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_sports" title="List of Jewish athletes">List of Jewish athletes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lists_of_Jews_associated_with_literature_and_journalism" title="List of Jewish writers">List of Jewish writers</a></li>
+
+
 </ul>
 
 </br>
