@@ -723,4 +723,52 @@ Religious Ideologies and Non-Believing Jews </a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(392).pdf" style="text-decoration:none;">Adolf Hitler - Founder of Israel: Israel in War With Jews </a></b></li>   
      
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(393).pdf" style="text-decoration:none;">Henry Ford's War on Jews and the Legal Battle Against Hate Speech</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(394).pdf" style="text-decoration:none;">Jews, Slaves, and the Slave Trade </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(395).pdf" style="text-decoration:none;">The Jewish Phenomenon: Seven Keys to the Enduring Wealth of a People </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(396).pdf" style="text-decoration:none;">JEWISH DOCTORS meet the GREAT PHYSICIAN </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(397).pdf" style="text-decoration:none;">The Popes Against the Jews </a></b></li>   
+     
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(398).pdf" style="text-decoration:none;">Anti-Semite and Jew</a></b></li>
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(399).pdf" style="text-decoration:none;">The Jews Against Rome </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(400).pdf" style="text-decoration:none;">Learned Ignorance: Intellectual Humility among Jews, Christians, and Muslims </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(401).pdf" style="text-decoration:none;">The Rag Race: How Jews Sewed Their Way to Success in America and the British Empire </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(402).pdf" style="text-decoration:none;">The Wiley-Blackwell History of Jews and Judaism </a></b></li>   
+      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(403).pdf" style="text-decoration:none;">The Jews in the Secret Nazi Reports on Popular Opinion in Germany, 1933–1945 </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(404).pdf" style="text-decoration:none;">Russian Jews Between the Reds and the Whites, 1917– 1920 </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(405).pdf" style="text-decoration:none;">Jews Must Live: An Account of the Persecution of the World by Israel on All the Frontiers of Civilization </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(406).pdf" style="text-decoration:none;">Nazi Palestine: The Plans for the Extermination of the Jews in Palestine </a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(407).pdf" style="text-decoration:none;">Antiquities of the Jews </a></b></li>   
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
