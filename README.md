@@ -16,8 +16,6 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_politics" title="List of Jewish politicians">List of Jewish politicians</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_anarchists" title="List of Jewish anarchists">List of Jewish anarchists</a></li>
 
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_anarchists" title="List of Jewish anarchists">List of Jewish anarchists</a></li>
-
 <li><a href="https://en.wikipedia.org/wiki/List_of_High_Priests_of_Israel" title="List of High Priests of Israel">List of High Priests of Israel</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_atheists_and_agnostics" title="List of Jewish atheists and agnostics">List of Jewish atheists and agnostics</a></li>
 
