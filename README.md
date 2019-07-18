@@ -865,5 +865,11 @@ Modern Europe</a></b></li>
        
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(438).pdf" style="text-decoration:none;">Modern Perspectives on Medical Halacha </a></b></li>  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(439).pdf" style="text-decoration:none;">Heretics </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(440).pdf" style="text-decoration:none;">On the Jews and Their Lies </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(441).pdf" style="text-decoration:none;">The Jews and Modern Capitalism </a></b></li> 
+ 
+ 
+ 
+ 
  
  </ul>
