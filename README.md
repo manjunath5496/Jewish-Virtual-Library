@@ -1,11 +1,26 @@
 
+<ul>
+
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_biblical_figures" title="List of Jewish biblical figures">List of Jewish biblical figures</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates" title="List of Jewish Nobel laureates">List of Jewish Nobel laureates</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_mathematicians" title="List of Jewish mathematicians">List of Jewish mathematicians</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_economists" title="List of Jewish economists">List of Jewish economists</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_historians" title="List of Jewish historians">List of Jewish historians</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_scientists_and_philosophers" class="mw-redirect" title="List of Jewish scientists and philosophers">List of Jewish scientists and philosophers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_astronauts" title="List of Jewish astronauts">List of Jewish astronauts</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_feminists" title="List of Jewish feminists">List of Jewish feminists</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_United_States_Supreme_Court_justices" class="mw-redirect" title="List of Jewish United States Supreme Court justices">List of Jewish United States Supreme Court justices</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_actors" title="List of Jewish actors">List of Jewish actors</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_musicians" title="List of Jewish musicians">List of Jewish musicians</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_fictional_Jews" title="List of fictional Jews">List of fictional Jews</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_politics" title="List of Jewish politicians">List of Jewish politicians</a></li>
+</ul>
 
 
 
 
 
-
-
+<hr>
 
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(1).pdf" style="text-decoration:none;">The Four Stages of Rabbinic Judaism </a></b></li>
