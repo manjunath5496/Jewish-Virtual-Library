@@ -783,14 +783,46 @@ Religious Ideologies and Non-Believing Jews </a></b></li>
       
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(410).pdf" style="text-decoration:none;">Judaism's Story Of Creation </a></b></li>   
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(411).pdf" style="text-decoration:none;">Approaches to Jewish Literacy: An Exploration of Purpose and Values within Jewish Learning for Jewish Leaders </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(412).pdf" style="text-decoration:none;">Jewish believers in Jesus</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(413).pdf" style="text-decoration:none;">Understanding Jewish Influence: A Study in Ethnic Activism </a></b></li>   
+      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(414).pdf" style="text-decoration:none;">The Babylonian Talmud </a></b></li>                                                           
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(415).pdf" style="text-decoration:none;">The Greatest Achievement in Life: Five traditions of mysticism, Mystical approaches to life </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(416).pdf" style="text-decoration:none;">Thus Spoke Zarathustra </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(417).pdf" style="text-decoration:none;">Cultivating Inner Peace </a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(418).pdf" style="text-decoration:none;">Data Integrity Patterns of the Torah </a></b></li>   
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(419).pdf" style="text-decoration:none;">An Introduction to the Kabbalah </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(420).pdf" style="text-decoration:none;">Kabbalah Meditation from Torah to Self-improvement to Prophecy </a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(421).pdf" style="text-decoration:none;">The War of the Jews: The History of the Destruction of Jerusalem </a></b></li>   
+ 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(422).pdf" style="text-decoration:none;">The Same History is not the Same Story: Jewish History and Jewish Politics</a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(423).pdf" style="text-decoration:none;">THE TORAH: A Modern Commentary </a></b></li>   
  
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(424).pdf" style="text-decoration:none;">The People and the Book: Print and the Transformation of Jewish Culture in Early
+Modern Europe</a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(425).pdf" style="text-decoration:none;">Marriage, Divorce, and the Abandoned Wife in Jewish Law </a></b></li>   
  
  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(426).pdf" style="text-decoration:none;">The Invention of the Jewish People</a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(427).pdf" style="text-decoration:none;">Sketches of Jewish Social Life </a></b></li>   
  
- 
- 
- 
+       
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(428).pdf" style="text-decoration:none;">The Jewish Fake Book </a></b></li>   
  
  
  
