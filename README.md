@@ -777,7 +777,11 @@ Religious Ideologies and Non-Believing Jews </a></b></li>
       
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(407).pdf" style="text-decoration:none;">Antiquities of the Jews </a></b></li>   
       
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(408).pdf" style="text-decoration:none;">Jacob and the Divine Trickster </a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(409).pdf" style="text-decoration:none;">The Secret Powers Behind Revolution: Freemasonry And Judaism </a></b></li>   
+      
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Virtual-Library/blob/master/jv(410).pdf" style="text-decoration:none;">Judaism's Story Of Creation </a></b></li>   
  
  
  
