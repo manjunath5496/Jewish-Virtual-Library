@@ -22,7 +22,7 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_atheists_and_agnostics" title="List of Jewish atheists and agnostics">List of Jewish atheists and agnostics</a></li>
 
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_mysticism_scholars" title="List of Jewish mysticism scholars">List of Jewish mysticism scholars</a></li>
-
+<li><a href="https://en.wikipedia.org/wiki/List_of_fictional_Jews" title="List of fictional Jews">List of fictional Jews</a></li>
 </ul>
 
 </br>
