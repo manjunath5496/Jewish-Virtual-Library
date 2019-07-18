@@ -21,7 +21,7 @@
 <li><a href="https://en.wikipedia.org/wiki/List_of_High_Priests_of_Israel" title="List of High Priests of Israel">List of High Priests of Israel</a></li>
 <li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_atheists_and_agnostics" title="List of Jewish atheists and agnostics">List of Jewish atheists and agnostics</a></li>
 
-
+<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_mysticism_scholars" title="List of Jewish mysticism scholars">List of Jewish mysticism scholars</a></li>
 
 </ul>
 
