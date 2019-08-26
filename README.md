@@ -1,29 +1,11 @@
 
 <ul>
 
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_biblical_figures" title="List of Jewish biblical figures">List of Jewish biblical figures</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_Nobel_laureates" title="List of Jewish Nobel laureates">List of Jewish Nobel laureates</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_mathematicians" title="List of Jewish mathematicians">List of Jewish mathematicians</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_economists" title="List of Jewish economists">List of Jewish economists</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_historians" title="List of Jewish historians">List of Jewish historians</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_scientists_and_philosophers" class="mw-redirect" title="List of Jewish scientists and philosophers">List of Jewish scientists and philosophers</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_astronauts" title="List of Jewish astronauts">List of Jewish astronauts</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_feminists" title="List of Jewish feminists">List of Jewish feminists</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_United_States_Supreme_Court_justices" class="mw-redirect" title="List of Jewish United States Supreme Court justices">List of Jewish United States Supreme Court justices</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_actors" title="List of Jewish actors">List of Jewish actors</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_musicians" title="List of Jewish musicians">List of Jewish musicians</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_fictional_Jews" title="List of fictional Jews">List of fictional Jews</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_politics" title="List of Jewish politicians">List of Jewish politicians</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_anarchists" title="List of Jewish anarchists">List of Jewish anarchists</a></li>
-
-<li><a href="https://en.wikipedia.org/wiki/List_of_High_Priests_of_Israel" title="List of High Priests of Israel">List of High Priests of Israel</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_atheists_and_agnostics" title="List of Jewish atheists and agnostics">List of Jewish atheists and agnostics</a></li>
-
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jewish_mysticism_scholars" title="List of Jewish mysticism scholars">List of Jewish mysticism scholars</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_fictional_Jews" title="List of fictional Jews">List of fictional Jews</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lists_of_Jews_associated_with_the_visual_arts" title="List of Jewish artists">List of Jewish artists</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Jews_in_sports" title="List of Jewish athletes">List of Jewish athletes</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lists_of_Jews_associated_with_literature_and_journalism" title="List of Jewish writers">List of Jewish writers</a></li>
+<li><a href="https://github.com/manjunath5496/Jewish-Sacred-Texts/blob/master/README.md">Jewish Sacred Texts</a></li>
+<li><a href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/README.md">Jewish Biographies</a></li>
+<li><a href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/README.md">114 Eye Opening Books About the Holocaust</a></li>
+<li><a href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/README.md">The Best Books on Jewish History</a></li>
+<li><a href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/README.md">Books about Jews and Judaism</a></li>
 
 
 </ul>
