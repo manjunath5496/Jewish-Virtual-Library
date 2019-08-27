@@ -6,7 +6,7 @@
 <li><a href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/README.md">114 Eye Opening Books About the Holocaust</a></li>
 <li><a href="https://github.com/manjunath5496/The-Best-Books-on-Jewish-History/blob/master/README.md">The Best Books on Jewish History</a></li>
 <li><a href="https://github.com/manjunath5496/Books-about-Jews-and-Judaism/blob/master/README.md">Books about Jews and Judaism</a></li>
-
+<li><a href="https://github.com/manjunath5496/Books-From-Frankism-to-Sabbateanism/blob/master/README.md">Books From Frankism to Sabbateanism</a></li>
 
 </ul>
 
