@@ -9,6 +9,7 @@
 <li><a href="https://github.com/manjunath5496/Books-From-Frankism-to-Sabbateanism/blob/master/README.md">Books From Frankism to Sabbateanism</a></li>
 <li><a href="https://github.com/manjunath5496/Books-and-articles-about-Jewish-Rites-and-Customs/blob/master/README.md">Books and articles about Jewish Rites and Customs</a></li>
 <li><a href="https://github.com/manjunath5496/Books-about-Zionism/blob/master/README.md">Books about Zionism</a></li>
+<li><a href="https://github.com/manjunath5496/Antisemitism-Books/blob/master/README.md">Antisemitism Books</a></li>
 </ul>
 
 </br>
