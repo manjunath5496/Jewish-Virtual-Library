@@ -13,6 +13,7 @@
 <li><a href="https://github.com/manjunath5496/12-Jewish-Fiction-Books-Everyone-Should-Read/blob/master/README.md">12 Jewish Fiction Books Everyone Should Read</a></li>
 <li><a href="https://github.com/manjunath5496/3-Cognitive-Science-Books-That-Teach-Jewish-Ideas/blob/master/README.md">3 Cognitive Science Books That Teach Jewish Ideas</a></li>
 <li><a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/README.md">Jewish Nobel Lectures</a></li>
+<li><a href="https://github.com/manjunath5496/Jewish-Science-Books/blob/master/README.md">Jewish Science Books</a></li>
 </ul>
 
 </br>
