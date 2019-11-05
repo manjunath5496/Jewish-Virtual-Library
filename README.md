@@ -15,6 +15,7 @@
 <li><a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/README.md">Jewish Nobel Lectures</a></li>
 <li><a href="https://github.com/manjunath5496/Jewish-Science-Books/blob/master/README.md">Jewish Science Books</a></li>
 <li><a href="https://github.com/manjunath5496/Moses-Mendelssohn-Books/blob/master/README.md">Moses Mendelssohn Books</a></li>
+<li><a href="https://github.com/manjunath5496/Baruch-Spinoza-Books/blob/master/README.md">Baruch Spinoza Books</a></li>
 </ul>
 
 </br>
