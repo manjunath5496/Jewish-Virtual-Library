@@ -4,7 +4,7 @@
 <p>Jews are an&nbsp;<a title="Ethnoreligious group" href="https://en.wikipedia.org/wiki/Ethnoreligious_group">ethnoreligious group</a>&nbsp;including those born Jewish, in addition to&nbsp;<a class="mw-redirect" title="Converts to Judaism" href="https://en.wikipedia.org/wiki/Converts_to_Judaism">converts to Judaism</a>. In 2015, the&nbsp;<a title="Jewish population by country" href="https://en.wikipedia.org/wiki/Jewish_population_by_country">world Jewish population</a>&nbsp;was estimated at about 14.3&nbsp;million, or roughly 0.2% of the total world population.&nbsp;About 43% of all Jews reside in Israel and another 43% reside in the United States and Canada, with most of the remainder living in Europe, and other minority groups spread throughout Latin America, Asia, Africa, and Australia.</p>
 
 </br>
-<img src="1.jpg" alt="Smiley face" height="270" width="270">
+<img src="1.jpg" alt="Jews" height="270" width="270">
 
 </br>
 <div class="toctitle" dir="ltr" lang="en">
