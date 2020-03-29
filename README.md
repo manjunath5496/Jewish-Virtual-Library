@@ -3,6 +3,68 @@
 <p>Judaism has its roots as an&nbsp;<a title="Organized religion" href="https://en.wikipedia.org/wiki/Organized_religion">organized religion</a>&nbsp;in the&nbsp;<a title="Middle East" href="https://en.wikipedia.org/wiki/Middle_East">Middle East</a>&nbsp;during the&nbsp;<a title="Bronze Age" href="https://en.wikipedia.org/wiki/Bronze_Age">Bronze Age</a>.&nbsp;It evolved from ancient Israelite religions around 500 BCE,&nbsp;and is considered one of the oldest monotheistic religions.&nbsp;The&nbsp;<a title="Hebrews" href="https://en.wikipedia.org/wiki/Hebrews">Hebrews</a>&nbsp;and&nbsp;<a title="Israelites" href="https://en.wikipedia.org/wiki/Israelites">Israelites</a>&nbsp;were already referred to as "Jews" in later books of the Tanakh such as the&nbsp;<a title="Book of Esther" href="https://en.wikipedia.org/wiki/Book_of_Esther">Book of Esther</a>, with the term Jews replacing the title "Children of Israel".&nbsp;Judaism's texts, traditions and values strongly influenced later&nbsp;<a title="Abrahamic religions" href="https://en.wikipedia.org/wiki/Abrahamic_religions">Abrahamic religions</a>, including&nbsp;<a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a>,&nbsp;<a title="Islam" href="https://en.wikipedia.org/wiki/Islam">Islam</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="Baha'i Faith" href="https://en.wikipedia.org/wiki/Baha%27i_Faith">Baha'i Faith</a>.&nbsp;Many aspects of Judaism have also directly or indirectly influenced&nbsp;<a class="mw-redirect" title="Secular" href="https://en.wikipedia.org/wiki/Secular">secular</a>&nbsp;<a title="Western world" href="https://en.wikipedia.org/wiki/Western_world">Western</a>&nbsp;<a title="Ethics" href="https://en.wikipedia.org/wiki/Ethics">ethics</a>&nbsp;and&nbsp;<a title="Civil law (legal system)" href="https://en.wikipedia.org/wiki/Civil_law_(legal_system)">civil law</a>.&nbsp;<a title="Hebraism" href="https://en.wikipedia.org/wiki/Hebraism">Hebraism</a>&nbsp;was just as important a factor in the ancient era development of&nbsp;<a class="mw-redirect" title="Western civilization" href="https://en.wikipedia.org/wiki/Western_civilization">Western civilization</a>&nbsp;as&nbsp;<a class="extiw" title="wikt:Hellenism" href="https://en.wiktionary.org/wiki/Hellenism">Hellenism</a>, and Judaism, as the background of&nbsp;<a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a>, has considerably shaped Western ideals and morality since&nbsp;<a class="mw-redirect" title="Early Christianity" href="https://en.wikipedia.org/wiki/Early_Christianity">Early Christianity</a>.</p>
 <p>Jews are an&nbsp;<a title="Ethnoreligious group" href="https://en.wikipedia.org/wiki/Ethnoreligious_group">ethnoreligious group</a>&nbsp;including those born Jewish, in addition to&nbsp;<a class="mw-redirect" title="Converts to Judaism" href="https://en.wikipedia.org/wiki/Converts_to_Judaism">converts to Judaism</a>. In 2015, the&nbsp;<a title="Jewish population by country" href="https://en.wikipedia.org/wiki/Jewish_population_by_country">world Jewish population</a>&nbsp;was estimated at about 14.3&nbsp;million, or roughly 0.2% of the total world population.&nbsp;About 43% of all Jews reside in Israel and another 43% reside in the United States and Canada, with most of the remainder living in Europe, and other minority groups spread throughout Latin America, Asia, Africa, and Australia.</p>
 
+</br>
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pre-monarchic_period"><span class="toctext">Pre-monarchic period</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Monarchic_period"><span class="toctext">Monarchic period</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Return_from_captivity"><span class="toctext">Return from captivity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Development_of_Rabbinic_Judaism"><span class="toctext">Development of Rabbinic Judaism</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Sacred_texts"><span class="toctext">Sacred texts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Written_Torah"><span class="toctext">Written Torah</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Oral_Torah"><span class="toctext">Oral Torah</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Rabbinic_literature"><span class="toctext">Rabbinic literature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Mishnaic_literature"><span class="toctext">Mishnaic literature</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#The_Midrash"><span class="toctext">The Midrash</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Later_works_by_category"><span class="toctext">Later works by category</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Liturgy"><span class="toctext">Liturgy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Later_rabbinic_works_by_historical_period"><span class="toctext">Later rabbinic works by historical period</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Works_of_the_Geonim"><span class="toctext">Works of the Geonim</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Works_of_the_Rishonim_(the_%22early%22_rabbinical_commentators)"><span class="toctext">Works of the&nbsp;<em>Rishonim</em>&nbsp;(the "early" rabbinical commentators)</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Works_of_the_Acharonim_(the_%22later%22_rabbinical_commentators)"><span class="toctext">Works of the&nbsp;<em>Acharonim</em>&nbsp;(the "later" rabbinical commentators)</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Meforshim"><span class="toctext">Meforshim</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Classic_Torah_and_Talmud_commentaries"><span class="toctext">Classic Torah and Talmud commentaries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Branches_and_denominations"><span class="toctext">Branches and denominations</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Behavior_and_experience"><span class="toctext">Behavior and experience</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Holy_days_and_observances"><span class="toctext">Holy days and observances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Belief_and_doctrine"><span class="toctext">Belief and doctrine</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#Law"><span class="toctext">Law</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Examples_of_legal_principles"><span class="toctext">Examples of legal principles</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Dietary_laws_and_customs"><span class="toctext">Dietary laws and customs</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#Names_of_God"><span class="toctext">Names of God</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#Mysticism_and_the_esoteric"><span class="toctext">Mysticism and the esoteric</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#Religious_articles_and_prayers"><span class="toctext">Religious articles and prayers</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#Conversion"><span class="toctext">Conversion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-43"><a href="#Return_to_Judaism"><span class="toctext">Return to Judaism</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Apostasy"><span class="toctext">Apostasy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-45"><a href="#Interactions_with_other_religions_and_cultures"><span class="toctext">Interactions with other religions and cultures</span></a></li>
+</ul>
+</br>
 
 
 
