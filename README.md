@@ -66,9 +66,744 @@
 </ul>
 </br>
 
+<h2><span id="History" class="mw-headline">History</span></h2>
+<ul>
+<li><a title="Origins of Judaism" href="https://en.wikipedia.org/wiki/Origins_of_Judaism">Origins of Judaism</a></li>
+<li><a title="Jewish history" href="https://en.wikipedia.org/wiki/Jewish_history">Jewish history</a></li>
+</ul>
+<h3><span id="Pre-monarchic_period" class="mw-headline">Pre-monarchic period</span></h3>
+<ul>
+<li><a class="mw-redirect" title="Ugaritic mythology" href="https://en.wikipedia.org/wiki/Ugaritic_mythology">Ugaritic mythology</a>&nbsp;&ndash; The Levant region was inhabited by people who themselves referred to the land as 'ca-na-na-um' as early as the mid-third millennium BCE</li>
+<li><a class="mw-redirect" title="Ancient semitic religion" href="https://en.wikipedia.org/wiki/Ancient_semitic_religion">Ancient semitic religions</a>&nbsp;&ndash; The term ancient Semitic religion encompasses the polytheistic religions of the Semitic speaking peoples of the ancient Near East and Northeast Africa. Its origins are intertwined with Mesopotamian mythology.</li>
+<li><a title="El (deity)" href="https://en.wikipedia.org/wiki/El_(deity)">El (deity)</a>&nbsp;&ndash; the supreme god of the&nbsp;<a class="mw-redirect" title="Canaanite religion" href="https://en.wikipedia.org/wiki/Canaanite_religion">Canaanite religion</a>&nbsp;and the supreme god of the Mesopotamian Semites in the&nbsp;<a title="Sargon of Akkad" href="https://en.wikipedia.org/wiki/Sargon_of_Akkad">pre-Sargonic</a>&nbsp;period.</li>
+<li><a title="Elyon" href="https://en.wikipedia.org/wiki/Elyon">Elyon</a>&nbsp;&ndash; "God Most High"</li>
+<li><a title="El Shaddai" href="https://en.wikipedia.org/wiki/El_Shaddai">El Shaddai</a>&nbsp;&ndash; "God Almighty"</li>
+<li><a title="Elohim" href="https://en.wikipedia.org/wiki/Elohim">Elohim</a>&nbsp;&ndash; a grammatically singular or plural noun for "god" or "gods" in both modern and ancient Hebrew language.</li>
+<li><a title="Asherah" href="https://en.wikipedia.org/wiki/Asherah">Asherah</a>&nbsp;&ndash; a Semitic mother goddess, the wife or consort of the Sumerian&nbsp;<a title="Anu" href="https://en.wikipedia.org/wiki/Anu">Anu</a>&nbsp;or Ugaritic&nbsp;<a title="El (deity)" href="https://en.wikipedia.org/wiki/El_(deity)">El</a>, the oldest deities of their pantheons</li>
+<li><a title="Baal" href="https://en.wikipedia.org/wiki/Baal">Baal</a>&nbsp;&ndash; a Northwest Semitic title and honorific meaning "master" or "lord" that is used for various gods who were patrons of cities in the Levant and Asia Minor</li>
+<li><a title="Yahweh" href="https://en.wikipedia.org/wiki/Yahweh">Yahweh</a>&nbsp;&ndash; the&nbsp;<a title="National god" href="https://en.wikipedia.org/wiki/National_god">national god</a>&nbsp;of the&nbsp;<a title="Iron Age" href="https://en.wikipedia.org/wiki/Iron_Age">Iron Age</a>&nbsp;kingdoms of Israel (Samaria) and Judah.</li>
+<li><a title="Tetragrammaton" href="https://en.wikipedia.org/wiki/Tetragrammaton">Tetragrammaton</a>&nbsp;&ndash; YHWH</li>
+</ul>
+<h3><span id="Monarchic_period" class="mw-headline">Monarchic period</span></h3>
+<h4><span id="United_monarchy" class="mw-headline">United monarchy</span></h4>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Kingdom of Israel (united monarchy)" href="https://en.wikipedia.org/wiki/Kingdom_of_Israel_(united_monarchy)">Kingdom of Israel (united monarchy)</a></div>
+<ul>
+<li><a class="mw-redirect" title="King Saul" href="https://en.wikipedia.org/wiki/King_Saul">King Saul</a>&nbsp;&ndash; the first king of the united Kingdom of Israel.</li>
+<li><a title="Ish-bosheth" href="https://en.wikipedia.org/wiki/Ish-bosheth">Ish-bosheth</a>&nbsp;&ndash; the second king of the united Kingdom</li>
+<li><a class="mw-redirect" title="King David" href="https://en.wikipedia.org/wiki/King_David">King David</a>&nbsp;&ndash; the third king of the United Kingdom of Israel</li>
+<li><a class="mw-redirect" title="King Solomon" href="https://en.wikipedia.org/wiki/King_Solomon">King Solomon</a>&nbsp;&ndash; the final king before the northern Kingdom of Israel and the southern Kingdom of Judah</li>
+<li><a title="Solomon's Temple" href="https://en.wikipedia.org/wiki/Solomon%27s_Temple">Solomon's Temple</a>&nbsp;&ndash; the First Temple, was the main temple in ancient Jerusalem, on the Temple Mount (also known as Mount Zion), before its destruction by Nebuchadnezzar II after the Siege of Jerusalem of 587 BCE.</li>
+</ul>
+<p>Further information:</p>
+<ul>
+<li><a title="Tel Dan Stele" href="https://en.wikipedia.org/wiki/Tel_Dan_Stele">Tel Dan Stele</a>&nbsp;&ndash; a stele (inscribed stone) discovered in 1993/94 during excavations at Tel Dan in northern Israel.</li>
+<li><a title="Mesha Stele" href="https://en.wikipedia.org/wiki/Mesha_Stele">Mesha Stele</a>&nbsp;&ndash; a black basalt stone bearing an inscription by the 9th century BC ruler Mesha of Moab in Jordan.</li>
+</ul>
+<h4><span id="Divided_monarchy" class="mw-headline">Divided monarchy</span></h4>
+<ul>
+<li><a title="History of ancient Israel and Judah" href="https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah">History of ancient Israel and Judah</a></li>
+</ul>
+<div>
+<table class="multicol">
+<tbody>
+<tr>
+<td>
+<h5><span id="Kingdom_of_Judah" class="mw-headline">Kingdom of Judah</span></h5>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Kingdom of Judah" href="https://en.wikipedia.org/wiki/Kingdom_of_Judah">Kingdom of Judah</a></div>
+<h6><span id="Kings_of_Judah" class="mw-headline">Kings of Judah</span></h6>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Kings of Judah" href="https://en.wikipedia.org/wiki/Kings_of_Judah">Kings of Judah</a></div>
+<ul>
+<li><a title="Rehoboam" href="https://en.wikipedia.org/wiki/Rehoboam">Rehoboam</a></li>
+<li><a title="Abijah" href="https://en.wikipedia.org/wiki/Abijah">Abijah</a></li>
+<li><a title="Asa of Judah" href="https://en.wikipedia.org/wiki/Asa_of_Judah">Asa</a></li>
+<li><a title="Jehoshaphat" href="https://en.wikipedia.org/wiki/Jehoshaphat">Jehoshaphat</a></li>
+<li><a title="Jehoram of Judah" href="https://en.wikipedia.org/wiki/Jehoram_of_Judah">Jehoram</a></li>
+<li><a title="Ahaziah of Judah" href="https://en.wikipedia.org/wiki/Ahaziah_of_Judah">Ahaziah</a></li>
+<li><a title="Athaliah" href="https://en.wikipedia.org/wiki/Athaliah">Athaliah</a></li>
+<li><a title="Jehoash of Judah" href="https://en.wikipedia.org/wiki/Jehoash_of_Judah">J(eh)oash</a></li>
+<li><a title="Amaziah of Judah" href="https://en.wikipedia.org/wiki/Amaziah_of_Judah">Amaziah</a></li>
+<li><a title="Uzziah" href="https://en.wikipedia.org/wiki/Uzziah">Uzziah/Azariah</a></li>
+<li><a title="Jotham" href="https://en.wikipedia.org/wiki/Jotham">Jotham</a></li>
+<li><a title="Ahaz" href="https://en.wikipedia.org/wiki/Ahaz">Ahaz</a></li>
+<li><a title="Hezekiah" href="https://en.wikipedia.org/wiki/Hezekiah">Hezekiah</a></li>
+<li><a class="mw-redirect" title="Manasseh" href="https://en.wikipedia.org/wiki/Manasseh">Manasseh</a></li>
+<li><a title="Amon of Judah" href="https://en.wikipedia.org/wiki/Amon_of_Judah">Amon</a></li>
+<li><a title="Josiah" href="https://en.wikipedia.org/wiki/Josiah">Josiah</a></li>
+<li><a title="Jehoahaz of Judah" href="https://en.wikipedia.org/wiki/Jehoahaz_of_Judah">Jehoahaz</a></li>
+<li><a title="Jehoiakim" href="https://en.wikipedia.org/wiki/Jehoiakim">Jehoiakim</a></li>
+<li><a title="Jeconiah" href="https://en.wikipedia.org/wiki/Jeconiah">Jeconiah/Jehoiachin</a></li>
+<li><a title="Zedekiah" href="https://en.wikipedia.org/wiki/Zedekiah">Zedekiah</a></li>
+</ul>
+<h6><span id="Major_events" class="mw-headline">Major events</span></h6>
+<ul>
+<li><a title="Babylonian captivity" href="https://en.wikipedia.org/wiki/Babylonian_captivity">Babylonian captivity</a></li>
+</ul>
+<p>Further information:</p>
+<ul>
+<li><a title="Jeremiah" href="https://en.wikipedia.org/wiki/Jeremiah">Jeremiah</a></li>
+</ul>
+<p>&nbsp;</p>
+</td>
+<td>
+<h5><span id="Kingdom_of_Israel" class="mw-headline">Kingdom of Israel</span></h5>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Kingdom of Israel (Samaria)" href="https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)">Kingdom of Israel (Samaria)</a></div>
+<h6><span id="Kings_of_Israel" class="mw-headline">Kings of Israel</span></h6>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Kings of Israel and Judah" href="https://en.wikipedia.org/wiki/Kings_of_Israel_and_Judah">Kings of Israel and Judah</a></div>
+<p><a title="House of Jeroboam" href="https://en.wikipedia.org/wiki/House_of_Jeroboam">House of Jeroboam</a></p>
+<ul>
+<li><a class="mw-redirect" title="Jeroboam I" href="https://en.wikipedia.org/wiki/Jeroboam_I">Jeroboam I</a></li>
+<li><a title="Nadab of Israel" href="https://en.wikipedia.org/wiki/Nadab_of_Israel">Nadab</a></li>
+</ul>
+<p><a title="House of Baasha" href="https://en.wikipedia.org/wiki/House_of_Baasha">House of Baasha</a></p>
+<ul>
+<li><a title="Baasha of Israel" href="https://en.wikipedia.org/wiki/Baasha_of_Israel">Baasha</a></li>
+<li><a title="King Elah" href="https://en.wikipedia.org/wiki/King_Elah">Elah</a></li>
+</ul>
+<p><a title="House of Zimri" href="https://en.wikipedia.org/wiki/House_of_Zimri">House of Zimri</a></p>
+<ul>
+<li><a title="Zimri (king)" href="https://en.wikipedia.org/wiki/Zimri_(king)">Zimri</a></li>
+</ul>
+<p><a class="mw-redirect" title="House of Omri" href="https://en.wikipedia.org/wiki/House_of_Omri">House of Omri</a></p>
+<ul>
+<li><a title="Omri" href="https://en.wikipedia.org/wiki/Omri">Omri</a></li>
+<li><a title="Ahab" href="https://en.wikipedia.org/wiki/Ahab">Ahab</a></li>
+<li><a title="Ahaziah of Israel" href="https://en.wikipedia.org/wiki/Ahaziah_of_Israel">Ahaziah</a></li>
+<li>Joram</li>
+</ul>
+<p><a title="House of Jehu" href="https://en.wikipedia.org/wiki/House_of_Jehu">House of Jehu</a></p>
+<ul>
+<li><a title="Jehu" href="https://en.wikipedia.org/wiki/Jehu">Jehu</a></li>
+<li><a title="Jehoahaz of Israel" href="https://en.wikipedia.org/wiki/Jehoahaz_of_Israel">Jehoahaz</a></li>
+<li><a title="Jehoash of Israel" href="https://en.wikipedia.org/wiki/Jehoash_of_Israel">Jehoash</a>(Joash)</li>
+<li><a title="Jeroboam II" href="https://en.wikipedia.org/wiki/Jeroboam_II">Jeroboam II</a></li>
+<li><a title="Zechariah of Israel" href="https://en.wikipedia.org/wiki/Zechariah_of_Israel">Zachariah</a></li>
+</ul>
+<p>House of Shallum</p>
+<ul>
+<li><a title="Shallum" href="https://en.wikipedia.org/wiki/Shallum">Shallum</a></li>
+</ul>
+<p>House of Menahem</p>
+<ul>
+<li><a title="Menahem" href="https://en.wikipedia.org/wiki/Menahem">Menahem</a></li>
+<li><a title="Pekahiah" href="https://en.wikipedia.org/wiki/Pekahiah">Pekahiah</a></li>
+</ul>
+<p>House of Pekah</p>
+<ul>
+<li><a title="Pekah" href="https://en.wikipedia.org/wiki/Pekah">Pekah</a></li>
+</ul>
+<p>House of Hoshea</p>
+<ul>
+<li><a title="Hoshea" href="https://en.wikipedia.org/wiki/Hoshea">Hoshea</a></li>
+</ul>
+<h6><span id="Major_events_2" class="mw-headline">Major events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a title="Edit section: Major events" href="https://en.wikipedia.org/w/index.php?title=Outline_of_Judaism&amp;action=edit&amp;section=11">edit</a><span class="mw-editsection-bracket">]</span></span></h6>
+<ul>
+<li><a title="Assyrian captivity" href="https://en.wikipedia.org/wiki/Assyrian_captivity">Assyrian captivity</a>&nbsp;&ndash; 720 BC</li>
+<li><a title="Ten Lost Tribes" href="https://en.wikipedia.org/wiki/Ten_Lost_Tribes">Ten Lost Tribes</a></li>
+</ul>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3><span id="Return_from_captivity" class="mw-headline">Return from captivity</span></h3>
+<ul>
+<li><a title="Cyrus's edict" href="https://en.wikipedia.org/wiki/Cyrus%27s_edict">Cyrus's edict</a></li>
+<li><a title="Ezra" href="https://en.wikipedia.org/wiki/Ezra">Ezra</a></li>
+<li><a title="Nehemiah" href="https://en.wikipedia.org/wiki/Nehemiah">Nehemiah</a></li>
+<li><a title="Second Temple Judaism" href="https://en.wikipedia.org/wiki/Second_Temple_Judaism">Second Temple Judaism</a></li>
+<li><a title="Hellenistic Judaism" href="https://en.wikipedia.org/wiki/Hellenistic_Judaism">Hellenistic Judaism</a></li>
+<li><a title="Hasmonean dynasty" href="https://en.wikipedia.org/wiki/Hasmonean_dynasty">Hasmonean dynasty</a></li>
+</ul>
+<h2><span id="Development_of_Rabbinic_Judaism" class="mw-headline">Development of Rabbinic Judaism</span></h2>
+<div class="hatnote navigation-not-searchable">Main articles:&nbsp;<a title="Origins of Rabbinic Judaism" href="https://en.wikipedia.org/wiki/Origins_of_Rabbinic_Judaism">Origins of Rabbinic Judaism</a>,&nbsp;<a title="Rabbinic Judaism" href="https://en.wikipedia.org/wiki/Rabbinic_Judaism">Rabbinic Judaism</a>,&nbsp;<a class="mw-redirect" title="Origins of Christianity" href="https://en.wikipedia.org/wiki/Origins_of_Christianity">Origins of Christianity</a>, and&nbsp;<a class="mw-redirect" title="Split of early Christianity and Judaism" href="https://en.wikipedia.org/wiki/Split_of_early_Christianity_and_Judaism">Split of early Christianity and Judaism</a></div>
+<ul>
+<li><a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>
+<ul>
+<li><a title="Temple in Jerusalem" href="https://en.wikipedia.org/wiki/Temple_in_Jerusalem">Temple in Jerusalem</a></li>
+<li><a title="Jerusalem in Judaism" href="https://en.wikipedia.org/wiki/Jerusalem_in_Judaism">Jerusalem in Judaism</a></li>
+<li><a title="Timeline of Jerusalem" href="https://en.wikipedia.org/wiki/Timeline_of_Jerusalem">Timeline of Jerusalem</a></li>
+</ul>
+</li>
+<li><a title="Herod the Great" href="https://en.wikipedia.org/wiki/Herod_the_Great">Herod</a></li>
+<li><a title="Sanhedrin" href="https://en.wikipedia.org/wiki/Sanhedrin">Sanhedrin</a></li>
+<li><a title="Pharisees" href="https://en.wikipedia.org/wiki/Pharisees">Pharisees</a></li>
+<li><a title="Sadducees" href="https://en.wikipedia.org/wiki/Sadducees">Sadducees</a></li>
+<li><a title="Essenes" href="https://en.wikipedia.org/wiki/Essenes">Essenes</a></li>
+<li><a title="Jewish&ndash;Roman wars" href="https://en.wikipedia.org/wiki/Jewish%E2%80%93Roman_wars">Jewish&ndash;Roman wars</a>
+<ul>
+<li><a title="First Jewish&ndash;Roman War" href="https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War">First Jewish&ndash;Roman War</a></li>
+<li><a title="Kitos War" href="https://en.wikipedia.org/wiki/Kitos_War">Kitos War</a></li>
+<li><a title="Bar Kokhba revolt" href="https://en.wikipedia.org/wiki/Bar_Kokhba_revolt">Bar Kokhba revolt</a></li>
+</ul>
+</li>
+<li><a title="Jewish diaspora" href="https://en.wikipedia.org/wiki/Jewish_diaspora">Diaspora</a></li>
+<li><a class="mw-redirect" title="Jews in the Middle Ages" href="https://en.wikipedia.org/wiki/Jews_in_the_Middle_Ages">Middle Ages</a></li>
+<li><a title="History of the Jews under Muslim rule" href="https://en.wikipedia.org/wiki/History_of_the_Jews_under_Muslim_rule">Muslim rule</a></li>
+<li><a title="Haskalah" href="https://en.wikipedia.org/wiki/Haskalah">Haskalah</a></li>
+<li><a title="Jewish emancipation" href="https://en.wikipedia.org/wiki/Jewish_emancipation">Emancipation</a></li>
+<li><a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust">The Holocaust</a></li>
+<li><a title="Aliyah" href="https://en.wikipedia.org/wiki/Aliyah">Aliyah</a></li>
+<li><a title="History of Zionism" href="https://en.wikipedia.org/wiki/History_of_Zionism">History of Zionism</a></li>
+<li><a title="History of Israel" href="https://en.wikipedia.org/wiki/History_of_Israel">History of Israel</a></li>
+<li><a title="Land of Israel" href="https://en.wikipedia.org/wiki/Land_of_Israel">Land of Israel</a></li>
+</ul>
+<h2><span id="Sacred_texts" class="mw-headline">Sacred texts</span></h2>
+<h3><span id="Written_Torah" class="mw-headline">Written Torah</span></h3>
+<ul>
+<li><a class="mw-redirect" title="Tanakh" href="https://en.wikipedia.org/wiki/Tanakh">Tanakh</a>
+<ul>
+<li><a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>
+<ul>
+<li><a title="Chumash (Judaism)" href="https://en.wikipedia.org/wiki/Chumash_(Judaism)">Chumash</a>&ndash;a Torah in printed form</li>
+</ul>
+</li>
+<li><a title="Nevi'im" href="https://en.wikipedia.org/wiki/Nevi%27im">Nevi'im</a></li>
+<li><a title="Ketuvim" href="https://en.wikipedia.org/wiki/Ketuvim">Ketuvim</a></li>
+</ul>
+</li>
+</ul>
+<h3><span id="Oral_Torah" class="mw-headline">Oral Torah</span></h3>
+<ul>
+<li><a title="Oral Torah" href="https://en.wikipedia.org/wiki/Oral_Torah">Oral Torah</a>
+<ul>
+<li><a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmud</a>&nbsp;(as encompassing the main Oral Law)
+<ul>
+<li><a title="Jerusalem Talmud" href="https://en.wikipedia.org/wiki/Jerusalem_Talmud">Jerusalem Talmud</a></li>
+<li><a class="mw-redirect" title="Babylonian Talmud" href="https://en.wikipedia.org/wiki/Babylonian_Talmud">Babylonian Talmud</a>
+<ul>
+<li><a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>, the first major written redaction of the Jewish oral traditions known as the "Oral Torah".
+<ul>
+<li><a title="Gemara" href="https://en.wikipedia.org/wiki/Gemara">Gemara</a>, rabbinical analysis of and commentary on the Mishnah</li>
+<li><a title="Aggadah" href="https://en.wikipedia.org/wiki/Aggadah">Aggadah</a>, a compendium of rabbinic texts that incorporates folklore, historical anecdotes, moral exhortations, and practical advice in various spheres, from business to medicine.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Tosefta" href="https://en.wikipedia.org/wiki/Tosefta">Tosefta</a>, a compilation of the Jewish oral law from the late 2nd century, the period of the Mishnah</li>
+<li><a title="Midrash" href="https://en.wikipedia.org/wiki/Midrash">Midrash</a>, the genre of rabbinic literature which contains early interpretations and commentaries on the Written Torah and Oral Torah (spoken law and sermons), as well as non-legalistic rabbinic literature (aggadah) and occasionally the Jewish religious laws (halakha), which usually form a running commentary on specific passages in the Hebrew Scripture (Tanakh).</li>
+</ul>
+</li>
+<li><a title="Midrash halakha" href="https://en.wikipedia.org/wiki/Midrash_halakha">Midrash halakha</a></li>
+<li><a title="Musar literature" href="https://en.wikipedia.org/wiki/Musar_literature">Mussar</a></li>
+<li><a title="Geonim" href="https://en.wikipedia.org/wiki/Geonim">Geonim</a>, presidents of the two great Babylonian, Talmudic Academies of Sura and Pumbedita, in the Abbasid Caliphate, and generally accepted spiritual leaders of the Jewish community worldwide in the early medieval era</li>
+<li><a title="Rishonim" href="https://en.wikipedia.org/wiki/Rishonim">Rishonim</a>, the leading rabbis and poskim who lived approximately during the 11th to 15th centuries, in the era before the writing of the Shulchan Aruch (Hebrew: שׁוּלחָן עָרוּך, "Set Table", a common printed code of Jewish law, 1563 CE) and following the Geonim (589-1038 CE)</li>
+<li><a title="Acharonim" href="https://en.wikipedia.org/wiki/Acharonim">Acharonim</a>, the leading rabbis and poskim (Jewish legal decisors) living from roughly the 16th century to the present, and more specifically since the writing of the Shulchan Aruch (Hebrew: שׁוּלחָן עָרוּך, "Set Table", a code of Jewish law) in 1563 CE.</li>
+</ul>
+<h2><span id="Rabbinic_literature" class="mw-headline">Rabbinic literature</span></h2>
+<p><a title="Rabbinic literature" href="https://en.wikipedia.org/wiki/Rabbinic_literature">Rabbinic literature</a>, in its broadest sense, can mean the entire spectrum of&nbsp;<a title="Rabbi" href="https://en.wikipedia.org/wiki/Rabbi">rabbinic</a>&nbsp;writings throughout&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Jewish</a>&nbsp;history. But the term often refers specifically to literature from the&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmudic</a>&nbsp;era, as opposed to&nbsp;<a class="mw-redirect" title="Medieval" href="https://en.wikipedia.org/wiki/Medieval">medieval</a>&nbsp;and modern rabbinic writing, and thus corresponds with the&nbsp;<a title="Hebrew language" href="https://en.wikipedia.org/wiki/Hebrew_language">Hebrew</a>&nbsp;term&nbsp;<em>Sifrut Hazal</em>&nbsp;(ספרות חז"ל; "Literature [of our] sages [of] blessed memory," where&nbsp;<em>Hazal</em>&nbsp;normally refers&nbsp;<em>only</em>&nbsp;to the sages of the Talmudic era). This more specific sense of "Rabbinic literature"&mdash;referring to the&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmudim</a>,&nbsp;<a title="Midrash" href="https://en.wikipedia.org/wiki/Midrash">Midrash</a>, and related writings, but hardly ever to later texts&mdash;is how the term is generally intended when used in contemporary academic writing. On the other hand, the terms&nbsp;<em>meforshim</em>&nbsp;and&nbsp;<em>parshanim</em>&nbsp;(commentaries/commentators) almost always refer to later, post-Talmudic writers of Rabbinic glosses on&nbsp;<a title="Hebrew Bible" href="https://en.wikipedia.org/wiki/Hebrew_Bible">Biblical</a>&nbsp;and Talmudic texts.</p>
+<h3><span id="Mishnaic_literature" class="mw-headline">Mishnaic literature</span></h3>
+<p>The&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>&nbsp;and the&nbsp;<a title="Tosefta" href="https://en.wikipedia.org/wiki/Tosefta">Tosefta</a>&nbsp;(compiled from materials pre-dating the year 200) are the earliest extant works of rabbinic literature, expounding and developing Judaism's&nbsp;<a title="Oral Torah" href="https://en.wikipedia.org/wiki/Oral_Torah">Oral Law</a>, as well as ethical teachings. Following these came the two&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmuds</a>:</p>
+<ul>
+<li>The&nbsp;<a title="Jerusalem Talmud" href="https://en.wikipedia.org/wiki/Jerusalem_Talmud">Jerusalem Talmud</a>, c. 450</li>
+<li>The&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Babylonian Talmud</a>, c. 600</li>
+<li>The&nbsp;<a class="mw-redirect" title="Minor tractates" href="https://en.wikipedia.org/wiki/Minor_tractates">minor tractates</a>&nbsp;(part of the Babylonian Talmud)</li>
+</ul>
+<h3><span id="The_Midrash" class="mw-headline">The Midrash</span></h3>
+<p>The&nbsp;<em><a title="Midrash" href="https://en.wikipedia.org/wiki/Midrash">midrash</a></em>&nbsp;is the genre of&nbsp;<a title="Rabbinic literature" href="https://en.wikipedia.org/wiki/Rabbinic_literature">rabbinic literature</a>&nbsp;which contains early interpretations and commentaries on the&nbsp;<a class="mw-redirect" title="Written Torah" href="https://en.wikipedia.org/wiki/Written_Torah">Written Torah</a>&nbsp;and&nbsp;<a title="Oral Torah" href="https://en.wikipedia.org/wiki/Oral_Torah">Oral Torah</a>, as well as non-legalistic rabbinic literature (<em><em lang="he" title="Hebrew language text"><a title="Aggadah" href="https://en.wikipedia.org/wiki/Aggadah">aggadah</a></em></em>) and occasionally the Jewish religious laws (<em><em lang="he" title="Hebrew language text"><a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">halakha</a></em></em>), which usually form a running commentary on specific passages in the Tanakh.&nbsp;The term&nbsp;<em>midrash</em>&nbsp;also can refer to a compilation of Midrashic teachings, in the form of legal, exegetical, homiletical, or narrative writing, often configured as a commentary on the&nbsp;<a title="Bible" href="https://en.wikipedia.org/wiki/Bible">Bible</a>&nbsp;or&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>.</p>
+<h3><span id="Later_works_by_category" class="mw-headline">Later works by category</span></h3>
+<h4><span id="Major_codes_of_Jewish_law" class="mw-headline">Major codes of Jewish law</span></h4>
+<p><a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">Halakha</a></p>
+<ul>
+<li><a title="Mishneh Torah" href="https://en.wikipedia.org/wiki/Mishneh_Torah">Mishneh Torah</a></li>
+<li><a title="Arba'ah Turim" href="https://en.wikipedia.org/wiki/Arba%27ah_Turim">Arba'ah Turim</a></li>
+<li><a title="Shulchan Aruch" href="https://en.wikipedia.org/wiki/Shulchan_Aruch">Shulchan Aruch</a></li>
+<li><a title="Beit Yosef (book)" href="https://en.wikipedia.org/wiki/Beit_Yosef_(book)">Beit Yosef</a></li>
+<li><a title="Chayei Adam" href="https://en.wikipedia.org/wiki/Chayei_Adam">Chayei Adam</a></li>
+<li>The&nbsp;<a title="History of responsa in Judaism" href="https://en.wikipedia.org/wiki/History_of_responsa_in_Judaism">Responsa literature</a></li>
+</ul>
+<h4><span id="Jewish_thought.2C_mysticism_and_ethics"></span><span id="Jewish_thought,_mysticism_and_ethics" class="mw-headline">Jewish thought, mysticism and ethics</span></h4>
+<ul>
+<li><a title="Aggadah" href="https://en.wikipedia.org/wiki/Aggadah">Aggadah</a>:
+<ul>
+<li><a title="Category:Aggadic Midrashim" href="https://en.wikipedia.org/wiki/Category:Aggadic_Midrashim">Aggadic Midrashim</a></li>
+<li><a title="Ein Yaakov" href="https://en.wikipedia.org/wiki/Ein_Yaakov">Ein Yaakov</a></li>
+</ul>
+</li>
+<li><a title="Jewish philosophy" href="https://en.wikipedia.org/wiki/Jewish_philosophy">Jewish philosophy</a>:
+<ul>
+<li><a title="Philo" href="https://en.wikipedia.org/wiki/Philo">Philo</a></li>
+<li><a title="Isaac Israeli ben Solomon" href="https://en.wikipedia.org/wiki/Isaac_Israeli_ben_Solomon">Isaac Israeli</a></li>
+<li><a class="mw-redirect" title="Emunot v'Dayyot" href="https://en.wikipedia.org/wiki/Emunot_v%27Dayyot">Emunot v'Dayyot</a></li>
+<li><a class="mw-redirect" title="Guide to the Perplexed" href="https://en.wikipedia.org/wiki/Guide_to_the_Perplexed">Guide to the Perplexed</a></li>
+<li><a class="mw-redirect" title="Bachya ibn Pakuda" href="https://en.wikipedia.org/wiki/Bachya_ibn_Pakuda">Bachya ibn Pakuda</a></li>
+<li><a title="Sefer ha-Ikkarim" href="https://en.wikipedia.org/wiki/Sefer_ha-Ikkarim">Sefer ha-Ikkarim</a></li>
+<li><a title="Book of the Wars of the Lord" href="https://en.wikipedia.org/wiki/Book_of_the_Wars_of_the_Lord">Book of the Wars of the Lord</a></li>
+<li><a title="Or Adonai" href="https://en.wikipedia.org/wiki/Or_Adonai">Or Adonai</a></li>
+</ul>
+</li>
+<li><a title="Jewish mysticism" href="https://en.wikipedia.org/wiki/Jewish_mysticism">Jewish mysticism</a>&nbsp;and&nbsp;<a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalah</a>:
+<ul>
+<li><a class="mw-redirect" title="Kabbalah: Primary texts" href="https://en.wikipedia.org/wiki/Kabbalah:_Primary_texts">Kabbalah: Primary texts</a></li>
+<li><a class="mw-redirect" title="Sepher Yetzirah" href="https://en.wikipedia.org/wiki/Sepher_Yetzirah">Sepher Yetzirah</a></li>
+<li><a title="Bahir" href="https://en.wikipedia.org/wiki/Bahir">Bahir</a></li>
+<li><a title="Zohar" href="https://en.wikipedia.org/wiki/Zohar">Zohar</a></li>
+<li><a title="Sefer Raziel HaMalakh" href="https://en.wikipedia.org/wiki/Sefer_Raziel_HaMalakh">Sefer Raziel HaMalakh</a></li>
+<li><a title="Pardes Rimonim" href="https://en.wikipedia.org/wiki/Pardes_Rimonim">Pardes Rimonim</a></li>
+<li><a class="mw-redirect" title="Etz Hayim (text)" href="https://en.wikipedia.org/wiki/Etz_Hayim_(text)">Etz Hayim</a></li>
+</ul>
+</li>
+<li>The works of&nbsp;<a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic Judaism</a>:
+<ul>
+<li>The&nbsp;<a title="Tanya" href="https://en.wikipedia.org/wiki/Tanya">Tanya</a>&nbsp;(Likutei Amarim)</li>
+<li><a title="Breslov (Hasidic group)" href="https://en.wikipedia.org/wiki/Breslov_(Hasidic_group)#Important_books_of_Breslover_Hasidism">Likutey Moharan</a></li>
+</ul>
+</li>
+<li><a title="Musar literature" href="https://en.wikipedia.org/wiki/Musar_literature">Musar literature</a>:
+<ul>
+<li><a title="Mesillat Yesharim" href="https://en.wikipedia.org/wiki/Mesillat_Yesharim">Mesillat Yesharim</a></li>
+<li><a title="Yonah Gerondi" href="https://en.wikipedia.org/wiki/Yonah_Gerondi">Shaarei Teshuva</a></li>
+<li><a title="Orchot Tzaddikim" href="https://en.wikipedia.org/wiki/Orchot_Tzaddikim">Orchot Tzaddikim</a></li>
+<li><a class="mw-redirect" title="Sefer Chasidim" href="https://en.wikipedia.org/wiki/Sefer_Chasidim">Sefer Chasidim</a></li>
+<li><a title="The Lonely Man of Faith" href="https://en.wikipedia.org/wiki/The_Lonely_Man_of_Faith">The Lonely Man of Faith</a></li>
+</ul>
+</li>
+</ul>
+<h3><span id="Liturgy" class="mw-headline">Liturgy</span></h3>
+<ul>
+<li>The&nbsp;<a title="Siddur" href="https://en.wikipedia.org/wiki/Siddur">Siddur</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Jewish liturgy" href="https://en.wikipedia.org/wiki/Jewish_liturgy">Jewish liturgy</a></li>
+<li><em><a title="Piyyut" href="https://en.wikipedia.org/wiki/Piyyut">Piyyutim</a></em>&nbsp;(Classical Jewish poetry)</li>
+</ul>
+<h2><span id="Later_rabbinic_works_by_historical_period" class="mw-headline">Later rabbinic works by historical period</span></h2>
+<h3><span id="Works_of_the_Geonim" class="mw-headline">Works of the Geonim</span></h3>
+<p>The&nbsp;<a title="Geonim" href="https://en.wikipedia.org/wiki/Geonim">Geonim</a>&nbsp;are the rabbis of Sura and Pumbeditha, in&nbsp;<a title="Babylon" href="https://en.wikipedia.org/wiki/Babylon">Babylon</a>&nbsp;(650 - 1250)&nbsp;:</p>
+<ul>
+<li><em>She'iltoth of&nbsp;<a title="Achai Gaon" href="https://en.wikipedia.org/wiki/Achai_Gaon">Achai Gaon</a></em></li>
+<li><em>Halachoth Gedoloth</em></li>
+<li><em><a title="Emunoth ve-Deoth" href="https://en.wikipedia.org/wiki/Emunoth_ve-Deoth">Emunoth ve-Deoth</a></em>&nbsp;(<a title="Saadia Gaon" href="https://en.wikipedia.org/wiki/Saadia_Gaon">Saadia Gaon</a>)</li>
+<li>The&nbsp;<em><a title="Siddur" href="https://en.wikipedia.org/wiki/Siddur">Siddur</a></em>&nbsp;by&nbsp;<a title="Amram Gaon" href="https://en.wikipedia.org/wiki/Amram_Gaon">Amram Gaon</a></li>
+<li><a title="Responsa" href="https://en.wikipedia.org/wiki/Responsa">Responsa</a></li>
+</ul>
+<h3><span id="Works_of_the_Rishonim_.28the_.22early.22_rabbinical_commentators.29"></span><span id="Works_of_the_Rishonim_(the_&quot;early&quot;_rabbinical_commentators)" class="mw-headline">Works of the&nbsp;<em>Rishonim</em>&nbsp;(the "early" rabbinical commentators)</span></h3>
+<p>The&nbsp;<a title="Rishonim" href="https://en.wikipedia.org/wiki/Rishonim">Rishonim</a>&nbsp;are the rabbis of the early medieval period (1000 - 1550), such as the following main examples:</p>
+<ul>
+<li>The commentaries on the&nbsp;<a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>, such as those by&nbsp;<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>,&nbsp;<a title="Abraham ibn Ezra" href="https://en.wikipedia.org/wiki/Abraham_ibn_Ezra">Abraham ibn Ezra</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Nahmanides" href="https://en.wikipedia.org/wiki/Nahmanides">Nahmanides</a>.</li>
+<li>Commentaries on the&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmud</a>, principally by&nbsp;<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>, his grandson&nbsp;<a class="mw-redirect" title="Samuel ben Meir" href="https://en.wikipedia.org/wiki/Samuel_ben_Meir">Samuel ben Meir</a>&nbsp;and&nbsp;<a title="Nissim of Gerona" href="https://en.wikipedia.org/wiki/Nissim_of_Gerona">Nissim of Gerona</a>.</li>
+<li>Talmudic novellae (<em>chiddushim</em>) by&nbsp;<a class="mw-redirect" title="Tosafists" href="https://en.wikipedia.org/wiki/Tosafists">Tosafists</a>,&nbsp;<a class="mw-redirect" title="Nahmanides" href="https://en.wikipedia.org/wiki/Nahmanides">Nahmanides</a>,&nbsp;<a title="Nissim of Gerona" href="https://en.wikipedia.org/wiki/Nissim_of_Gerona">Nissim of Gerona</a>,&nbsp;<a class="mw-redirect" title="Solomon ben Aderet" href="https://en.wikipedia.org/wiki/Solomon_ben_Aderet">Solomon ben Aderet</a>&nbsp;(RaShBA),&nbsp;<a class="mw-redirect" title="Ritva" href="https://en.wikipedia.org/wiki/Ritva">Yomtov ben Ashbili</a>&nbsp;(Ritva)</li>
+<li>Works of&nbsp;<em><a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">halakha</a></em>&nbsp;(<a class="mw-redirect" title="Asher ben Yechiel" href="https://en.wikipedia.org/wiki/Asher_ben_Yechiel">Asher ben Yechiel</a>,&nbsp;<a title="Mordechai ben Hillel" href="https://en.wikipedia.org/wiki/Mordechai_ben_Hillel">Mordechai ben Hillel</a>)</li>
+<li>Codices by&nbsp;<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>&nbsp;and&nbsp;<a title="Jacob ben Asher" href="https://en.wikipedia.org/wiki/Jacob_ben_Asher">Jacob ben Asher</a>, and finally&nbsp;<em><a class="mw-redirect" title="Shulkhan Arukh" href="https://en.wikipedia.org/wiki/Shulkhan_Arukh">Shulkhan Arukh</a></em></li>
+<li>Legal&nbsp;<a title="Responsa" href="https://en.wikipedia.org/wiki/Responsa">responsa</a>, e.g. by&nbsp;<a class="mw-redirect" title="Solomon ben Aderet" href="https://en.wikipedia.org/wiki/Solomon_ben_Aderet">Solomon ben Aderet</a>&nbsp;(RaShBA)</li>
+<li><a title="Jewish philosophy" href="https://en.wikipedia.org/wiki/Jewish_philosophy">Jewish philosophical</a>&nbsp;rationalist works (<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>,&nbsp;<a title="Gersonides" href="https://en.wikipedia.org/wiki/Gersonides">Gersonides</a>&nbsp;etc.)</li>
+<li><a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalistic</a>&nbsp;mystical works (such as the&nbsp;<a title="Zohar" href="https://en.wikipedia.org/wiki/Zohar">Zohar</a>)</li>
+<li><a class="mw-redirect" title="Mussar literature" href="https://en.wikipedia.org/wiki/Mussar_literature">Mussar literature</a>&nbsp;ethical works (<a title="Bahya ibn Paquda" href="https://en.wikipedia.org/wiki/Bahya_ibn_Paquda">Bahya ibn Paquda</a>,&nbsp;<a class="mw-redirect" title="Jonah of Gerona" href="https://en.wikipedia.org/wiki/Jonah_of_Gerona">Jonah of Gerona</a>)</li>
+</ul>
+<h3><span id="Works_of_the_Acharonim_.28the_.22later.22_rabbinical_commentators.29"></span><span id="Works_of_the_Acharonim_(the_&quot;later&quot;_rabbinical_commentators)" class="mw-headline">Works of the&nbsp;<em>Acharonim</em>&nbsp;(the "later" rabbinical commentators)</span></h3>
+<p>The&nbsp;<a title="Acharonim" href="https://en.wikipedia.org/wiki/Acharonim">Acharonim</a>&nbsp;are the rabbis from 1550 to the present day, such as the following main examples:</p>
+<ul>
+<li>Important&nbsp;<a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>&nbsp;commentaries include&nbsp;<em>Keli Yakar</em>&nbsp;(<a title="Shlomo Ephraim Luntschitz" href="https://en.wikipedia.org/wiki/Shlomo_Ephraim_Luntschitz">Shlomo Ephraim Luntschitz</a>),&nbsp;<em>Ohr ha-Chayim</em>&nbsp;by&nbsp;<a class="mw-redirect" title="Chayim ben-Attar" href="https://en.wikipedia.org/wiki/Chayim_ben-Attar">Chayim ben-Attar</a>, the commentary of&nbsp;<a title="Samson Raphael Hirsch" href="https://en.wikipedia.org/wiki/Samson_Raphael_Hirsch">Samson Raphael Hirsch</a>, and the commentary of&nbsp;<a title="Naftali Zvi Yehuda Berlin" href="https://en.wikipedia.org/wiki/Naftali_Zvi_Yehuda_Berlin">Naftali Zvi Yehuda Berlin</a></li>
+<li>Important works of&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmudic</a>&nbsp;novellae include:&nbsp;<em>Pnei Yehoshua</em>,&nbsp;<em>Hafla'ah</em>,&nbsp;<em>Sha'agath Aryei</em></li>
+<li><a class="mw-redirect" title="Codices" href="https://en.wikipedia.org/wiki/Codices">Codices</a>&nbsp;of&nbsp;<em><a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">halakha</a></em>&nbsp;e.g.&nbsp;<em><a title="Mishnah Berurah" href="https://en.wikipedia.org/wiki/Mishnah_Berurah">Mishnah Berurah</a></em>&nbsp;by&nbsp;<a title="Yisrael Meir Kagan" href="https://en.wikipedia.org/wiki/Yisrael_Meir_Kagan">Yisrael Meir Kagan</a>&nbsp;and the&nbsp;<em><a title="Yechiel Michel Epstein" href="https://en.wikipedia.org/wiki/Yechiel_Michel_Epstein#Aruch_ha-Shulchan">Aruch ha-Shulchan</a></em>&nbsp;by&nbsp;<a title="Yechiel Michel Epstein" href="https://en.wikipedia.org/wiki/Yechiel_Michel_Epstein">Yechiel Michel Epstein</a></li>
+<li><a title="History of responsa in Judaism" href="https://en.wikipedia.org/wiki/History_of_responsa_in_Judaism">Legal responsa</a>, e.g. by&nbsp;<a title="Moses Sofer" href="https://en.wikipedia.org/wiki/Moses_Sofer">Moses Sofer</a>,&nbsp;<a title="Moshe Feinstein" href="https://en.wikipedia.org/wiki/Moshe_Feinstein">Moshe Feinstein</a></li>
+<li><a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalistic</a>&nbsp;mystical commentaries</li>
+<li>Philosophical/metaphysical works (the works of the&nbsp;<a class="mw-redirect" title="Maharal of Prague" href="https://en.wikipedia.org/wiki/Maharal_of_Prague">Maharal of Prague</a>,&nbsp;<a title="Moshe Chaim Luzzatto" href="https://en.wikipedia.org/wiki/Moshe_Chaim_Luzzatto">Moshe Chaim Luzzatto</a>&nbsp;and&nbsp;<em>Nefesh ha-Chayim</em>&nbsp;by&nbsp;<a class="mw-redirect" title="Chaim Volozhin" href="https://en.wikipedia.org/wiki/Chaim_Volozhin">Chaim of Volozhin</a>)</li>
+<li><a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic</a>&nbsp;works (<em>Kedushath Levi</em>,&nbsp;<em>Sefath Emmeth</em>,&nbsp;<em>Shem mi-Shemuel</em>)</li>
+<li><a class="mw-redirect" title="Mussar literature" href="https://en.wikipedia.org/wiki/Mussar_literature">Mussar literature</a>&nbsp;ethical works:&nbsp;<a title="Moshe Chaim Luzzatto" href="https://en.wikipedia.org/wiki/Moshe_Chaim_Luzzatto">Moshe Chaim Luzzatto</a>,&nbsp;<a title="Yisrael Meir Kagan" href="https://en.wikipedia.org/wiki/Yisrael_Meir_Kagan">Yisrael Meir Kagan</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="Mussar Movement" href="https://en.wikipedia.org/wiki/Mussar_Movement">Mussar Movement</a></li>
+<li>Historical works, e.g.&nbsp;<em>Shem ha-Gedolim</em>&nbsp;by&nbsp;<a class="mw-redirect" title="Chaim Joseph David Azulai" href="https://en.wikipedia.org/wiki/Chaim_Joseph_David_Azulai">Chaim Joseph David Azulai</a>.</li>
+</ul>
+<h3><span id="Meforshim" class="mw-headline">Meforshim</span></h3>
+<dl>
+<dd><em>Meforshim</em>&nbsp;is a&nbsp;<a title="Hebrew language" href="https://en.wikipedia.org/wiki/Hebrew_language">Hebrew</a>&nbsp;word meaning "(classical rabbinical) commentators" (or roughly meaning "<a title="Exegesis" href="https://en.wikipedia.org/wiki/Exegesis">exegetes</a>"), and is used as a substitute for the correct word&nbsp;<em><a title="Perushim" href="https://en.wikipedia.org/wiki/Perushim">perushim</a></em>&nbsp;which means "commentaries". In&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Judaism</a>&nbsp;this term refers to commentaries on the&nbsp;<a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>&nbsp;(five books of Moses),&nbsp;<a class="mw-redirect" title="Tanakh" href="https://en.wikipedia.org/wiki/Tanakh">Tanakh</a>, the&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>, the&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmud</a>,&nbsp;<a title="Responsa" href="https://en.wikipedia.org/wiki/Responsa">responsa</a>, even the&nbsp;<a title="Siddur" href="https://en.wikipedia.org/wiki/Siddur">siddur</a>&nbsp;(Jewish prayerbook), and more.</dd>
+</dl>
+<h3><span id="Classic_Torah_and_Talmud_commentaries" class="mw-headline">Classic Torah and Talmud commentaries</span></h3>
+<p>Classic&nbsp;<a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>&nbsp;and/or&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmud</a>&nbsp;commentaries have been written by the following individuals:</p>
+<ul>
+<li>Geonim
+<ul>
+<li><a title="Saadia Gaon" href="https://en.wikipedia.org/wiki/Saadia_Gaon">Saadia Gaon</a>, 10th century Babylon</li>
+</ul>
+</li>
+<li>Rishonim
+<ul>
+<li><a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>&nbsp;(Shlomo Yitzchaki), 12th century France</li>
+<li><a title="Abraham ibn Ezra" href="https://en.wikipedia.org/wiki/Abraham_ibn_Ezra">Abraham ibn Ezra</a></li>
+<li><a title="Nachmanides" href="https://en.wikipedia.org/wiki/Nachmanides">Nachmanides</a>&nbsp;(Moshe ben Nahman)</li>
+<li>Samuel ben Meir, the&nbsp;<a title="Rashbam" href="https://en.wikipedia.org/wiki/Rashbam">Rashbam</a>, 12th century France</li>
+<li>Levi ben Gershom (known as Ralbag or&nbsp;<a title="Gersonides" href="https://en.wikipedia.org/wiki/Gersonides">Gersonides</a>)</li>
+<li><a title="David Kimhi" href="https://en.wikipedia.org/wiki/David_Kimhi">David Kimhi</a>, 13th century France</li>
+<li><a title="Joseph ben Isaac Bekhor Shor" href="https://en.wikipedia.org/wiki/Joseph_ben_Isaac_Bekhor_Shor">Joseph ben Isaac Bekhor Shor</a>, 12th century France</li>
+<li><a title="Nissim of Gerona" href="https://en.wikipedia.org/wiki/Nissim_of_Gerona">Nissim of Gerona</a>, the RaN, 14th century Spain</li>
+<li><a title="Isaac Abarbanel" href="https://en.wikipedia.org/wiki/Isaac_Abarbanel">Isaac Abarbanel</a>&nbsp;(1437&ndash;1508)</li>
+<li><a title="Obadiah ben Jacob Sforno" href="https://en.wikipedia.org/wiki/Obadiah_ben_Jacob_Sforno">Obadiah ben Jacob Sforno</a>, 16th century Italy</li>
+</ul>
+</li>
+<li>Acharonim
+<ul>
+<li>The&nbsp;<a title="Vilna Gaon" href="https://en.wikipedia.org/wiki/Vilna_Gaon">Vilna Gaon</a>, Rabbi Eliyahu of Vilna, 18th century Lithuania</li>
+<li>The&nbsp;<a title="Malbim" href="https://en.wikipedia.org/wiki/Malbim">Malbim</a>, Meir Leibush ben Yehiel Michel Wisser</li>
+</ul>
+</li>
+</ul>
+<p>Classical Talmudic commentaries were written by&nbsp;<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>. After Rashi the&nbsp;<a title="Tosafot" href="https://en.wikipedia.org/wiki/Tosafot">Tosafot</a>&nbsp;were written, which was an omnibus commentary on the Talmud by the disciples and descendants of Rashi; this commentary was based on discussions done in the rabbinic academies of&nbsp;<a title="History of the Jews in Germany" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Germany">Germany</a>&nbsp;and&nbsp;<a title="History of the Jews in France" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_France">France</a>.</p>
+<h2><span id="Branches_and_denominations" class="mw-headline">Branches and denominations</span></h2>
+<ul>
+<li><a title="Sadducees" href="https://en.wikipedia.org/wiki/Sadducees">Sadducees</a>&nbsp;(In&nbsp;<a title="Second Temple" href="https://en.wikipedia.org/wiki/Second_Temple">Second Temple</a>&nbsp;times)</li>
+<li><a title="Karaite Judaism" href="https://en.wikipedia.org/wiki/Karaite_Judaism">Karaite Judaism</a>&nbsp;(counted as hardly existent to no longer existent by at least some&nbsp;<a class="mw-redirect" title="Rabbinic Jews" href="https://en.wikipedia.org/wiki/Rabbinic_Jews">Rabbinic Jews</a>, such as Tracey Rich of&nbsp;<a class="new" title="JewFAQ (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=JewFAQ&amp;action=edit&amp;redlink=1">JewFAQ</a>)</li>
+<li><a title="Rabbinic Judaism" href="https://en.wikipedia.org/wiki/Rabbinic_Judaism">Rabbinic Judaism</a>
+<ul>
+<li><a title="Pharisees" href="https://en.wikipedia.org/wiki/Pharisees">Pharisees</a>&nbsp;(In&nbsp;<a title="Second Temple" href="https://en.wikipedia.org/wiki/Second_Temple">Second Temple</a>&nbsp;times)</li>
+<li><a title="Orthodox Judaism" href="https://en.wikipedia.org/wiki/Orthodox_Judaism">Orthodox Judaism</a>
+<ul>
+<li><a title="Misnagdim" href="https://en.wikipedia.org/wiki/Misnagdim">Misnagdim</a></li>
+<li><a title="Modern Orthodox Judaism" href="https://en.wikipedia.org/wiki/Modern_Orthodox_Judaism">Modern Orthodox Judaism</a></li>
+<li><a title="Haredi Judaism" href="https://en.wikipedia.org/wiki/Haredi_Judaism">Haredi Judaism</a>&nbsp;(including&nbsp;<a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic Judaism</a>)
+<ul>
+<li><a title="Hardal" href="https://en.wikipedia.org/wiki/Hardal">Hardal</a></li>
+<li><a title="Neturei Karta" href="https://en.wikipedia.org/wiki/Neturei_Karta">Neturei Karta</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Conservative Judaism" href="https://en.wikipedia.org/wiki/Conservative_Judaism">Conservative (Masorti) Judaism</a></li>
+<li><a title="Reform Judaism" href="https://en.wikipedia.org/wiki/Reform_Judaism">Reform Judaism</a></li>
+<li><a title="Reconstructionist Judaism" href="https://en.wikipedia.org/wiki/Reconstructionist_Judaism">Reconstructionist Judaism</a></li>
+<li><a title="Jewish Renewal" href="https://en.wikipedia.org/wiki/Jewish_Renewal">Jewish Renewal</a></li>
+<li><a title="Humanistic Judaism" href="https://en.wikipedia.org/wiki/Humanistic_Judaism">Humanistic Judaism</a></li>
+</ul>
+</li>
+<li><a title="Messianic Judaism" href="https://en.wikipedia.org/wiki/Messianic_Judaism">Messianic Judaism</a>&nbsp;(regarded by virtually all mainstream Jewish denominations as a Christian group)</li>
+<li><a title="Sabbateans" href="https://en.wikipedia.org/wiki/Sabbateans">Sabbateans</a></li>
+<li><a title="Frankism" href="https://en.wikipedia.org/wiki/Frankism">Frankism</a></li>
+<li><a title="Religious Zionism" href="https://en.wikipedia.org/wiki/Religious_Zionism">Religious Zionism</a>&nbsp;(Interdenominational)</li>
+</ul>
+<h2><span id="Behavior_and_experience" class="mw-headline">Behavior and experience</span></h2>
+<ul>
+<li><a title="Jew (word)" href="https://en.wikipedia.org/wiki/Jew_(word)">Jew (word)</a></li>
+<li><a title="Who is a Jew?" href="https://en.wikipedia.org/wiki/Who_is_a_Jew%3F">Who is a Jew?</a></li>
+<li><a class="mw-redirect" title="Bar and Bat Mitzvah" href="https://en.wikipedia.org/wiki/Bar_and_Bat_Mitzvah">Bar and Bat Mitzvah</a></li>
+<li><a title="Bereavement in Judaism" href="https://en.wikipedia.org/wiki/Bereavement_in_Judaism">Bereavement</a></li>
+<li><em><a title="Brit milah" href="https://en.wikipedia.org/wiki/Brit_milah">Brit milah</a></em>&nbsp;(Circumcision)
+<ul>
+<li><a title="Brit milah" href="https://en.wikipedia.org/wiki/Brit_milah#Hatafat_dam_brit">Hatafat dam brit</a></li>
+</ul>
+</li>
+<li><a title="Jewish cuisine" href="https://en.wikipedia.org/wiki/Jewish_cuisine">Cuisine</a></li>
+<li><a title="Jewish views on marriage" href="https://en.wikipedia.org/wiki/Jewish_views_on_marriage">Marriage</a></li>
+<li><a title="Niddah" href="https://en.wikipedia.org/wiki/Niddah">Menstruation</a></li>
+<li><a title="Minyan" href="https://en.wikipedia.org/wiki/Minyan">Minyan</a></li>
+<li><em><a title="Pidyon haben" href="https://en.wikipedia.org/wiki/Pidyon_haben">Pidyon haben</a></em>&nbsp;(Redemption of a firstborn son)</li>
+<li><em><a title="Shidduch" href="https://en.wikipedia.org/wiki/Shidduch">Shidduch</a></em>&nbsp;(Matchmaking)</li>
+<li><em><a title="Zeved habat" href="https://en.wikipedia.org/wiki/Zeved_habat">Zeved habat</a></em>&nbsp;(Naming ceremony for newborn girls)</li>
+<li><a title="Jewish wedding" href="https://en.wikipedia.org/wiki/Jewish_wedding">Wedding</a></li>
+</ul>
+<h3><span id="Holy_days_and_observances" class="mw-headline">Holy days and observances</span></h3>
+<ul>
+<li><a title="Jewish holidays" href="https://en.wikipedia.org/wiki/Jewish_holidays">Jewish holidays</a></li>
+<li><a title="Jewish and Israeli holidays 2000&ndash;2050" href="https://en.wikipedia.org/wiki/Jewish_and_Israeli_holidays_2000%E2%80%932050">Jewish and Israeli holidays 2000&ndash;2050</a></li>
+<li><a title="Shabbat" href="https://en.wikipedia.org/wiki/Shabbat">Shabbat</a></li>
+</ul>
+<p>Major</p>
+<ul>
+<li><a title="Passover" href="https://en.wikipedia.org/wiki/Passover">Passover</a></li>
+<li><a title="Shavuot" href="https://en.wikipedia.org/wiki/Shavuot">Shavuot</a></li>
+<li><a title="Rosh Hashanah" href="https://en.wikipedia.org/wiki/Rosh_Hashanah">Rosh Hashanah</a></li>
+<li><a title="Yom Kippur" href="https://en.wikipedia.org/wiki/Yom_Kippur">Yom Kippur</a></li>
+<li><a title="Sukkot" href="https://en.wikipedia.org/wiki/Sukkot">Sukkot</a></li>
+<li><a title="Simchat Torah" href="https://en.wikipedia.org/wiki/Simchat_Torah">Simchat Torah</a></li>
+<li><a title="Shemini Atzeret" href="https://en.wikipedia.org/wiki/Shemini_Atzeret">Shemini Atzeret</a></li>
+<li><a title="Rosh Chodesh" href="https://en.wikipedia.org/wiki/Rosh_Chodesh">Rosh Chodesh</a></li>
+</ul>
+<p>Minor</p>
+<ul>
+<li><a title="Purim" href="https://en.wikipedia.org/wiki/Purim">Purim</a></li>
+<li><a title="Hanukkah" href="https://en.wikipedia.org/wiki/Hanukkah">Hanukkah</a></li>
+<li><a class="mw-redirect" title="Yom Ha'atzmaut" href="https://en.wikipedia.org/wiki/Yom_Ha%27atzmaut">Yom Ha'atzmaut</a></li>
+</ul>
+<p>Fast days</p>
+<ul>
+<li><a title="Seventeenth of Tammuz" href="https://en.wikipedia.org/wiki/Seventeenth_of_Tammuz">Seventeenth of Tammuz</a></li>
+<li><a title="Tisha B'Av" href="https://en.wikipedia.org/wiki/Tisha_B%27Av">Tisha B'Av</a></li>
+<li><a title="Fast of Esther" href="https://en.wikipedia.org/wiki/Fast_of_Esther">Fast of Esther</a></li>
+<li><a title="Fast of Gedalia" href="https://en.wikipedia.org/wiki/Fast_of_Gedalia">Fast of Gedalia</a></li>
+</ul>
+<h2><span id="Belief_and_doctrine" class="mw-headline">Belief and doctrine</span></h2>
+<ul>
+<li><a title="Monotheism" href="https://en.wikipedia.org/wiki/Monotheism">Monotheism</a></li>
+<li><a title="Jewish philosophy" href="https://en.wikipedia.org/wiki/Jewish_philosophy">Philosophy</a></li>
+<li><a title="Jewish principles of faith" href="https://en.wikipedia.org/wiki/Jewish_principles_of_faith">Principles of faith</a></li>
+<li><a class="mw-redirect" title="Jews as a chosen people" href="https://en.wikipedia.org/wiki/Jews_as_a_chosen_people">Chosen people</a></li>
+<li><a title="Jewish eschatology" href="https://en.wikipedia.org/wiki/Jewish_eschatology">Eschatology</a>
+<ul>
+<li><a title="Category:Jewish eschatology" href="https://en.wikipedia.org/wiki/Category:Jewish_eschatology">Category:Jewish eschatology</a>
+<ul>
+<li><a title="Armilus" href="https://en.wikipedia.org/wiki/Armilus">Armilus</a></li>
+<li><a title="Atchalta De'Geulah" href="https://en.wikipedia.org/wiki/Atchalta_De%27Geulah">Atchalta De'Geulah</a></li>
+<li><a title="Gathering of Israel" href="https://en.wikipedia.org/wiki/Gathering_of_Israel">Gathering of Israel</a></li>
+<li><a title="Gog and Magog" href="https://en.wikipedia.org/wiki/Gog_and_Magog">Gog and Magog</a></li>
+<li><a class="mw-redirect" title="Jewish messianism" href="https://en.wikipedia.org/wiki/Jewish_messianism">Jewish messianism</a></li>
+<li><a title="Year 6000" href="https://en.wikipedia.org/wiki/Year_6000">Year 6000</a></li>
+<li><a title="Messiah ben Joseph" href="https://en.wikipedia.org/wiki/Messiah_ben_Joseph">Messiah ben Joseph</a></li>
+<li><a class="mw-redirect" title="Jewish messianism" href="https://en.wikipedia.org/wiki/Jewish_messianism#Historical">Messiah ben David</a></li>
+<li><a title="The Messiah at the Gates of Rome" href="https://en.wikipedia.org/wiki/The_Messiah_at_the_Gates_of_Rome">The Messiah at the Gates of Rome</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Jewish ethics" href="https://en.wikipedia.org/wiki/Jewish_ethics">Jewish ethics</a>
+<ul>
+<li><a title="Chillul Hashem" href="https://en.wikipedia.org/wiki/Chillul_Hashem">Chillul Hashem</a></li>
+<li><a title="Geneivat da'at" href="https://en.wikipedia.org/wiki/Geneivat_da%27at">Geneivat da'at</a></li>
+<li><a title="Kiddush Hashem" href="https://en.wikipedia.org/wiki/Kiddush_Hashem">Kiddush Hashem</a></li>
+<li><a title="Lashon hara" href="https://en.wikipedia.org/wiki/Lashon_hara">Lashon hara</a></li>
+<li><a title="Lifnei iver" href="https://en.wikipedia.org/wiki/Lifnei_iver">Lifnei iver</a></li>
+<li><a class="mw-redirect" title="Retzach" href="https://en.wikipedia.org/wiki/Retzach">Retzach</a></li>
+</ul>
+</li>
+<li><a title="Holocaust theology" href="https://en.wikipedia.org/wiki/Holocaust_theology">Holocaust theology</a></li>
+<li><a title="Tzedakah" href="https://en.wikipedia.org/wiki/Tzedakah">Tzedakah</a></li>
+<li><a title="Tzniut" href="https://en.wikipedia.org/wiki/Tzniut">Tzniut</a></li>
+<li><a title="Shatnez" href="https://en.wikipedia.org/wiki/Shatnez">Shatnez</a></li>
+</ul>
+<h3><span id="Law" class="mw-headline">Law</span></h3>
+<ul>
+<li><a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">Halakha</a></li>
+<li><a class="mw-redirect" title="613 Mitzvot" href="https://en.wikipedia.org/wiki/613_Mitzvot">613 Mitzvot</a></li>
+<li><a title="Seven Laws of Noah" href="https://en.wikipedia.org/wiki/Seven_Laws_of_Noah">Seven Laws of Noah</a></li>
+<li><a title="Ten Commandments" href="https://en.wikipedia.org/wiki/Ten_Commandments#Judaism">Ten Commandments</a></li>
+</ul>
+<h4><span id="Major_legal_codes_and_works" class="mw-headline">Major legal codes and works</span></h4>
+<ul>
+<li><a title="Midrash halakha" href="https://en.wikipedia.org/wiki/Midrash_halakha">Midrash halakha</a></li>
+<li><a title="Arba'ah Turim" href="https://en.wikipedia.org/wiki/Arba%27ah_Turim">Arba'ah Turim</a>&nbsp;and&nbsp;<a title="Shulchan Aruch" href="https://en.wikipedia.org/wiki/Shulchan_Aruch">Shulchan Aruch</a>
+<ul>
+<li><a title="Orach Chayim" href="https://en.wikipedia.org/wiki/Orach_Chayim">Orach Chayim</a></li>
+<li><a title="Yoreh De'ah" href="https://en.wikipedia.org/wiki/Yoreh_De%27ah">Yoreh De'ah</a></li>
+<li><a title="Even Ha'ezer" href="https://en.wikipedia.org/wiki/Even_Ha%27ezer">Even Ha'ezer</a></li>
+<li><a title="Choshen Mishpat" href="https://en.wikipedia.org/wiki/Choshen_Mishpat">Choshen Mishpat</a></li>
+</ul>
+</li>
+<li><a title="Mishneh Torah" href="https://en.wikipedia.org/wiki/Mishneh_Torah">Mishneh Torah</a></li>
+<li><a title="Sefer Hamitzvot" href="https://en.wikipedia.org/wiki/Sefer_Hamitzvot">Sefer Hamitzvot</a></li>
+<li><a title="Shulchan Aruch HaRav" href="https://en.wikipedia.org/wiki/Shulchan_Aruch_HaRav">Shulchan Aruch HaRav</a></li>
+<li><a title="Chayei Adam" href="https://en.wikipedia.org/wiki/Chayei_Adam">Chayei Adam</a></li>
+<li><a title="Shlomo Ganzfried" href="https://en.wikipedia.org/wiki/Shlomo_Ganzfried#Kitzur_Shulchan_Aruch">Kitzur Shulchan Aruch</a></li>
+<li><a title="Mishnah Berurah" href="https://en.wikipedia.org/wiki/Mishnah_Berurah">Mishnah Berurah</a></li>
+<li><a title="Aruch HaShulchan" href="https://en.wikipedia.org/wiki/Aruch_HaShulchan">Aruch HaShulchan</a></li>
+</ul>
+<h3><span id="Examples_of_legal_principles" class="mw-headline">Examples of legal principles</span></h3>
+<ul>
+<li><a title="Aveira" href="https://en.wikipedia.org/wiki/Aveira">Aveira</a></li>
+<li><a title="Bemeizid" href="https://en.wikipedia.org/wiki/Bemeizid">Bemeizid</a></li>
+<li><a title="B'rov am hadrat melech" href="https://en.wikipedia.org/wiki/B%27rov_am_hadrat_melech">B'rov am hadrat melech</a></li>
+<li><a class="mw-redirect" title="Chumra" href="https://en.wikipedia.org/wiki/Chumra">Chumra</a></li>
+<li><a class="mw-redirect" title="D'Oraita and D'Rabbanan" href="https://en.wikipedia.org/wiki/D%27Oraita_and_D%27Rabbanan">D'Oraita and D'Rabbanan</a></li>
+<li><a title="Mitzvah goreret mitzvah" href="https://en.wikipedia.org/wiki/Mitzvah_goreret_mitzvah">Mitzvah goreret mitzvah</a></li>
+<li><a title="Ikar v'tafel" href="https://en.wikipedia.org/wiki/Ikar_v%27tafel">Ikar v'tafel</a></li>
+<li><a title="Neder" href="https://en.wikipedia.org/wiki/Neder">Neder</a></li>
+<li><a title="Osek b'mitzvah patur min hamitzvah" href="https://en.wikipedia.org/wiki/Osek_b%27mitzvah_patur_min_hamitzvah">Osek b'mitzvah patur min hamitzvah</a></li>
+<li><a title="Pikuach nefesh" href="https://en.wikipedia.org/wiki/Pikuach_nefesh">Pikuach nefesh</a></li>
+<li><a class="mw-redirect" title="Positive time-bound mitzvot" href="https://en.wikipedia.org/wiki/Positive_time-bound_mitzvot">Positive time-bound mitzvot</a></li>
+<li><a title="Self-sacrifice in Jewish law" href="https://en.wikipedia.org/wiki/Self-sacrifice_in_Jewish_law">Self-sacrifice in Jewish law</a></li>
+<li><a title="Shomea k'oneh" href="https://en.wikipedia.org/wiki/Shomea_k%27oneh">Shomea k'oneh</a></li>
+<li><a title="Toch k'dei dibur" href="https://en.wikipedia.org/wiki/Toch_k%27dei_dibur">Toch k'dei dibur</a></li>
+<li><a title="Yad soledet bo" href="https://en.wikipedia.org/wiki/Yad_soledet_bo">Yad soledet bo</a></li>
+</ul>
+<h4><span id="Examples_of_Biblical_punishments" class="mw-headline">Examples of Biblical punishments</span></h4>
+<ul>
+<li><a class="mw-redirect" title="Capital punishment in Judaism" href="https://en.wikipedia.org/wiki/Capital_punishment_in_Judaism">Capital punishment</a></li>
+<li><a title="Kareth" href="https://en.wikipedia.org/wiki/Kareth">Kareth</a></li>
+<li><a title="Stoning" href="https://en.wikipedia.org/wiki/Stoning">Stoning</a></li>
+</ul>
+<h3><span id="Dietary_laws_and_customs" class="mw-headline">Dietary laws and customs</span></h3>
+<ul>
+<li><a title="Kashrut" href="https://en.wikipedia.org/wiki/Kashrut">Kashrut</a>
+<ul>
+<li><a title="Kosher animals" href="https://en.wikipedia.org/wiki/Kosher_animals">Kosher animals</a></li>
+<li><a class="mw-redirect" title="Kosher fish list" href="https://en.wikipedia.org/wiki/Kosher_fish_list">Kosher fish list</a></li>
+<li><a title="Kosher foods" href="https://en.wikipedia.org/wiki/Kosher_foods">Kosher foods</a></li>
+<li><a title="Kosher wine" href="https://en.wikipedia.org/wiki/Kosher_wine">Kosher wine</a></li>
+</ul>
+</li>
+<li><a title="Mashgiach" href="https://en.wikipedia.org/wiki/Mashgiach">Mashgiach</a></li>
+<li><a title="Milk and meat in Jewish law" href="https://en.wikipedia.org/wiki/Milk_and_meat_in_Jewish_law">Milk and meat in Jewish law</a></li>
+<li><a title="Shechita" href="https://en.wikipedia.org/wiki/Shechita">Slaughter</a></li>
+<li><a title="Hechsher" href="https://en.wikipedia.org/wiki/Hechsher">Hechsher</a></li>
+<li><a title="Jewish vegetarianism" href="https://en.wikipedia.org/wiki/Jewish_vegetarianism">Vegetarianism</a></li>
+</ul>
+<h3><span id="Names_of_God" class="mw-headline">Names of God</span></h3>
+<div class="hatnote navigation-not-searchable">Main article:&nbsp;<a title="Names of God in Judaism" href="https://en.wikipedia.org/wiki/Names_of_God_in_Judaism">Names of God in Judaism</a></div>
+<ul>
+<li><a title="Category:Tetragrammaton" href="https://en.wikipedia.org/wiki/Category:Tetragrammaton">Category:Tetragrammaton</a>
+<ul>
+<li><a title="Shem HaMephorash" href="https://en.wikipedia.org/wiki/Shem_HaMephorash">Shem HaMephorash</a></li>
+</ul>
+</li>
+<li><a title="Ancient of Days" href="https://en.wikipedia.org/wiki/Ancient_of_Days">Ancient of Days</a></li>
+<li><a title="El (deity)" href="https://en.wikipedia.org/wiki/El_(deity)">El</a></li>
+<li><a title="El Roi" href="https://en.wikipedia.org/wiki/El_Roi">El Roi</a></li>
+<li><a title="El Shaddai" href="https://en.wikipedia.org/wiki/El_Shaddai">El Shaddai</a></li>
+<li><a title="Elohim" href="https://en.wikipedia.org/wiki/Elohim">Elohim</a></li>
+<li><a title="I Am that I Am" href="https://en.wikipedia.org/wiki/I_Am_that_I_Am">I Am that I Am</a></li>
+<li><a class="mw-redirect" title="Shaddai (god)" href="https://en.wikipedia.org/wiki/Shaddai_(god)">Shaddai</a></li>
+</ul>
+<h3><span id="Mysticism_and_the_esoteric" class="mw-headline">Mysticism and the esoteric</span></h3>
+<ul>
+<li><a title="Category:Jewish mysticism" href="https://en.wikipedia.org/wiki/Category:Jewish_mysticism">Category:Jewish mysticism</a>
+<ul>
+<li><a title="Category:Jewish mystical texts" href="https://en.wikipedia.org/wiki/Category:Jewish_mystical_texts">Category:Jewish mystical texts</a></li>
+</ul>
+</li>
+<li><a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalah</a>
+<ul>
+<li><a title="Category:Kabbalah" href="https://en.wikipedia.org/wiki/Category:Kabbalah">Category:Kabbalah</a>
+<ul>
+<li><a title="Category:Kabbalah texts" href="https://en.wikipedia.org/wiki/Category:Kabbalah_texts">Category:Kabbalah texts</a></li>
+<li><a title="Category:Kabbalists" href="https://en.wikipedia.org/wiki/Category:Kabbalists">Category:Kabbalists</a>
+<ul>
+<li><a class="mw-redirect" title="Timeline List of Jewish Kabbalists" href="https://en.wikipedia.org/wiki/Timeline_List_of_Jewish_Kabbalists">Timeline List of Jewish Kabbalists</a></li>
+</ul>
+</li>
+<li><a title="Category:Practical Kabbalah" href="https://en.wikipedia.org/wiki/Category:Practical_Kabbalah">Category:Practical Kabbalah</a></li>
+<li><a title="Category:Kabbalistic words and phrases" href="https://en.wikipedia.org/wiki/Category:Kabbalistic_words_and_phrases">Category:Kabbalistic words and phrases</a>
+<ul>
+<li><a title="Ein Sof" href="https://en.wikipedia.org/wiki/Ein_Sof">Ein Sof</a></li>
+<li><a title="Ohr" href="https://en.wikipedia.org/wiki/Ohr">Ohr</a></li>
+<li><a title="Category:Qliphoth" href="https://en.wikipedia.org/wiki/Category:Qliphoth">Category:Qliphoth</a></li>
+<li><a title="Category:Four Worlds" href="https://en.wikipedia.org/wiki/Category:Four_Worlds">Category:Four Worlds</a>
+<ul>
+<li><a title="Atziluth" href="https://en.wikipedia.org/wiki/Atziluth">Atziluth</a></li>
+<li><a title="Beri'ah" href="https://en.wikipedia.org/wiki/Beri%27ah">Beri'ah</a></li>
+<li><a title="Yetzirah" href="https://en.wikipedia.org/wiki/Yetzirah">Yetzirah</a></li>
+<li><a title="Assiah" href="https://en.wikipedia.org/wiki/Assiah">Assiah</a></li>
+</ul>
+</li>
+<li><a title="Category:Sephirot" href="https://en.wikipedia.org/wiki/Category:Sephirot">Category:Sephirot</a>
+<ul>
+<li><a title="Keter" href="https://en.wikipedia.org/wiki/Keter">Keter</a></li>
+<li><a class="mw-redirect" title="Chokhmah (Kabbalah)" href="https://en.wikipedia.org/wiki/Chokhmah_(Kabbalah)">Chokhmah</a></li>
+<li><a title="Binah (Kabbalah)" href="https://en.wikipedia.org/wiki/Binah_(Kabbalah)">Binah</a></li>
+<li><a title="Da'at" href="https://en.wikipedia.org/wiki/Da%27at">Da'at</a></li>
+<li><a title="Chesed" href="https://en.wikipedia.org/wiki/Chesed">Chesed</a></li>
+<li><a title="Gevurah" href="https://en.wikipedia.org/wiki/Gevurah">Gevurah</a></li>
+<li><a title="Tiferet" href="https://en.wikipedia.org/wiki/Tiferet">Tiferet</a></li>
+<li><a title="Netzach" href="https://en.wikipedia.org/wiki/Netzach">Netzach</a></li>
+<li><a title="Hod (Kabbalah)" href="https://en.wikipedia.org/wiki/Hod_(Kabbalah)">Hod</a></li>
+<li><a class="mw-redirect" title="Yesod (Kabbalah)" href="https://en.wikipedia.org/wiki/Yesod_(Kabbalah)">Yesod</a></li>
+<li><a title="Malkuth" href="https://en.wikipedia.org/wiki/Malkuth">Malkuth</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a title="Category:Angels in Judaism" href="https://en.wikipedia.org/wiki/Category:Angels_in_Judaism">Category:Angels in Judaism</a></li>
+<li><a class="mw-redirect" title="Kabbalistic angelic hierarchy" href="https://en.wikipedia.org/wiki/Kabbalistic_angelic_hierarchy">Kabbalistic angelic hierarchy</a></li>
+<li><a title="Category:Kabbalah stubs" href="https://en.wikipedia.org/wiki/Category:Kabbalah_stubs">Category:Kabbalah stubs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span id="Religious_articles_and_prayers" class="mw-headline">Religious articles and prayers</span></h2>
+<ul>
+<li><a title="Aleinu" href="https://en.wikipedia.org/wiki/Aleinu">Aleinu</a></li>
+<li><a title="Amidah" href="https://en.wikipedia.org/wiki/Amidah">Amidah</a></li>
+<li><a class="mw-redirect" title="Four Species" href="https://en.wikipedia.org/wiki/Four_Species">Four Species</a></li>
+<li><a title="Gartel" href="https://en.wikipedia.org/wiki/Gartel">Gartel</a></li>
+<li><a title="Hallel" href="https://en.wikipedia.org/wiki/Hallel">Hallel</a></li>
+<li><a title="Havdalah" href="https://en.wikipedia.org/wiki/Havdalah">Havdalah</a></li>
+<li><a title="Kaddish" href="https://en.wikipedia.org/wiki/Kaddish">Kaddish</a></li>
+<li><a title="Kittel" href="https://en.wikipedia.org/wiki/Kittel">Kittel</a></li>
+<li><a title="Kol Nidre" href="https://en.wikipedia.org/wiki/Kol_Nidre">Kol Nidre</a></li>
+<li><a title="Ma Tovu" href="https://en.wikipedia.org/wiki/Ma_Tovu">Ma Tovu</a></li>
+<li><a title="Menorah (Temple)" href="https://en.wikipedia.org/wiki/Menorah_(Temple)">Menorah</a></li>
+<li><a title="Menorah (Hanukkah)" href="https://en.wikipedia.org/wiki/Menorah_(Hanukkah)">Hanukiah</a></li>
+<li><a title="Mezuzah" href="https://en.wikipedia.org/wiki/Mezuzah">Mezuzah</a></li>
+<li><a title="List of Jewish prayers and blessings" href="https://en.wikipedia.org/wiki/List_of_Jewish_prayers_and_blessings">Prayers</a></li>
+<li><a title="Sefer Torah" href="https://en.wikipedia.org/wiki/Sefer_Torah">Sefer Torah</a></li>
+<li><a class="mw-redirect" title="Jewish prayer services" href="https://en.wikipedia.org/wiki/Jewish_prayer_services">Services</a></li>
+<li><a title="Shema Yisrael" href="https://en.wikipedia.org/wiki/Shema_Yisrael">Shema Yisrael</a></li>
+<li><a title="Shofar" href="https://en.wikipedia.org/wiki/Shofar">Shofar</a></li>
+<li><a title="Tallit" href="https://en.wikipedia.org/wiki/Tallit">Tallit</a></li>
+<li><a title="Tefillin" href="https://en.wikipedia.org/wiki/Tefillin">Tefillin</a></li>
+<li><a title="Tzitzit" href="https://en.wikipedia.org/wiki/Tzitzit">Tzitzit</a></li>
+<li><a title="Yad" href="https://en.wikipedia.org/wiki/Yad">Yad</a></li>
+<li><a title="Kippah" href="https://en.wikipedia.org/wiki/Kippah">Kippah/Yarmulke</a></li>
+</ul>
+<h2><span id="Conversion" class="mw-headline">Conversion</span></h2>
+<ul>
+<li><a title="Conversion to Judaism" href="https://en.wikipedia.org/wiki/Conversion_to_Judaism">Conversion to Judaism</a></li>
+<li><a title="Ritual washing in Judaism" href="https://en.wikipedia.org/wiki/Ritual_washing_in_Judaism#Conversion_to_Judaism">Tevilah</a></li>
+<li><a title="Mikveh" href="https://en.wikipedia.org/wiki/Mikveh">Mikveh</a></li>
+<li><a title="Category:Converts to Judaism" href="https://en.wikipedia.org/wiki/Category:Converts_to_Judaism">Category:Converts to Judaism</a>
+<ul>
+<li><a title="Category:Converts to Judaism from atheism or agnosticism" href="https://en.wikipedia.org/wiki/Category:Converts_to_Judaism_from_atheism_or_agnosticism">Category:Converts to Judaism from atheism or agnosticism</a></li>
+<li><a title="Category:Converts to Judaism from Christianity" href="https://en.wikipedia.org/wiki/Category:Converts_to_Judaism_from_Christianity">Category:Converts to Judaism from Christianity</a></li>
+<li><a title="Category:Converts to Judaism from Islam" href="https://en.wikipedia.org/wiki/Category:Converts_to_Judaism_from_Islam">Category:Converts to Judaism from Islam</a></li>
+<li><a title="Category:Converts to Judaism from Oriental Orthodoxy" href="https://en.wikipedia.org/wiki/Category:Converts_to_Judaism_from_Oriental_Orthodoxy">Category:Converts to Judaism from Oriental Orthodoxy</a></li>
+<li><a title="Category:Groups who converted to Judaism" href="https://en.wikipedia.org/wiki/Category:Groups_who_converted_to_Judaism">Category:Groups who converted to Judaism</a></li>
+</ul>
+</li>
+</ul>
+<h3><span id="Return_to_Judaism" class="mw-headline">Return to Judaism</span></h3>
+<ul>
+<li><a title="Who is a Jew?" href="https://en.wikipedia.org/wiki/Who_is_a_Jew%3F">Who is a Jew?</a></li>
+<li><a title="Baal teshuva" href="https://en.wikipedia.org/wiki/Baal_teshuva">Baal teshuva</a>
+<ul>
+<li><a title="Baal teshuva movement" href="https://en.wikipedia.org/wiki/Baal_teshuva_movement">Baal teshuva movement</a></li>
+<li><a title="Category:Baalei teshuva institutions" href="https://en.wikipedia.org/wiki/Category:Baalei_teshuva_institutions">Category:Baalei teshuva institutions</a></li>
+<li><a title="Category:Conservative Judaism outreach" href="https://en.wikipedia.org/wiki/Category:Conservative_Judaism_outreach">Category:Conservative Judaism outreach</a></li>
+<li><a title="Category:Orthodox Jewish outreach" href="https://en.wikipedia.org/wiki/Category:Orthodox_Jewish_outreach">Category:Orthodox Jewish outreach</a></li>
+<li><a title="Category:Reform Judaism outreach" href="https://en.wikipedia.org/wiki/Category:Reform_Judaism_outreach">Category:Reform Judaism outreach</a></li>
+</ul>
+</li>
+<li><a title="Atonement in Judaism" href="https://en.wikipedia.org/wiki/Atonement_in_Judaism">Atonement in Judaism</a></li>
+<li><a class="mw-redirect" title="Confession in Judaism" href="https://en.wikipedia.org/wiki/Confession_in_Judaism">Confession in Judaism</a></li>
+<li><a title="Repentance in Judaism" href="https://en.wikipedia.org/wiki/Repentance_in_Judaism">Repentance in Judaism</a></li>
+</ul>
+<h3><span id="Apostasy" class="mw-headline">Apostasy</span></h3>
+<ul>
+<li><a title="Apostasy in Judaism" href="https://en.wikipedia.org/wiki/Apostasy_in_Judaism">Apostasy in Judaism</a></li>
+<li><a title="Epikoros" href="https://en.wikipedia.org/wiki/Epikoros">Epikoros</a></li>
+<li><a class="mw-redirect" title="Ex-Haredim" href="https://en.wikipedia.org/wiki/Ex-Haredim">Ex-Haredim</a>&nbsp;(Yetzia bish'eila)</li>
+<li><a title="Haskalah" href="https://en.wikipedia.org/wiki/Haskalah">Haskalah</a></li>
+<li><a title="Heresy in Judaism" href="https://en.wikipedia.org/wiki/Heresy_in_Judaism">Heresy in Judaism</a>
+<ul>
+<li><a title="Heresy in Orthodox Judaism" href="https://en.wikipedia.org/wiki/Heresy_in_Orthodox_Judaism">Heresy in Orthodox Judaism</a></li>
+</ul>
+</li>
+<li><a title="Jewish anarchism" href="https://en.wikipedia.org/wiki/Jewish_anarchism">Jewish anarchism</a></li>
+<li><a title="Jewish atheism" href="https://en.wikipedia.org/wiki/Jewish_atheism">Jewish atheism</a>
+<ul>
+<li><a title="Category:Jewish agnostics" href="https://en.wikipedia.org/wiki/Category:Jewish_agnostics">Category:Jewish agnostics</a></li>
+<li><a title="Category:Jewish atheists" href="https://en.wikipedia.org/wiki/Category:Jewish_atheists">Category:Jewish atheists</a></li>
+<li><a title="List of former Jews" href="https://en.wikipedia.org/wiki/List_of_former_Jews">List of former Jews</a></li>
+</ul>
+</li>
+<li><a title="Jewish schisms" href="https://en.wikipedia.org/wiki/Jewish_schisms">Jewish schisms</a></li>
+<li><a title="Jewish secularism" href="https://en.wikipedia.org/wiki/Jewish_secularism">Jewish secularism</a>
+<ul>
+<li><a title="Secularism in Israel" href="https://en.wikipedia.org/wiki/Secularism_in_Israel">Secularism in Israel</a></li>
+<li><a title="Category:Secular Jewish culture" href="https://en.wikipedia.org/wiki/Category:Secular_Jewish_culture">Category:Secular Jewish culture</a></li>
+</ul>
+</li>
+<li><a title="Category:Converts from Judaism" href="https://en.wikipedia.org/wiki/Category:Converts_from_Judaism">Category:Converts from Judaism</a>
+<ul>
+<li><a title="Category:Jewish agnostics" href="https://en.wikipedia.org/wiki/Category:Jewish_agnostics">Category:Jewish agnostics</a></li>
+<li><a title="Category:Jewish atheists" href="https://en.wikipedia.org/wiki/Category:Jewish_atheists">Category:Jewish atheists</a></li>
+<li><a title="Category:Converts to Christianity from Judaism" href="https://en.wikipedia.org/wiki/Category:Converts_to_Christianity_from_Judaism">Category:Converts to Christianity from Judaism</a></li>
+<li><a title="Category:Converts to Islam from Judaism" href="https://en.wikipedia.org/wiki/Category:Converts_to_Islam_from_Judaism">Category:Converts to Islam from Judaism</a></li>
+</ul>
+</li>
+</ul>
+<h2><span id="Interactions_with_other_religions_and_cultures" class="mw-headline">Interactions with other religions and cultures</span></h2>
+<ul>
+<li><a title="Abrahamic religions" href="https://en.wikipedia.org/wiki/Abrahamic_religions">Abrahamic religions</a></li>
+<li><a title="Black Hebrew Israelites" href="https://en.wikipedia.org/wiki/Black_Hebrew_Israelites">Black Hebrew Israelites</a></li>
+<li><a title="Christianity and Judaism" href="https://en.wikipedia.org/wiki/Christianity_and_Judaism">Christianity and Judaism</a>
+<ul>
+<li><a title="Catholic Church and Judaism" href="https://en.wikipedia.org/wiki/Catholic_Church_and_Judaism">Catholic Church and Judaism</a></li>
+<li><a title="Christian&ndash;Jewish reconciliation" href="https://en.wikipedia.org/wiki/Christian%E2%80%93Jewish_reconciliation">Christian&ndash;Jewish reconciliation</a></li>
+<li><a title="Judaism and Mormonism" href="https://en.wikipedia.org/wiki/Judaism_and_Mormonism">Judaism and Mormonism</a></li>
+<li><a title="Messianic Judaism" href="https://en.wikipedia.org/wiki/Messianic_Judaism">Messianic Judaism</a></li>
+</ul>
+</li>
+<li><a title="Islamic&ndash;Jewish relations" href="https://en.wikipedia.org/wiki/Islamic%E2%80%93Jewish_relations">Islamic&ndash;Jewish relations</a></li>
+<li><a title="Jewish Buddhist" href="https://en.wikipedia.org/wiki/Jewish_Buddhist">Jewish Buddhist</a></li>
+<li><a title="Jewish views on religious pluralism" href="https://en.wikipedia.org/wiki/Jewish_views_on_religious_pluralism">Jewish views on religious pluralism</a></li>
+<li><a title="Semitic neopaganism" href="https://en.wikipedia.org/wiki/Semitic_neopaganism">Semitic neopaganism</a></li>
+</ul>
 
-
-
+</br>
 
 <hr>
 <ul>
