@@ -1670,4 +1670,1123 @@ Modern Europe</a></li>
  
  
  </ul>
+  </br>
+  
+  <h2>Timeline of Jewish history </h2>
+  
+  <dl>
+<dt>c. 1312 BCE&nbsp;</dt>
+<dd><a title="The Exodus" href="https://en.wikipedia.org/wiki/The_Exodus">the Exodus</a>&nbsp;from Egypt (<a title="Moses" href="https://en.wikipedia.org/wiki/Moses">Moses</a>)</dd>
+<dt>c. 1250 BCE&ndash;c. 1025 BCE</dt>
+<dd><a title="Biblical judges" href="https://en.wikipedia.org/wiki/Biblical_judges">Biblical judges</a>&nbsp;lead the people</dd>
+<dt>c. 1025 BCE&ndash;c. 1010 BCE</dt>
+<dd><a class="mw-redirect" title="King Saul" href="https://en.wikipedia.org/wiki/King_Saul">King Saul</a></dd>
+<dt>c. 1010 BCE&ndash;c. 970 BCE</dt>
+<dd><a class="mw-redirect" title="King David" href="https://en.wikipedia.org/wiki/King_David">King David</a></dd>
+<dt>c. 970 BCE&ndash;c. 931 BCE</dt>
+<dd><a class="mw-redirect" title="King Solomon" href="https://en.wikipedia.org/wiki/King_Solomon">King Solomon</a></dd>
+<dt>c. 960 BCE</dt>
+<dd><a title="Solomon's Temple" href="https://en.wikipedia.org/wiki/Solomon%27s_Temple">Solomon's Temple</a>&nbsp;in&nbsp;<a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>&nbsp;completed</dd>
+</dl>
+<div class="thumb tright">&nbsp;c. 931 BCE</div>
+<dl>
+<dd>Split between&nbsp;<a title="Kingdom of Israel (Samaria)" href="https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)">Kingdom of Israel (Samaria)</a>&nbsp;and the&nbsp;<a title="Kingdom of Judah" href="https://en.wikipedia.org/wiki/Kingdom_of_Judah">Kingdom of Judah</a></dd>
+<dt>c. 931 BCE&ndash;c. 913 BCE</dt>
+<dd><a title="Rehoboam" href="https://en.wikipedia.org/wiki/Rehoboam">King Rehoboam of Judah</a></dd>
+<dt>c. 931 BCE&ndash;c. 910 BCE</dt>
+<dd><a title="Jeroboam" href="https://en.wikipedia.org/wiki/Jeroboam">King Jeroboam of Israel</a></dd>
+<dt>840 BCE</dt>
+<dd><a title="Mesha Stele" href="https://en.wikipedia.org/wiki/Mesha_Stele">Mesha inscription</a>&nbsp;describes Moabite victory over a son of King&nbsp;<a title="Omri" href="https://en.wikipedia.org/wiki/Omri">Omri</a>&nbsp;of Israel.</dd>
+<dt>c. 740 BCE&ndash;c. 700 BCE</dt>
+<dd>prophesy of&nbsp;<a title="Isaiah" href="https://en.wikipedia.org/wiki/Isaiah">Isaiah</a></dd>
+<dt>c. 740 BCE&ndash;c. 722 BCE</dt>
+<dd>Kingdom of Israel falls to&nbsp;<a title="Assyria" href="https://en.wikipedia.org/wiki/Assyria">Neo-Assyrian Empire</a></dd>
+<dt>c. 715 BCE&ndash;c. 687 BCE</dt>
+<dd><a class="mw-redirect" title="King Hezekiah" href="https://en.wikipedia.org/wiki/King_Hezekiah">King Hezekiah</a>&nbsp;of Judah</dd>
+<dt>c. 649 BCE&ndash;c. 609 BCE</dt>
+<dd><a title="Josiah" href="https://en.wikipedia.org/wiki/Josiah">King Josiah</a>&nbsp;of Judah institutes major reforms</dd>
+<dt>c. 626 BCЕ &ndash; c. 587 BCE</dt>
+<dd>prophecy of&nbsp;<a title="Jeremiah" href="https://en.wikipedia.org/wiki/Jeremiah">Jeremiah</a></dd>
+<dt>597 BCE</dt>
+<dd>first&nbsp;<a title="Babylonian captivity" href="https://en.wikipedia.org/wiki/Babylonian_captivity">deportation to Babylon</a></dd>
+<dt>586 BCE</dt>
+<dd>Jerusalem falls to&nbsp;<a class="mw-redirect" title="Nebuchadnezzar" href="https://en.wikipedia.org/wiki/Nebuchadnezzar">Nebuchadnezzar</a>&nbsp;and Solomon's Temple destroyed</dd>
+<dt>539 BCE</dt>
+<dd>Jews allowed to return to Jerusalem, by permission of&nbsp;<a title="Cyrus the Great" href="https://en.wikipedia.org/wiki/Cyrus_the_Great">Cyrus</a></dd>
+</dl>
+<div class="thumb tright">&nbsp;520 BCE</div>
+<dl>
+<dd>Prophecy of&nbsp;<a title="Zechariah (Hebrew prophet)" href="https://en.wikipedia.org/wiki/Zechariah_(Hebrew_prophet)">Zechariah</a></dd>
+<dt>c. 520 BCE</dt>
+<dd><a title="Zerubbabel" href="https://en.wikipedia.org/wiki/Zerubbabel">Zerubbabel</a>&nbsp;leads the first group of Jews from captivity back to Jerusalem</dd>
+<dt>516 BCE</dt>
+<dd><a title="Second Temple" href="https://en.wikipedia.org/wiki/Second_Temple">Second Temple</a>&nbsp;consecrated</dd>
+<dt>c. 475 BCE</dt>
+<dd>Often associated with&nbsp;<a class="mw-redirect" title="Xerxes I of Persia" href="https://en.wikipedia.org/wiki/Xerxes_I_of_Persia">Xerxes I of Persia</a>,&nbsp;<a title="Esther" href="https://en.wikipedia.org/wiki/Esther">Queen Esther</a>&nbsp;revealed her identity to the king and began to plead for her people, pointing to Haman as the evil schemer plotting to destroy them.</dd>
+<dt>c. 460 BCE</dt>
+<dd>Seeing anarchy breaking out in Judea, Xerxes' successor Persian&nbsp;<a title="Artaxerxes I of Persia" href="https://en.wikipedia.org/wiki/Artaxerxes_I_of_Persia">King Artaxerxes</a>&nbsp;sent&nbsp;<a title="Ezra" href="https://en.wikipedia.org/wiki/Ezra">Ezra</a>&nbsp;to restore order.</dd>
+</dl>
+<p><span id="FN1">*</span>&nbsp;The Exodus (which we know of from Jewish sources) took place in the Jewish year 2448, and the CE begins in the Jewish year 3760. Between 2448 and 3760 are 1312 years.</p>
+<h2>&nbsp;</h2>
+<dl>
+<dt>332 BCE</dt>
+<dd><a title="Alexander the Great" href="https://en.wikipedia.org/wiki/Alexander_the_Great">Alexander the Great</a>&nbsp;conquers Phoenicia and Gaza, probably passing by Judea without entering the Jewish dominated hill country on his way into Egypt.</dd>
+</dl>
+<dl>
+<dt>200 BCE&ndash;100 CE</dt>
+<dd>At some point during this era the&nbsp;<a class="mw-redirect" title="Tanakh" href="https://en.wikipedia.org/wiki/Tanakh">Tanakh</a>&nbsp;(<a title="Hebrew Bible" href="https://en.wikipedia.org/wiki/Hebrew_Bible">Hebrew Bible</a>) is&nbsp;<a title="Development of the Hebrew Bible canon" href="https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon">canonized</a>. Jewish religious works that were explicitly written after the time of&nbsp;<a title="Ezra" href="https://en.wikipedia.org/wiki/Ezra">Ezra</a>&nbsp;were not canonized, although many became popular among many groups of Jews. Those works that made it into the Greek translation of the Bible (the&nbsp;<a title="Septuagint" href="https://en.wikipedia.org/wiki/Septuagint">Septuagint</a>) became known as the&nbsp;<a title="Deuterocanonical books" href="https://en.wikipedia.org/wiki/Deuterocanonical_books">deuterocanonical books</a>.</dd>
+</dl>
+<dl>
+<dt>167&ndash;161 BCE</dt>
+<dd>The&nbsp;<a title="Maccabean Revolt" href="https://en.wikipedia.org/wiki/Maccabean_Revolt">Maccabean Revolt</a>&nbsp;against the Hellenistic&nbsp;<a title="Seleucid Empire" href="https://en.wikipedia.org/wiki/Seleucid_Empire">Seleucid Empire</a>, led by&nbsp;<a title="Judas Maccabeus" href="https://en.wikipedia.org/wiki/Judas_Maccabeus">Judas Maccabeus</a>, resulting in victory and installation of the&nbsp;<a title="Hanukkah" href="https://en.wikipedia.org/wiki/Hanukkah">Hanukkah</a>&nbsp;holiday.</dd>
+</dl>
+<dl>
+<dt>157&ndash;129 BCE</dt>
+<dd><a title="Hasmonean dynasty" href="https://en.wikipedia.org/wiki/Hasmonean_dynasty">Hasmonean dynasty</a>&nbsp;establishes its royal dominance in Judea during renewed war with the Seleucid Empire.</dd>
+</dl>
+<dl>
+<dt>63 BCE</dt>
+<dd><a title="Pompey" href="https://en.wikipedia.org/wiki/Pompey">Pompey</a>&nbsp;lay siege to and entered the Temple, Judea became a client kingdom of Rome.</dd>
+</dl>
+<dl>
+<dt>40 BCE&ndash;4 BCE</dt>
+<dd><a title="Herod the Great" href="https://en.wikipedia.org/wiki/Herod_the_Great">Herod the Great</a>, appointed&nbsp;<a class="mw-redirect" title="Herodian Dynasty" href="https://en.wikipedia.org/wiki/Herodian_Dynasty">King of the Jews</a>&nbsp;by the&nbsp;<a title="Roman Senate" href="https://en.wikipedia.org/wiki/Roman_Senate">Roman Senate</a>.</dd>
+</dl>
+<dl>
+<dt>6 CE</dt>
+<dd>Province of&nbsp;<a title="Judea (Roman province)" href="https://en.wikipedia.org/wiki/Judea_(Roman_province)">Roman Judea</a>&nbsp;created by merging&nbsp;<a title="Judea" href="https://en.wikipedia.org/wiki/Judea">Judea</a>&nbsp;proper,&nbsp;<a title="Samaria" href="https://en.wikipedia.org/wiki/Samaria">Samaria</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Idumea" href="https://en.wikipedia.org/wiki/Idumea">Idumea</a>.</dd>
+</dl>
+<dl>
+<dt>10 CE</dt>
+<dd><a title="Hillel the Elder" href="https://en.wikipedia.org/wiki/Hillel_the_Elder">Hillel the Elder</a>, considered the greatest Torah sage, dies, leading to the dominance of Shammai till 30 CE, see also&nbsp;<a class="mw-redirect" title="Hillel and Shammai" href="https://en.wikipedia.org/wiki/Hillel_and_Shammai">Hillel and Shammai</a>.</dd>
+</dl>
+<dl>
+<dt>26&ndash;36 CE</dt>
+<dd>Trial and&nbsp;<a title="Crucifixion of Jesus" href="https://en.wikipedia.org/wiki/Crucifixion_of_Jesus">crucifixion of Jesus</a>&nbsp;by the Romans.</dd>
+</dl>
+<dl>
+<dt>30 CE</dt>
+<dd><a title="Helena of Adiabene" href="https://en.wikipedia.org/wiki/Helena_of_Adiabene">Helena of Adiabene</a>, a vassal Parthian kingdom in&nbsp;<a title="Mesopotamia" href="https://en.wikipedia.org/wiki/Mesopotamia">Mesopotamia</a>, converts to Judaism. Significant numbers of Adiabene population follow her, later also providing limited support for Jews during&nbsp;<a class="mw-redirect" title="Jewish-Roman wars" href="https://en.wikipedia.org/wiki/Jewish-Roman_wars">Jewish-Roman wars</a>. In the following centuries the community mostly converts to&nbsp;<a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a>.</dd>
+</dl>
+<dl>
+<dt>30&ndash;70 CE</dt>
+<dd><a class="mw-redirect" title="Schisms among the Jews" href="https://en.wikipedia.org/wiki/Schisms_among_the_Jews#Second_Temple_era">Schism within Judaism during the Second Temple era</a>. A sect within&nbsp;<a title="Hellenistic Judaism" href="https://en.wikipedia.org/wiki/Hellenistic_Judaism">Hellenised Jewish</a>&nbsp;society starts&nbsp;<a class="mw-redirect" title="Jewish Christianity" href="https://en.wikipedia.org/wiki/Jewish_Christianity">Jewish Christianity</a>, see also&nbsp;<a title="Rejection of Jesus" href="https://en.wikipedia.org/wiki/Rejection_of_Jesus">Rejection of Jesus</a>.</dd>
+</dl>
+<div class="thumb tright">&nbsp;</div>
+<dl>
+<dt>66&ndash;70</dt>
+<dd>The&nbsp;<a title="First Jewish&ndash;Roman War" href="https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War">First Jewish&ndash;Roman War</a>&nbsp;ended with destruction of the Second Temple and the&nbsp;<a class="mw-redirect" title="Destruction of Jerusalem" href="https://en.wikipedia.org/wiki/Destruction_of_Jerusalem">fall of Jerusalem</a>. 1,100,000 people are killed by the Romans during the siege, and 97,000 captured and enslaved. The&nbsp;<a title="Sanhedrin" href="https://en.wikipedia.org/wiki/Sanhedrin">Sanhedrin</a>&nbsp;was relocated to&nbsp;<a title="Yavne" href="https://en.wikipedia.org/wiki/Yavne">Yavne</a>&nbsp;by&nbsp;<a class="mw-redirect" title="Yochanan ben Zakai" href="https://en.wikipedia.org/wiki/Yochanan_ben_Zakai">Yochanan ben Zakai</a>, see also&nbsp;<a title="Council of Jamnia" href="https://en.wikipedia.org/wiki/Council_of_Jamnia">Council of Jamnia</a>.&nbsp;<a title="Fiscus Judaicus" href="https://en.wikipedia.org/wiki/Fiscus_Judaicus">Fiscus Judaicus</a>&nbsp;levied on all&nbsp;<a title="History of the Jews in the Roman Empire" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_Roman_Empire">Jews of the Roman Empire</a>&nbsp;whether they aided the revolt or not.</dd>
+</dl>
+<dl>
+<dt>70&ndash;200</dt>
+<dd>Period of the&nbsp;<em><a title="Tannaim" href="https://en.wikipedia.org/wiki/Tannaim">Tannaim</a></em>, rabbis who&nbsp;<a class="mw-redirect" title="Mishna" href="https://en.wikipedia.org/wiki/Mishna">organized</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Talmudical Hermeneutics" href="https://en.wikipedia.org/wiki/Talmudical_Hermeneutics">elucidated</a>&nbsp;the&nbsp;<a title="Oral Torah" href="https://en.wikipedia.org/wiki/Oral_Torah">Oral Torah</a>. The decisions of the&nbsp;<em>Tannaim</em>&nbsp;are contained in the&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>,&nbsp;<a class="mw-redirect" title="Beraita" href="https://en.wikipedia.org/wiki/Beraita">Beraita</a>,&nbsp;<a title="Tosefta" href="https://en.wikipedia.org/wiki/Tosefta">Tosefta</a>, and various&nbsp;<a title="Midrash" href="https://en.wikipedia.org/wiki/Midrash">Midrash</a>&nbsp;compilations.</dd>
+</dl>
+<dl>
+<dt>73</dt>
+<dd>Final events of the&nbsp;<a title="First Jewish&ndash;Roman War" href="https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War">First Jewish&ndash;Roman War</a>&nbsp;&ndash; the fall of&nbsp;<a title="Masada" href="https://en.wikipedia.org/wiki/Masada">Masada</a>.&nbsp;<a class="mw-redirect" title="Early Christianity" href="https://en.wikipedia.org/wiki/Early_Christianity">Christianity</a>&nbsp;starts off as a Jewish sect and then develops its own texts and ideology and branches off from&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Judaism</a>&nbsp;to become a distinct&nbsp;<a title="Religion" href="https://en.wikipedia.org/wiki/Religion">religion</a>.</dd>
+</dl>
+<dl>
+<dt>115&ndash;117</dt>
+<dd><a title="Kitos War" href="https://en.wikipedia.org/wiki/Kitos_War">Kitos War</a>&nbsp;(Revolt against Trajan) &ndash; a second Jewish-Roman War initiated in large Jewish communities of Cyprus, Cyrene (modern Libya), Aegipta (modern Egypt) and Mesopotamia (modern Syria and Iraq). It led to mutual killing of hundreds of thousands Jews, Greeks and Romans, ending with a total defeat of Jewish rebels and complete extermination of Jews in Cyprus and Cyrene by the newly installed&nbsp;<a class="mw-redirect" title="Emperor Hadrian" href="https://en.wikipedia.org/wiki/Emperor_Hadrian">Emperor Hadrian</a>.</dd>
+</dl>
+<dl>
+<dt>131&ndash;136</dt>
+<dd>The&nbsp;<a title="Roman emperor" href="https://en.wikipedia.org/wiki/Roman_emperor">Roman emperor</a>&nbsp;<a title="Hadrian" href="https://en.wikipedia.org/wiki/Hadrian">Hadrian</a>, among other provocations, renames Jerusalem "<a title="Aelia Capitolina" href="https://en.wikipedia.org/wiki/Aelia_Capitolina">Aelia Capitolina</a>" and prohibits circumcision.&nbsp;<a title="Simon bar Kokhba" href="https://en.wikipedia.org/wiki/Simon_bar_Kokhba">Simon bar Kokhba</a>&nbsp;(Bar Kosiba) leads a large&nbsp;<a title="Bar Kokhba revolt" href="https://en.wikipedia.org/wiki/Bar_Kokhba_revolt">Jewish revolt</a>&nbsp;against&nbsp;<a title="Roman Empire" href="https://en.wikipedia.org/wiki/Roman_Empire">Rome</a>&nbsp;in response to Hadrian's actions. In the aftermath, most Jewish population is annihilated (about 580,000 killed) and Hadrian renames the province of Judea to&nbsp;<a title="Syria Palaestina" href="https://en.wikipedia.org/wiki/Syria_Palaestina">Syria Palaestina</a>, and attempts to root out Judaism.</dd>
+</dl>
+<dl>
+<dt>136</dt>
+<dd><a title="Rabbi Akiva" href="https://en.wikipedia.org/wiki/Rabbi_Akiva">Rabbi Akiva</a>&nbsp;is martyred.</dd>
+</dl>
+<dl>
+<dt>138</dt>
+<dd>With Emperor Hadrian's death, the persecution of Jews within the Roman Empire is eased and Jews are allowed to visit Jerusalem on&nbsp;<a class="mw-redirect" title="Tisha B'av" href="https://en.wikipedia.org/wiki/Tisha_B%27av">Tisha B'av</a>. In the following centuries the Jewish center moves to Galilee.</dd>
+</dl>
+<dl>
+<dt>200</dt>
+<dd>The&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>, the standardization of the Jewish oral law as it stands today, is redacted by&nbsp;<a class="mw-redirect" title="Judah haNasi" href="https://en.wikipedia.org/wiki/Judah_haNasi">Judah haNasi</a>&nbsp;in the land of Israel.</dd>
+</dl>
+<dl>
+<dt>259</dt>
+<dd><a title="Nehardea" href="https://en.wikipedia.org/wiki/Nehardea">Nehardea</a>&nbsp;in Babylonia destroyed by the&nbsp;<a title="Palmyra" href="https://en.wikipedia.org/wiki/Palmyra">Palmyrenes</a>, which destruction caused the widespread dispersion of Jews in the region.</dd>
+</dl>
+<dl>
+<dt>220&ndash;500</dt>
+<dd>Period of the&nbsp;<em><a title="Amoraim" href="https://en.wikipedia.org/wiki/Amoraim">Amoraim</a></em>, the&nbsp;<a title="Rabbi" href="https://en.wikipedia.org/wiki/Rabbi">rabbis</a>&nbsp;of the&nbsp;<a title="Talmud" href="https://en.wikipedia.org/wiki/Talmud">Talmud</a>.</dd>
+</dl>
+<dl>
+<dt>315&ndash;337</dt>
+<dd>Roman Emperor&nbsp;<a class="mw-redirect" title="Constantine I (emperor)" href="https://en.wikipedia.org/wiki/Constantine_I_(emperor)">Constantine I</a>&nbsp;enacts new restrictive legislation. Conversion of Christians to Judaism is outlawed, congregations for religious services are curtailed, but Jews are also allowed to enter Jerusalem on the anniversary of the Temple's destruction.</dd>
+</dl>
+<dl>
+<dt>351&ndash;352</dt>
+<dd><a title="Jewish revolt against Constantius Gallus" href="https://en.wikipedia.org/wiki/Jewish_revolt_against_Constantius_Gallus">Jewish revolt against Constantius Gallus</a>&nbsp;is put down.&nbsp;<a title="Sepphoris" href="https://en.wikipedia.org/wiki/Sepphoris">Sepphoris</a>&nbsp;is razed to the ground.</dd>
+</dl>
+<dl>
+<dt>358</dt>
+<dd>Because of the increasing danger of Roman persecution,&nbsp;<a title="Hillel II" href="https://en.wikipedia.org/wiki/Hillel_II">Hillel II</a>&nbsp;creates a&nbsp;<a title="Hebrew calendar" href="https://en.wikipedia.org/wiki/Hebrew_calendar">mathematical calendar</a>&nbsp;for calculating the Jewish month. After adopting the calendar, the&nbsp;<a title="Sanhedrin" href="https://en.wikipedia.org/wiki/Sanhedrin#The_dissolution_of_the_classical_sanhedrin">Sanhedrin in Tiberias is dissolved</a>.</dd>
+</dl>
+<dl>
+<dt>361&ndash;363</dt>
+<dd>The last&nbsp;<a title="Roman mythology" href="https://en.wikipedia.org/wiki/Roman_mythology">pagan</a>&nbsp;Roman Emperor,&nbsp;<a class="mw-redirect" title="Julian the Apostate" href="https://en.wikipedia.org/wiki/Julian_the_Apostate">Julian</a>, allows the Jews to return to "holy Jerusalem which you have for many years longed to see rebuilt" and to rebuild the Second Temple. Shortly after, the Emperor is assassinated, and the plan is dissolved.</dd>
+</dl>
+<dl>
+<dt>363</dt>
+<dd><a class="mw-redirect" title="Galilee earthquake of 363" href="https://en.wikipedia.org/wiki/Galilee_earthquake_of_363">Galilee earthquake of 363</a></dd>
+</dl>
+<dl>
+<dt>379</dt>
+<dd>In&nbsp;<a title="India" href="https://en.wikipedia.org/wiki/India">India</a>, the&nbsp;<a class="mw-redirect" title="Hindu" href="https://en.wikipedia.org/wiki/Hindu">Hindu</a>&nbsp;king Sira Primal, also known as Iru Brahman, issued what was engraved on a tablet of brass, his permission to Jews to live freely, build&nbsp;<a title="Synagogue" href="https://en.wikipedia.org/wiki/Synagogue">synagogue</a>, own property&nbsp;<em>without conditions attached</em>&nbsp;and&nbsp;<em>as long as the world and moon exist</em>.</dd>
+</dl>
+<dl>
+<dt>438</dt>
+<dd>The Empress&nbsp;<a title="Licinia Eudoxia" href="https://en.wikipedia.org/wiki/Licinia_Eudoxia">Eudocia</a>&nbsp;removes the ban on Jews' praying at the&nbsp;<a title="Temple Mount" href="https://en.wikipedia.org/wiki/Temple_Mount">Temple site</a>&nbsp;and the heads of the Community in Galilee issue a call "to the great and mighty people of the Jews": "Know that the end of the exile of our people has come"!</dd>
+</dl>
+<dl>
+<dt>450</dt>
+<dd>Redaction of the&nbsp;<a title="Jerusalem Talmud" href="https://en.wikipedia.org/wiki/Jerusalem_Talmud">Jerusalem Talmud</a></dd>
+</dl>
+<dl>
+<dt>500&ndash;523</dt>
+<dd><a title="Dhu Nuwas" href="https://en.wikipedia.org/wiki/Dhu_Nuwas">Yosef Dhu Nuwas</a>, King of&nbsp;<a title="Himyarite Kingdom" href="https://en.wikipedia.org/wiki/Himyarite_Kingdom">Himyarite Kingdom</a>&nbsp;(Modern Yemen) converting to Judaism, upgrading existing Yemenese Jewish center. His kingdom falls in a war against Axum and the Christians.</dd>
+</dl>
+<dl>
+<dt>550</dt>
+<dd>The main redaction of&nbsp;<a class="mw-redirect" title="Babylonian Talmud" href="https://en.wikipedia.org/wiki/Babylonian_Talmud">Babylonian Talmud</a>&nbsp;is completed under Rabbis&nbsp;<a title="Ravina II" href="https://en.wikipedia.org/wiki/Ravina_II">Ravina</a>&nbsp;and&nbsp;<a title="Rav Ashi" href="https://en.wikipedia.org/wiki/Rav_Ashi">Ashi</a>. To a lesser degree, the text continues to be modified for the next 200 years.</dd>
+</dl>
+<dl>
+<dt>550&ndash;700</dt>
+<dd>Period of the&nbsp;<em><a title="Savoraim" href="https://en.wikipedia.org/wiki/Savoraim">Savoraim</a></em>, the sages in&nbsp;<a title="Achaemenid Empire" href="https://en.wikipedia.org/wiki/Achaemenid_Empire">Persia</a>&nbsp;who put the Talmud in its final form.</dd>
+</dl>
+<dl>
+<dt>555&ndash;572</dt>
+<dd>The&nbsp;<a class="mw-redirect" title="Samaritan Revolts" href="https://en.wikipedia.org/wiki/Samaritan_Revolts#556_Samaritan_revolt">Fourth Samaritan Revolt against Byzantium</a>&nbsp;results in great reduction of the&nbsp;<a class="mw-redirect" title="Samaritan" href="https://en.wikipedia.org/wiki/Samaritan">Samaritan</a>&nbsp;community, their Israelite faith is outlawed. Neighbouring Jews, who mostly reside in Galilee, are also affected by the oppressive rule of the&nbsp;<a title="Byzantine Empire" href="https://en.wikipedia.org/wiki/Byzantine_Empire">Byzantines</a>.</dd>
+</dl>
+<dl>
+<dt>610&ndash;628</dt>
+<dd>Jews of Galilee led by&nbsp;<a title="Benjamin of Tiberias" href="https://en.wikipedia.org/wiki/Benjamin_of_Tiberias">Benjamin of Tiberias</a>&nbsp;gain&nbsp;<a title="Jewish revolt against Heraclius" href="https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius#Jewish_Sassanid_COmmonwealth">autonomy</a>&nbsp;in Jerusalem after&nbsp;<a title="Jewish revolt against Heraclius" href="https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius">revolting against Heraclius</a>&nbsp;as a joint military campaign with ally&nbsp;<a class="mw-redirect" title="Sassanid Empire" href="https://en.wikipedia.org/wiki/Sassanid_Empire">Sassanid Empire</a>&nbsp;under&nbsp;<a class="mw-redirect" title="Khosrau II" href="https://en.wikipedia.org/wiki/Khosrau_II">Khosrau II</a>&nbsp;and Jewish militias from Persia, but are subsequently massacred.</dd>
+</dl>
+<dl>
+<dt>612</dt>
+<dd><a title="Sisebut" href="https://en.wikipedia.org/wiki/Sisebut">Sisebut</a>,&nbsp;<a title="Visigothic Kingdom" href="https://en.wikipedia.org/wiki/Visigothic_Kingdom">king of the Visigoths</a>, forces his Jewish subjects to convert to&nbsp;<a title="Christianity" href="https://en.wikipedia.org/wiki/Christianity">Christianity</a>.</dd>
+</dl>
+<dl>
+<dt>7th century</dt>
+<dd>The rise and domination of&nbsp;<a title="Islam" href="https://en.wikipedia.org/wiki/Islam">Islam</a>&nbsp;among largely pagan Arabs in the&nbsp;<a class="mw-redirect" title="Arabian peninsula" href="https://en.wikipedia.org/wiki/Arabian_peninsula">Arabian peninsula</a>&nbsp;results in the almost complete removal and conversion of the&nbsp;<a class="mw-redirect" title="History of the Jews in Muslim lands" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Muslim_lands#Arabian_Peninsula">ancient Jewish communities</a>&nbsp;there, and&nbsp;<a title="Battle of Yarmouk" href="https://en.wikipedia.org/wiki/Battle_of_Yarmouk">sack of Levant</a>&nbsp;from the hands of Byzantines.</dd>
+</dl>
+<dl>
+<dt>700&ndash;1250</dt>
+<dd>Period of the&nbsp;<a class="mw-redirect" title="Gaonim" href="https://en.wikipedia.org/wiki/Gaonim">Gaonim</a>&nbsp;(the Gaonic era). Jews in southern&nbsp;<a title="Europe" href="https://en.wikipedia.org/wiki/Europe">Europe</a>&nbsp;and Asia Minor lived under the often intolerant rule of Christian kings and clerics. Most Jews lived in the&nbsp;<a class="mw-redirect" title="Muslim" href="https://en.wikipedia.org/wiki/Muslim">Muslim</a>&nbsp;Arab realm (Andalusia, North Africa, Palestine, Iraq and Yemen). Despite sporadic periods of persecution, Jewish communal and cultural life flowered in this period. The universally recognized centers of Jewish life were in&nbsp;<a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>&nbsp;and&nbsp;<a title="Tiberias" href="https://en.wikipedia.org/wiki/Tiberias">Tiberias</a>&nbsp;(Syria),&nbsp;<a title="Sura (city)" href="https://en.wikipedia.org/wiki/Sura_(city)">Sura</a>&nbsp;and&nbsp;<a class="mw-redirect" title="Pumbeditha" href="https://en.wikipedia.org/wiki/Pumbeditha">Pumbeditha</a>&nbsp;(Iraq). The heads of these law schools were the&nbsp;<em>Gaonim</em>, who were consulted on matters of law by Jews throughout the world. During this time, the&nbsp;<a title="Niqqud" href="https://en.wikipedia.org/wiki/Niqqud">Niqqud</a>&nbsp;is invented in Tiberias.</dd>
+</dl>
+<dl>
+<dt>711</dt>
+<dd>Muslim armies invade and occupy most of&nbsp;<a title="Spain" href="https://en.wikipedia.org/wiki/Spain">Spain</a>&nbsp;(At this time Jews made up about 8% of&nbsp;<a title="Spain" href="https://en.wikipedia.org/wiki/Spain">Spain</a>'s population). Under Christian rule, Jews had been subject to frequent and intense persecution, which was formalized under Muslim rule due to the&nbsp;<a title="Dhimmi" href="https://en.wikipedia.org/wiki/Dhimmi">dhimmi</a>&nbsp;rules in Islam. Jews and Christians had to pay the&nbsp;<a title="Jizya" href="https://en.wikipedia.org/wiki/Jizya">jizya</a>. Some sources mark this as the beginning of the&nbsp;<a title="Golden age of Jewish culture in Spain" href="https://en.wikipedia.org/wiki/Golden_age_of_Jewish_culture_in_Spain">Golden age of Jewish culture in Spain</a>, though most mention 912.</dd>
+</dl>
+<dl>
+<dt>740</dt>
+<dd>The&nbsp;<a title="Khazars" href="https://en.wikipedia.org/wiki/Khazars">Khazar</a>&nbsp;(a&nbsp;<a title="Turkic peoples" href="https://en.wikipedia.org/wiki/Turkic_peoples">Turkic</a>&nbsp;semi-<a title="Nomad" href="https://en.wikipedia.org/wiki/Nomad">nomadic</a>&nbsp;people from&nbsp;<a title="Central Asia" href="https://en.wikipedia.org/wiki/Central_Asia">Central Asia</a>) King and members of the upper class adopt&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Judaism</a>. The Khazarate lasts until 10th century, being overrun by Russians, and finally conquered by Russian and Byzantian forces in 1016.</dd>
+</dl>
+<dl>
+<dt>760</dt>
+<dd>The&nbsp;<a class="mw-redirect" title="Karaite (Jewish sect)" href="https://en.wikipedia.org/wiki/Karaite_(Jewish_sect)">Karaites</a>&nbsp;reject the authority of the oral law, and split off from rabbinic Judaism.</dd>
+</dl>
+<dl>
+<dt>807</dt>
+<dd><a class="mw-redirect" title="Abbassid" href="https://en.wikipedia.org/wiki/Abbassid">Abbassid</a>&nbsp;<a class="mw-redirect" title="Caliph" href="https://en.wikipedia.org/wiki/Caliph">Caliph</a>&nbsp;<a title="Harun al-Rashid" href="https://en.wikipedia.org/wiki/Harun_al-Rashid">Harun al-Rashid</a>&nbsp;orders all Jews in the Caliphate to wear a&nbsp;<a title="Yellow badge" href="https://en.wikipedia.org/wiki/Yellow_badge">yellow belt</a>, with Christians to wear a blue one.</dd>
+</dl>
+<dl>
+<dt>846</dt>
+<dd>In Sura, Iraq, Rav&nbsp;<a title="Amram Gaon" href="https://en.wikipedia.org/wiki/Amram_Gaon">Amram Gaon</a>&nbsp;compiles his siddur (Jewish prayer book.)</dd>
+</dl>
+<dl>
+<dt>850</dt>
+<dd><a title="Al-Mutawakkil" href="https://en.wikipedia.org/wiki/Al-Mutawakkil">al-Mutawakkil</a>&nbsp;made a decree ordering&nbsp;<a title="Dhimmi" href="https://en.wikipedia.org/wiki/Dhimmi">dhimmi</a>&nbsp;Jews and Christians to wear garments distinguishing them from Muslims, their places of worship to be destroyed, and allowing them little involvement in government or official matters.</dd>
+</dl>
+<dl>
+<dt>871</dt>
+<dd>An incomplete marriage contract dated to October 6 of this year is the earliest dated document found in the papers of the&nbsp;<a title="Cairo Geniza" href="https://en.wikipedia.org/wiki/Cairo_Geniza">Cairo Geniza</a>.</dd>
+</dl>
+<dl>
+<dt>912&ndash;1013</dt>
+<dd>The&nbsp;<a title="Golden age of Jewish culture in Spain" href="https://en.wikipedia.org/wiki/Golden_age_of_Jewish_culture_in_Spain">Golden age of Jewish culture in Spain</a>.&nbsp;<a class="mw-redirect" title="Abd-ar-Rahman III" href="https://en.wikipedia.org/wiki/Abd-ar-Rahman_III">Abd-ar-Rahman III</a>&nbsp;becomes Caliph of&nbsp;<a title="Spain" href="https://en.wikipedia.org/wiki/Spain">Spain</a>&nbsp;in 912, ushering in the height of tolerance. Muslims granted Jews and Christians exemptions from military service, the right to their own courts of law, and a guarantee of safety of their property. Jewish poets, scholars, scientists, statesmen and philosophers flourished in and were an integral part of the extensive Arab civilization. This period ended with the&nbsp;<a class="mw-redirect" title="Siege of C&oacute;rdoba (1013)" href="https://en.wikipedia.org/wiki/Siege_of_C%C3%B3rdoba_(1013)">Cordoba massacre in 1013</a>.</dd>
+</dl>
+<dl>
+<dt>940</dt>
+<dd>In&nbsp;<a title="Iraq" href="https://en.wikipedia.org/wiki/Iraq">Iraq</a>,&nbsp;<a title="Saadia Gaon" href="https://en.wikipedia.org/wiki/Saadia_Gaon">Saadia Gaon</a>&nbsp;compiles his&nbsp;<a title="Siddur" href="https://en.wikipedia.org/wiki/Siddur">siddur</a>&nbsp;(Jewish prayer book).</dd>
+</dl>
+<dl>
+<dt>945</dt>
+<dd>In the&nbsp;<a class="mw-redirect" title="Serenissima Repubblica di Venezia" href="https://en.wikipedia.org/wiki/Serenissima_Repubblica_di_Venezia">Serenissima Repubblica di Venezia</a>, the Senate forbids sea captains from accepting Jewish passengers.</dd>
+</dl>
+<dl>
+<dt>1008&ndash;1013</dt>
+<dd><a class="mw-redirect" title="Caliph" href="https://en.wikipedia.org/wiki/Caliph">Caliph</a>&nbsp;<a title="Al-Hakim bi-Amr Allah" href="https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah">Al-Hakim bi-Amr Allah</a>&nbsp;("the Mad") issues severe restrictions against Jews in the&nbsp;<a class="mw-redirect" title="Fatimid Empire" href="https://en.wikipedia.org/wiki/Fatimid_Empire">Fatimid Empire</a>. All Jews are forced to wear a heavy wooden&nbsp;<a title="Yellow badge" href="https://en.wikipedia.org/wiki/Yellow_badge">"golden calf"</a>&nbsp;around their necks. Christians had to wear a large wooden cross and members of both groups had to wear black hats.</dd>
+</dl>
+<dl>
+<dt>1013</dt>
+<dd>During the fall of the city, Sulayman's troops&nbsp;<a class="mw-redirect" title="Siege of C&oacute;rdoba (1013)" href="https://en.wikipedia.org/wiki/Siege_of_C%C3%B3rdoba_(1013)">looted C&oacute;rdoba</a>&nbsp;and massacred citizens of the city, including many Jews. Prominent Jews in C&oacute;rdoba, such as Samuel ibn Naghrela were forced to flee to the city in 1013.</dd>
+</dl>
+<dl>
+<dt>1013&ndash;1073</dt>
+<dd>Rabbi Yitchaki Alfassi (from&nbsp;<a title="Morocco" href="https://en.wikipedia.org/wiki/Morocco">Morocco</a>, later Spain) writes the&nbsp;<em>Rif</em>, an important work of&nbsp;<a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">Jewish law</a>.</dd>
+</dl>
+<dl>
+<dt>1016</dt>
+<dd>The Jewish community of&nbsp;<a title="Kairouan" href="https://en.wikipedia.org/wiki/Kairouan">Kairouan</a>, Tunisia is forced to choose between conversion and expulsion.</dd>
+</dl>
+<dl>
+<dt>1033</dt>
+<dd>Following their conquest of the city from the Maghrawa tribe, the forces of Tamim, chief of the Zenata Berber Banu Ifran tribe, perpetrated a&nbsp;<a title="1033 Fez massacre" href="https://en.wikipedia.org/wiki/1033_Fez_massacre">massacre of Jews</a>&nbsp;in Fez.</dd>
+</dl>
+<dl>
+<dt>1040&ndash;1105</dt>
+<dd>Rabbi Shlomo Yitzhaki (<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>) writes important commentaries on almost the entire Tanakh and Talmud.</dd>
+</dl>
+<dl>
+<dt>1066 December 30</dt>
+<dd><a title="1066 Granada massacre" href="https://en.wikipedia.org/wiki/1066_Granada_massacre">Granada massacre</a>: Muslim mob stormed the royal palace in&nbsp;<a title="Granada" href="https://en.wikipedia.org/wiki/Granada">Granada</a>,&nbsp;<a title="Crucifixion" href="https://en.wikipedia.org/wiki/Crucifixion">crucified</a>&nbsp;Jewish&nbsp;<a title="Vizier" href="https://en.wikipedia.org/wiki/Vizier">vizier</a>&nbsp;<a class="mw-redirect" title="Joseph ibn Naghrela" href="https://en.wikipedia.org/wiki/Joseph_ibn_Naghrela">Joseph ibn Naghrela</a>&nbsp;and massacred most of the Jewish population of the city. "More than 1,500 Jewish families, numbering 4,000 persons, fell in one day."</dd>
+</dl>
+<dl>
+<dt>1090</dt>
+<dd>Granada was captured by&nbsp;<a title="Yusuf ibn Tashfin" href="https://en.wikipedia.org/wiki/Yusuf_ibn_Tashfin">Yusuf ibn Tashfin</a>, King of the&nbsp;<a class="mw-redirect" title="Almoravides" href="https://en.wikipedia.org/wiki/Almoravides">Almoravides</a>. The Jewish community, believed to have sided with the Christians, was destroyed. Many fled, penniless, to Christian&nbsp;<a title="Toledo, Spain" href="https://en.wikipedia.org/wiki/Toledo,_Spain">Toledo</a>.</dd>
+</dl>
+<dl>
+<dt>1095&ndash;1291</dt>
+<dd>Christian&nbsp;<a title="Crusades" href="https://en.wikipedia.org/wiki/Crusades">Crusades</a>&nbsp;begin, sparking warfare with Islam in&nbsp;<a title="Palestine (region)" href="https://en.wikipedia.org/wiki/Palestine_(region)">Palestine</a>. Crusaders temporarily capture Jerusalem in 1099. Tens of thousands of Jews are killed by European crusaders throughout Europe and in the Middle East.</dd>
+</dl>
+<dl>
+<dt>1100&ndash;1275</dt>
+<dd>Time of the&nbsp;<em>tosafot</em>, Talmudic commentators who carried on&nbsp;<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>'s work. They include some of his descendants.</dd>
+</dl>
+<dl>
+<dt>1107</dt>
+<dd>Moroccan&nbsp;<a class="mw-redirect" title="Almoravid" href="https://en.wikipedia.org/wiki/Almoravid">Almoravid</a>&nbsp;ruler&nbsp;<a title="Yusuf ibn Tashfin" href="https://en.wikipedia.org/wiki/Yusuf_ibn_Tashfin">Yusuf ibn Tashfin</a>&nbsp;expels Moroccan Jews who do not convert to Islam.</dd>
+</dl>
+<dl>
+<dt>1135&ndash;1204</dt>
+<dd>Rabbi Moses ben Maimon, aka&nbsp;<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>&nbsp;or the&nbsp;<a class="mw-redirect" title="Rambam" href="https://en.wikipedia.org/wiki/Rambam">Rambam</a>&nbsp;is the leading rabbi of&nbsp;<a class="mw-redirect" title="Sephardi" href="https://en.wikipedia.org/wiki/Sephardi">Sephardic</a>&nbsp;Jewry. Among his many accomplishments, he writes one of the most influential codes of law (The&nbsp;<a title="Mishneh Torah" href="https://en.wikipedia.org/wiki/Mishneh_Torah">Mishneh Torah</a>) in Jewish History as well as, in&nbsp;<a class="mw-redirect" title="Arabic language" href="https://en.wikipedia.org/wiki/Arabic_language">Arabic</a>, many philosophical works including the (<a class="mw-redirect" title="Guide for the Perplexed" href="https://en.wikipedia.org/wiki/Guide_for_the_Perplexed">Guide for the Perplexed</a>).</dd>
+</dl>
+<dl>
+<dt>1141</dt>
+<dd><a class="mw-redirect" title="Yehuda Halevi" href="https://en.wikipedia.org/wiki/Yehuda_Halevi">Yehuda Halevi</a>&nbsp;issues a call to the Jews to emigrate to Palestine. He is buried in Jerusalem.</dd>
+</dl>
+<dl>
+<dt>1148</dt>
+<dd>Berbers oblige Jews to convert in Cordoba.&nbsp;<a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides#Biography">Maimonides</a>&nbsp;leaves Cordoba</dd>
+</dl>
+<dl>
+<dt>1176</dt>
+<dd><a title="Maimonides" href="https://en.wikipedia.org/wiki/Maimonides">Maimonides</a>&nbsp;completed his Introduction to the&nbsp;<em><a title="Mishneh Torah" href="https://en.wikipedia.org/wiki/Mishneh_Torah">Mishneh Torah</a></em>.</dd>
+</dl>
+<dl>
+<dt>1187</dt>
+<dd>Upon the capture of Jerusalem, Saladin summons the Jews and permits them to resettle in the city.&nbsp;In particular, the residents of Ashkelon, a large Jewish settlement, respond to his request.</dd>
+</dl>
+<dl>
+<dt>1189</dt>
+<dd><a title="Jacob of Orl&eacute;ans" href="https://en.wikipedia.org/wiki/Jacob_of_Orl%C3%A9ans">Jacob of Orl&eacute;ans</a>&nbsp;slain in antisemitic riots that swept through London during the coronation of&nbsp;<a class="mw-redirect" title="King Richard I" href="https://en.wikipedia.org/wiki/King_Richard_I">King Richard I</a>. The king later punished the perpetrators of the crime.</dd>
+</dl>
+<dl>
+<dt>1190</dt>
+<dd>150 Jews of York, England, killed in a&nbsp;<a title="Pogrom" href="https://en.wikipedia.org/wiki/Pogrom">pogrom</a>, known as the&nbsp;<em><a class="mw-redirect" title="York Massacre" href="https://en.wikipedia.org/wiki/York_Massacre">York Massacre</a></em>.</dd>
+</dl>
+<dl>
+<dt>1240</dt>
+<dd>Jews living in England, under&nbsp;<a title="Henry III of England" href="https://en.wikipedia.org/wiki/Henry_III_of_England">King Henry III</a>, were blamed for counterfeiting the money and when the local citizens began to exact revenge on them, the king expelled his Jewish subjects in order to save them from harm.</dd>
+</dl>
+<dl>
+<dt>1250&ndash;1300</dt>
+<dd>The life of&nbsp;<a class="mw-redirect" title="Moses de Leon" href="https://en.wikipedia.org/wiki/Moses_de_Leon">Moses de Leon</a>, of Spain. He publishes to the public the&nbsp;<a title="Zohar" href="https://en.wikipedia.org/wiki/Zohar">Zohar</a>&nbsp;the 2nd century CE esoteric interpretations of the Torah by&nbsp;<a class="mw-redirect" title="Rabbi Shimon bar Yochai" href="https://en.wikipedia.org/wiki/Rabbi_Shimon_bar_Yochai">Rabbi Shimon bar Yochai</a>&nbsp;and his disciples. This begins the modern form of&nbsp;<a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalah</a>&nbsp;(esoteric Jewish mysticism).</dd>
+</dl>
+<dl>
+<dt>1250&ndash;1550</dt>
+<dd>Period of the&nbsp;<em><a title="Rishonim" href="https://en.wikipedia.org/wiki/Rishonim">Rishonim</a></em>, the medieval rabbinic sages. Most Jews at this time lived in lands bordering the&nbsp;<a title="Mediterranean Sea" href="https://en.wikipedia.org/wiki/Mediterranean_Sea">Mediterranean Sea</a>&nbsp;or in&nbsp;<a title="Western Europe" href="https://en.wikipedia.org/wiki/Western_Europe">Western Europe</a>&nbsp;under feudal systems. With the decline of Muslim and Jewish centers of power in&nbsp;<a title="Iraq" href="https://en.wikipedia.org/wiki/Iraq">Iraq</a>, there was no single place in the world which was a recognized authority for deciding matters of Jewish law and practice. Consequently, the rabbis recognized the need for writing commentaries on the&nbsp;<a title="Torah" href="https://en.wikipedia.org/wiki/Torah">Torah</a>&nbsp;and Talmud and for writing law codes that would allow Jews anywhere in the world to be able to continue living in the Jewish tradition.</dd>
+</dl>
+<dl>
+<dt>1267</dt>
+<dd><a class="mw-redirect" title="Nahmanides" href="https://en.wikipedia.org/wiki/Nahmanides">Nahmanides</a>&nbsp;(Ramban) settles in Jerusalem and builds the&nbsp;<a title="Ramban Synagogue" href="https://en.wikipedia.org/wiki/Ramban_Synagogue">Ramban Synagogue</a>.</dd>
+</dl>
+<dl>
+<dt>1270&ndash;1343</dt>
+<dd>Rabbi&nbsp;<a title="Jacob ben Asher" href="https://en.wikipedia.org/wiki/Jacob_ben_Asher">Jacob ben Asher</a>&nbsp;of Spain writes the&nbsp;<em><a title="Arba'ah Turim" href="https://en.wikipedia.org/wiki/Arba%27ah_Turim">Arba'ah Turim</a></em>&nbsp;(Four Rows of Jewish Law).</dd>
+</dl>
+<dl>
+<dt>1276</dt>
+<dd>Massacre in&nbsp;<a title="Fez, Morocco" href="https://en.wikipedia.org/wiki/Fez,_Morocco">Fez</a>&nbsp;to kill all Jews stopped by intervention of the Emir.</dd>
+</dl>
+<dl>
+<dt>1290</dt>
+<dd>Jews are expelled from&nbsp;<a title="England" href="https://en.wikipedia.org/wiki/England">England</a>&nbsp;by&nbsp;<a title="Edward I of England" href="https://en.wikipedia.org/wiki/Edward_I_of_England">Edward I</a>&nbsp;after the banning of usury in the 1275&nbsp;<em><a title="Statute of Jewry" href="https://en.wikipedia.org/wiki/Statute_of_Jewry">Statute of Jewry</a></em>.</dd>
+</dl>
+<h3>&nbsp;</h3>
+<div class="thumb tright">&nbsp;</div>
+<dl>
+<dt>1300</dt>
+<dd>Rabbi Levi ben Gershom, aka&nbsp;<a title="Gersonides" href="https://en.wikipedia.org/wiki/Gersonides">Gersonides</a>. A 14th-century French Jewish philosopher best known for his&nbsp;<em>Sefer Milhamot Adonai</em>&nbsp;("The Book of the Wars of the Lord") as well as for his philosophical commentaries.</dd>
+</dl>
+<dl>
+<dt>1304&ndash;1394</dt>
+<dd>Jews are repeatedly expelled from&nbsp;<a title="France" href="https://en.wikipedia.org/wiki/France">France</a>&nbsp;and readmitted, for a price.</dd>
+</dl>
+<dl>
+<dt>1343</dt>
+<dd>Jews persecuted in Western Europe are invited to&nbsp;<a title="Poland" href="https://en.wikipedia.org/wiki/Poland">Poland</a>&nbsp;by&nbsp;<a class="mw-redirect" title="Casimir III of Poland" href="https://en.wikipedia.org/wiki/Casimir_III_of_Poland">Casimir the Great</a>.</dd>
+</dl>
+<dl>
+<dt>1346&ndash;1353</dt>
+<dd>Jews scapegoated as the cause of the growing&nbsp;<a title="Black Death" href="https://en.wikipedia.org/wiki/Black_Death">Black Death</a>. See also&nbsp;<a title="Medieval antisemitism" href="https://en.wikipedia.org/wiki/Medieval_antisemitism#The_Black_Death">Medieval antisemitism</a></dd>
+</dl>
+<dl>
+<dt>1348</dt>
+<dd><a title="Pope Clement VI" href="https://en.wikipedia.org/wiki/Pope_Clement_VI">Pope Clement VI</a>&nbsp;issued two papal bulls in 1348 (6 July and 26 September), the latter named Quamvis Perfidiam, which condemned the violence and said those who blamed the plague on the Jews had been "seduced by that liar, the Devil."&nbsp;He urged clergy to take action to protect Jews as he had done.</dd>
+</dl>
+<dl>
+<dt>1349</dt>
+<dd><a title="Strasbourg massacre" href="https://en.wikipedia.org/wiki/Strasbourg_massacre">The Strasbourg massacre</a></dd>
+</dl>
+<dl>
+<dt>1350s</dt>
+<dd>Genetic testing conducted on&nbsp;<a title="Ashkenazi Jews" href="https://en.wikipedia.org/wiki/Ashkenazi_Jews">Ashkenazi Jews</a>&nbsp;have pointed to a bottleneck that was created in the 1300s amongst the Jewish population where it dwindled down to as few as 250&ndash;420 people.</dd>
+</dl>
+<dl>
+<dt>1369&ndash;70</dt>
+<dd>Civil war in Spain, between brothers&nbsp;<a title="Peter of Castile" href="https://en.wikipedia.org/wiki/Peter_of_Castile">Peter of Castile</a>&nbsp;(Pedro) and&nbsp;<a title="Henry II of Castile" href="https://en.wikipedia.org/wiki/Henry_II_of_Castile">Henry II of Castile</a>&nbsp;(Enrico), leads to the deaths of 38,000 Jews, embroiled in the conflict.</dd>
+</dl>
+<dl>
+<dt>1478</dt>
+<dd><a class="mw-redirect" title="Catholic Monarchs" href="https://en.wikipedia.org/wiki/Catholic_Monarchs">King Ferdinand and Queen Isabella</a>&nbsp;of Spain institute the&nbsp;<a title="Spanish Inquisition" href="https://en.wikipedia.org/wiki/Spanish_Inquisition">Spanish Inquisition</a>.</dd>
+</dl>
+<dl>
+<dt>1486</dt>
+<dd>First Jewish prayer book published in Italy.</dd>
+</dl>
+<dl>
+<dt>1488&ndash;1575</dt>
+<dd>Rabbi&nbsp;<a class="mw-redirect" title="Yosef Karo" href="https://en.wikipedia.org/wiki/Yosef_Karo">Yosef Karo</a>&nbsp;spends 20 years compiling the Beit Yosef, an enormous guide to Jewish law. He then writes a more concise guide, the&nbsp;<a class="mw-redirect" title="Shulkhan Arukh" href="https://en.wikipedia.org/wiki/Shulkhan_Arukh">Shulkhan Arukh</a>, that becomes the standard law guide for the next 400 years. Born in Spain, Yosef Karo lives and dies in&nbsp;<a title="Safed" href="https://en.wikipedia.org/wiki/Safed">Safed</a>.</dd>
+</dl>
+<dl>
+<dt>1488</dt>
+<dd><a class="mw-redirect" title="Obadiah ben Abraham" href="https://en.wikipedia.org/wiki/Obadiah_ben_Abraham">Obadiah ben Abraham</a>, commentator on the&nbsp;<a title="Mishnah" href="https://en.wikipedia.org/wiki/Mishnah">Mishnah</a>, arrives in Jerusalem and marks a new epoch for the Jewish community.</dd>
+</dl>
+<dl>
+<dt>1492</dt>
+<dd>The&nbsp;<a title="Alhambra Decree" href="https://en.wikipedia.org/wiki/Alhambra_Decree">Alhambra Decree</a>: Approximately 200,000 Jews are expelled from Spain, The expelled Jews relocate to the&nbsp;<a title="Netherlands" href="https://en.wikipedia.org/wiki/Netherlands">Netherlands</a>,&nbsp;<a title="Turkey" href="https://en.wikipedia.org/wiki/Turkey">Turkey</a>,&nbsp;<a class="mw-redirect" title="Arab" href="https://en.wikipedia.org/wiki/Arab">Arab</a>&nbsp;lands, and&nbsp;<a title="Judea" href="https://en.wikipedia.org/wiki/Judea">Judea</a>; some eventually go to South and Central America. However, most emigrate to Poland. In later centuries, more than 50% of Jewish world population lived in Poland. Many Jews remain in Spain after publicly converting to Christianity, becoming&nbsp;<a title="Crypto-Judaism" href="https://en.wikipedia.org/wiki/Crypto-Judaism">Crypto-Jews</a>.</dd>
+</dl>
+<dl>
+<dt>1492</dt>
+<dd><a title="Bayezid II" href="https://en.wikipedia.org/wiki/Bayezid_II">Bayezid II</a>&nbsp;of the&nbsp;<a title="Ottoman Empire" href="https://en.wikipedia.org/wiki/Ottoman_Empire">Ottoman Empire</a>&nbsp;issued a formal invitation to the Jews expelled from Spain and Portugal and sent out ships to safely bring Jews to his empire.</dd>
+</dl>
+<dl>
+<dt>1493</dt>
+<dd>Jews expelled from Sicily. As many as 137,000 exiled.</dd>
+</dl>
+<dl>
+<dt>1496</dt>
+<dd>Jews expelled from&nbsp;<a title="Portugal" href="https://en.wikipedia.org/wiki/Portugal">Portugal</a>&nbsp;and from many German cities.</dd>
+</dl>
+<dl>
+<dt>1501</dt>
+<dd>King&nbsp;<a class="mw-redirect" title="Alexander of Poland" href="https://en.wikipedia.org/wiki/Alexander_of_Poland">Alexander of Poland</a>&nbsp;readmits Jews to&nbsp;<a title="Grand Duchy of Lithuania" href="https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania">Grand Duchy of Lithuania</a>.</dd>
+</dl>
+<dl>
+<dt>1511</dt>
+<dd>Printing of Jewish books by mechanical press began by&nbsp;<a title="Daniel Bomberg" href="https://en.wikipedia.org/wiki/Daniel_Bomberg">Daniel Bomberg</a>.</dd>
+</dl>
+<dl>
+<dt>1516</dt>
+<dd><a title="Ghetto" href="https://en.wikipedia.org/wiki/Ghetto">Ghetto</a>&nbsp;of Venice established, the first Jewish ghetto in Europe. Many others follow.</dd>
+</dl>
+<dl>
+<dt>1525&ndash;1572</dt>
+<dd>Rabbi&nbsp;<a class="mw-redirect" title="Moshe Isserles" href="https://en.wikipedia.org/wiki/Moshe_Isserles">Moshe Isserles</a>&nbsp;(The Rema) of&nbsp;<a title="Krak&oacute;w" href="https://en.wikipedia.org/wiki/Krak%C3%B3w">Krak&oacute;w</a>&nbsp;writes an extensive commentary to the&nbsp;<a class="mw-redirect" title="Shulkhan Arukh" href="https://en.wikipedia.org/wiki/Shulkhan_Arukh">Shulkhan Arukh</a>&nbsp;called the&nbsp;<em>Mappah</em>, extending its application to&nbsp;<a class="mw-redirect" title="Ashkenazi" href="https://en.wikipedia.org/wiki/Ashkenazi">Ashkenazi</a>&nbsp;Jewry.</dd>
+</dl>
+<dl>
+<dt>1534</dt>
+<dd>King&nbsp;<a title="Sigismund I the Old" href="https://en.wikipedia.org/wiki/Sigismund_I_the_Old">Sigismund I of Poland</a>&nbsp;abolishes the law that required Jews to wear&nbsp;<a title="Yellow badge" href="https://en.wikipedia.org/wiki/Yellow_badge">special clothes</a>.</dd>
+</dl>
+<dl>
+<dt>1534</dt>
+<dd>First&nbsp;<a title="Yiddish" href="https://en.wikipedia.org/wiki/Yiddish">Yiddish</a>&nbsp;book published, in Poland.</dd>
+</dl>
+<dl>
+<dt>1534&ndash;1572</dt>
+<dd><a title="Isaac Luria" href="https://en.wikipedia.org/wiki/Isaac_Luria">Isaac Luria</a>&nbsp;("the Arizal") teaches&nbsp;<a title="Kabbalah" href="https://en.wikipedia.org/wiki/Kabbalah">Kabbalah</a>&nbsp;in Jerusalem and (mainly) Safed to select disciples. Some of those, such as&nbsp;<a class="new" title="Ibn Tebul (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Ibn_Tebul&amp;action=edit&amp;redlink=1">Ibn Tebul</a>,&nbsp;<a title="Israel Sarug" href="https://en.wikipedia.org/wiki/Israel_Sarug">Israel Sarug</a>&nbsp;and mostly&nbsp;<a class="mw-redirect" title="Chaim Vital" href="https://en.wikipedia.org/wiki/Chaim_Vital">Chaim Vital</a>, put his teachings into writing. While the Sarugian versions are published shortly afterwards in Italy and Holland, the Vitalian texts remain in manuscripti for as long as three centuries.</dd>
+</dl>
+<dl>
+<dt>1547</dt>
+<dd>First Hebrew Jewish printing house in&nbsp;<a title="Lublin" href="https://en.wikipedia.org/wiki/Lublin">Lublin</a>.</dd>
+</dl>
+<dl>
+<dt>1550</dt>
+<dd>Jews expelled from&nbsp;<a title="Genoa" href="https://en.wikipedia.org/wiki/Genoa">Genoa</a>, Italy.</dd>
+</dl>
+<dl>
+<dt>1550</dt>
+<dd><a title="Moses ben Jacob Cordovero" href="https://en.wikipedia.org/wiki/Moses_ben_Jacob_Cordovero">Moses ben Jacob Cordovero</a>&nbsp;founds a Kabbalah academy in Safed.</dd>
+</dl>
+<dl>
+<dt>1567</dt>
+<dd>First Jewish university&nbsp;<em><a title="Yeshiva" href="https://en.wikipedia.org/wiki/Yeshiva">Jeshiva</a></em>&nbsp;was founded in Poland.</dd>
+</dl>
+<dl>
+<dt>1577</dt>
+<dd>A Hebrew printing press is established in Safed, the first press in Palestine and the first in Asia.</dd>
+</dl>
+<dl>
+<dt>1580&ndash;1764</dt>
+<dd>First session of the&nbsp;<a title="Council of Four Lands" href="https://en.wikipedia.org/wiki/Council_of_Four_Lands">Council of Four Lands</a>&nbsp;(<em>Va'ad Arba' Aratzot</em>) in Lublin,&nbsp;<a title="Polish&ndash;Lithuanian Commonwealth" href="https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth">Poland</a>. 70 delegates from local Jewish&nbsp;<em>kehillot</em>&nbsp;meet to discuss taxation and other issues important to the Jewish community.</dd>
+</dl>
+<dl>
+<dt>1621&ndash;1630</dt>
+<dd><a class="mw-redirect" title="Shelah HaKadosh" href="https://en.wikipedia.org/wiki/Shelah_HaKadosh">Shelah HaKadosh</a>&nbsp;writes his most famous work after emigrating to the Land of Israel.</dd>
+</dl>
+<dl>
+<dt>1623</dt>
+<dd>First time separate (<em>Va'ad</em>) Jewish Sejm for&nbsp;<a title="Grand Duchy of Lithuania" href="https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania">Grand Duchy of Lithuania</a>.</dd>
+</dl>
+<dl>
+<dt>1626&ndash;1676</dt>
+<dd>False&nbsp;<a title="Messiah" href="https://en.wikipedia.org/wiki/Messiah">Messiah</a>&nbsp;<a title="Sabbatai Zevi" href="https://en.wikipedia.org/wiki/Sabbatai_Zevi">Sabbatai Zevi</a>.</dd>
+</dl>
+<dl>
+<dt>1627</dt>
+<dd>Kingdom of Beta Israel in what is now modern day Ethiopia collapses and loses autonomy.</dd>
+</dl>
+<dl>
+<dt>1633</dt>
+<dd>Jews of&nbsp;<a title="Poznań" href="https://en.wikipedia.org/wiki/Pozna%C5%84">Poznań</a>&nbsp;granted a privilege of forbidding Christians to enter into their city.</dd>
+</dl>
+<dl>
+<dt>1648</dt>
+<dd>Jewish population of Poland reached 450,000 (i.e., 4% of the 1,1000,000 population of Polish&ndash;Lithuanian Commonwealth is Jewish), Bohemia 40,000 and Moravia 25,000. Worldwide population of Jewry is estimated at 750,000.</dd>
+</dl>
+<dl>
+<dt>1648&ndash;1655</dt>
+<dd>The&nbsp;<a title="Ukraine" href="https://en.wikipedia.org/wiki/Ukraine">Ukrainian</a>&nbsp;<a class="mw-redirect" title="Cossack" href="https://en.wikipedia.org/wiki/Cossack">Cossack</a>&nbsp;<a class="mw-redirect" title="Bohdan Chmielnicki" href="https://en.wikipedia.org/wiki/Bohdan_Chmielnicki">Bohdan Chmielnicki</a>&nbsp;leads a massacre of Polish gentry and Jewry that leaves an estimated 65,000 Jews dead and a similar number of gentry. The total decrease in the number of Jews is estimated at 100,000.</dd>
+</dl>
+<dl>
+<dt>1655</dt>
+<dd>Jews readmitted to England by&nbsp;<a title="Oliver Cromwell" href="https://en.wikipedia.org/wiki/Oliver_Cromwell">Oliver Cromwell</a>.</dd>
+</dl>
+<dl>
+<dt>1660</dt>
+<dd><a title="1660 destruction of Safed" href="https://en.wikipedia.org/wiki/1660_destruction_of_Safed">1660 destruction of Safed</a>.</dd>
+</dl>
+<dl>
+<dt>1679</dt>
+<dd>Jews of Yemen expelled to&nbsp;<a title="Mawza Exile" href="https://en.wikipedia.org/wiki/Mawza_Exile">Mawza</a></dd>
+</dl>
+<dl>
+<dt>1700&ndash;1760</dt>
+<dd>Israel ben Eliezer, known as the&nbsp;<a title="Baal Shem Tov" href="https://en.wikipedia.org/wiki/Baal_Shem_Tov">Baal Shem Tov</a>, founds&nbsp;<a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic Judaism</a>, a way to approach God through meditation and fervent joy. He and his disciples attract many followers, and establish numerous&nbsp;<a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic</a>&nbsp;sects. The European Jewish opponents of Hasidim (known as&nbsp;<a title="Misnagdim" href="https://en.wikipedia.org/wiki/Misnagdim">Misnagdim</a>) argue that one should follow a more scholarly approach to Judaism. Some of the more well-known Hasidic sects today include Bobover, Breslover, Gerer, Lubavitch (Chabad) and Satmar Hasidim.</dd>
+</dl>
+<dl>
+<dt>1700</dt>
+<dd>Rabbi&nbsp;<a title="Judah HeHasid (Jerusalem)" href="https://en.wikipedia.org/wiki/Judah_HeHasid_(Jerusalem)">Judah HeHasid</a>&nbsp;makes&nbsp;<a title="Aliyah" href="https://en.wikipedia.org/wiki/Aliyah">aliyah</a>&nbsp;to&nbsp;<a title="Palestine (region)" href="https://en.wikipedia.org/wiki/Palestine_(region)">Palestine</a>&nbsp;accompanied by hundreds of his followers. A few days after his arrival, Rabbi Yehuda dies suddenly.</dd>
+</dl>
+<dl>
+<dt>1700</dt>
+<dd>Sir Solomon de Medina is knighted by William III, making him the first Jew in England to receive that honour.</dd>
+</dl>
+<dl>
+<dt>1720</dt>
+<dd>Unpaid Arab creditors burn the synagogue unfinished by immigrants of Rabbi Yehuda and expel all Ashkenazi Jews from Jerusalem.&nbsp;<em>See also&nbsp;<a title="Hurva Synagogue" href="https://en.wikipedia.org/wiki/Hurva_Synagogue">Hurva Synagogue</a></em></dd>
+</dl>
+<dl>
+<dt>1720&ndash;1797</dt>
+<dd>Rabbi Elijah of&nbsp;<a class="mw-redirect" title="Vilna" href="https://en.wikipedia.org/wiki/Vilna">Vilna</a>, the Vilna Gaon.</dd>
+</dl>
+<dl>
+<dt>1729&ndash;1786</dt>
+<dd><a title="Moses Mendelssohn" href="https://en.wikipedia.org/wiki/Moses_Mendelssohn">Moses Mendelssohn</a>&nbsp;and the&nbsp;<a title="Haskalah" href="https://en.wikipedia.org/wiki/Haskalah">Haskalah</a>&nbsp;(Enlightenment) movement. He strove to bring an end to the isolation of the Jews so that they would be able to embrace the&nbsp;<a title="Western culture" href="https://en.wikipedia.org/wiki/Western_culture">culture of the Western world</a>, and in turn be embraced by gentiles as equals. The Haskalah opened the door for the development of all the modern Jewish denominations and the revival of Hebrew as a spoken language, but it also paved the way for many who, wishing to be fully accepted into Christian society, converted to Christianity or chose to assimilate to emulate it.</dd>
+</dl>
+<dl>
+<dt>1740</dt>
+<dd><a title="Parliament of Great Britain" href="https://en.wikipedia.org/wiki/Parliament_of_Great_Britain">Parliament of Great Britain</a>&nbsp;passes a general act permitting Jews to be naturalized in the American colonies. Previously, several colonies had also permitted Jews to be naturalized without taking the standard oath "upon the true faith of a Christian."</dd>
+</dl>
+<dl>
+<dt>1740</dt>
+<dd>Ottoman authorities invite Rabbi Haim Abulafia (1660&ndash;1744), renowned Kabbalist and Rabbi of Izmir, to come to the Holy Land. Rabbi Abulafia is to rebuild the city of Tiberias, which has lain desolate for some 70 years. The city's revival is seen by many as a sign of the coming of the Messiah.</dd>
+</dl>
+<dl>
+<dt>1740&ndash;1750</dt>
+<dd>Thousands immigrate to&nbsp;<a title="Palestine (region)" href="https://en.wikipedia.org/wiki/Palestine_(region)">Palestine</a>&nbsp;under the influence of Messianic predictions. The large immigration greatly increases the size and strength of the Jewish Settlement in Palestine.</dd>
+</dl>
+<dl>
+<dt>1747</dt>
+<dd>Rabbi&nbsp;<a title="Abraham Gershon of Kitov" href="https://en.wikipedia.org/wiki/Abraham_Gershon_of_Kitov">Abraham Gershon of Kitov</a>&nbsp;(<a title="Kuty" href="https://en.wikipedia.org/wiki/Kuty">Kuty</a>) (1701&ndash;1761) is the first immigrant of the Hasidic Aliyah. He is a respected Talmudic scholar, mystic, and brother-in-law of&nbsp;<a title="Baal Shem Tov" href="https://en.wikipedia.org/wiki/Baal_Shem_Tov">Rabbi Israel Baal Shem Tov</a>&nbsp;(founder of the Hasidic movement). Rabbi Abraham first settles in&nbsp;<a title="Hebron" href="https://en.wikipedia.org/wiki/Hebron">Hebron</a>. Later, he relocates to Jerusalem at the behest of its residents.</dd>
+</dl>
+<dl>
+<dt>1759</dt>
+<dd>Followers of&nbsp;<a title="Jacob Frank" href="https://en.wikipedia.org/wiki/Jacob_Frank">Jacob Frank</a>&nbsp;joined ranks of Polish&nbsp;<a title="Szlachta" href="https://en.wikipedia.org/wiki/Szlachta">szlachta</a>&nbsp;(gentry) of Jewish origins.</dd>
+</dl>
+<dl>
+<dt>1772&ndash;1795</dt>
+<dd><a title="Partitions of Poland" href="https://en.wikipedia.org/wiki/Partitions_of_Poland">Partitions of Poland</a>&nbsp;between&nbsp;<a title="Russia" href="https://en.wikipedia.org/wiki/Russia">Russia</a>, Kingdom of&nbsp;<a title="Prussia" href="https://en.wikipedia.org/wiki/Prussia">Prussia</a>&nbsp;and&nbsp;<a title="Austria" href="https://en.wikipedia.org/wiki/Austria">Austria</a>. Main bulk of World Jewry lives now in those 3 countries. Old privileges of Jewish communities are denounced.</dd>
+</dl>
+<dl>
+<dt>1775&ndash;1781</dt>
+<dd><a title="American Revolution" href="https://en.wikipedia.org/wiki/American_Revolution">American Revolution</a>; guaranteed the&nbsp;<a title="Freedom of religion" href="https://en.wikipedia.org/wiki/Freedom_of_religion">freedom of religion</a>.</dd>
+</dl>
+<dl>
+<dt>1775</dt>
+<dd>Mob violence against the Jews of Hebron.</dd>
+</dl>
+<dl>
+<dt>1789</dt>
+<dd>The&nbsp;<a title="French Revolution" href="https://en.wikipedia.org/wiki/French_Revolution">French Revolution</a>. In 1791 France grants full right to Jews and allows them to become citizens, under certain conditions.</dd>
+</dl>
+<dl>
+<dt>1790</dt>
+<dd>In the US, President&nbsp;<a title="George Washington" href="https://en.wikipedia.org/wiki/George_Washington">George Washington</a>&nbsp;sends a letter to the Jewish community in&nbsp;<a title="Rhode Island" href="https://en.wikipedia.org/wiki/Rhode_Island">Rhode Island</a>. He writes that he envisions a country "which gives bigotry no sanction...persecution no assistance". Despite the fact that the US was a predominantly&nbsp;<a class="mw-redirect" title="Protestant" href="https://en.wikipedia.org/wiki/Protestant">Protestant</a>&nbsp;country, theoretically Jews are given full rights. In addition, the mentality of Jewish immigrants shaped by their role as merchants in Eastern Europe meant they were well-prepared to compete in American society.</dd>
+</dl>
+<dl>
+<dt>1791</dt>
+<dd>Russia creates the&nbsp;<a title="Pale of Settlement" href="https://en.wikipedia.org/wiki/Pale_of_Settlement">Pale of Settlement</a>&nbsp;that includes land acquired from Poland with a huge Jewish population and in the same year&nbsp;<a title="Crimea" href="https://en.wikipedia.org/wiki/Crimea">Crimea</a>. The Jewish population of the Pale was 750,000. 450,000 Jews lived in the Prussian and Austrian parts of Poland.</dd>
+</dl>
+<dl>
+<dt>1798</dt>
+<dd>Rabbi&nbsp;<a title="Nachman of Breslov" href="https://en.wikipedia.org/wiki/Nachman_of_Breslov">Nachman of Breslov</a>&nbsp;travels to Palestine.</dd>
+</dl>
+<dl>
+<dt>1799</dt>
+<dd>While French troops were in Palestine besieging the city of&nbsp;<a title="Acre, Israel" href="https://en.wikipedia.org/wiki/Acre,_Israel">Acre</a>, Napoleon prepared a Proclamation&nbsp;<a title="Napoleon and the Jews" href="https://en.wikipedia.org/wiki/Napoleon_and_the_Jews">requesting Asian and African Jews to help him conquer Jerusalem</a>, but his unsuccessful attempt to capture Acre prevented it from being issued.</dd>
+</dl>
+<dl>
+<dt>1799</dt>
+<dd>Mob violence on Jews in&nbsp;<a title="Safed" href="https://en.wikipedia.org/wiki/Safed">Safed</a>.</dd>
+</dl>
+<h3>&nbsp;</h3>
+<div class="thumb tright">&nbsp;</div>
+<dl>
+<dt>1800&ndash;1900</dt>
+<dd>The Golden Age of&nbsp;<a title="Yiddish literature" href="https://en.wikipedia.org/wiki/Yiddish_literature">Yiddish literature</a>, the revival of Hebrew as a spoken language, and the revival of&nbsp;<a title="Hebrew literature" href="https://en.wikipedia.org/wiki/Hebrew_literature">Hebrew literature</a>.</dd>
+</dl>
+<dl>
+<dt>1808&ndash;1840</dt>
+<dd>Large-scale aliyah in hope of&nbsp;<a title="Hastening Redemption" href="https://en.wikipedia.org/wiki/Hastening_Redemption">Hastening Redemption</a>&nbsp;in anticipation of the arrival of the Messiah in 1840.</dd>
+</dl>
+<dl>
+<dt>1820&ndash;1860</dt>
+<dd>The development of&nbsp;<a title="Orthodox Judaism" href="https://en.wikipedia.org/wiki/Orthodox_Judaism">Orthodox Judaism</a>, a set of traditionalist movements that resisted the influences of modernization that arose in response to the European emancipation and Enlightenment movements; characterized by continued strict adherence to&nbsp;<a title="Halakha" href="https://en.wikipedia.org/wiki/Halakha">Halakha</a>.</dd>
+</dl>
+<dl>
+<dt>1830</dt>
+<dd><a title="Greece" href="https://en.wikipedia.org/wiki/Greece">Greece</a>&nbsp;grants citizenship to Jews.</dd>
+</dl>
+<dl>
+<dt>1831</dt>
+<dd>Jewish militias take part in the defense of&nbsp;<a title="Warsaw" href="https://en.wikipedia.org/wiki/Warsaw">Warsaw</a>&nbsp;against Russians.</dd>
+</dl>
+<dl>
+<dt>1834&ndash;1835</dt>
+<dd><a title="Muslims" href="https://en.wikipedia.org/wiki/Muslims">Muslims</a>,&nbsp;<a title="Druze" href="https://en.wikipedia.org/wiki/Druze">Druze</a>&nbsp;attack&nbsp;<a title="Jews" href="https://en.wikipedia.org/wiki/Jews">Jews</a>&nbsp;in&nbsp;<a title="Safed" href="https://en.wikipedia.org/wiki/Safed">Safed</a>,&nbsp;<a title="Hebron" href="https://en.wikipedia.org/wiki/Hebron">Hebron</a>&nbsp;&amp; in&nbsp;<a title="Jerusalem" href="https://en.wikipedia.org/wiki/Jerusalem">Jerusalem</a>.</dd>
+</dl>
+<dl>
+<dt>1837</dt>
+<dd><a class="mw-redirect" title="Moses Haim Montefiore" href="https://en.wikipedia.org/wiki/Moses_Haim_Montefiore">Moses Haim Montefiore</a>&nbsp;is knighted by&nbsp;<a class="mw-redirect" title="Victoria of the United Kingdom" href="https://en.wikipedia.org/wiki/Victoria_of_the_United_Kingdom">Queen Victoria</a></dd>
+</dl>
+<dl>
+<dt>1837</dt>
+<dd><a title="Galilee earthquake of 1837" href="https://en.wikipedia.org/wiki/Galilee_earthquake_of_1837">Galilee earthquake of 1837</a>&nbsp;devastates Jewish communities of&nbsp;<a title="Safed" href="https://en.wikipedia.org/wiki/Safed">Safed</a>&nbsp;and&nbsp;<a title="Tiberias" href="https://en.wikipedia.org/wiki/Tiberias">Tiberias</a>.</dd>
+</dl>
+<dl>
+<dt>1838&ndash;1933</dt>
+<dd>Rabbi&nbsp;<a title="Yisrael Meir Kagan" href="https://en.wikipedia.org/wiki/Yisrael_Meir_Kagan">Yisroel Meir ha-Kohen</a>&nbsp;(Chofetz Chaim) opens an important yeshiva. He writes an authoritative Halakhic work,&nbsp;<a title="Mishnah Berurah" href="https://en.wikipedia.org/wiki/Mishnah_Berurah">Mishnah Berurah</a>.</dd>
+</dl>
+<dl>
+<dt>Mid-19th century</dt>
+<dd>Beginning of the rise of classical&nbsp;<a title="Reform Judaism" href="https://en.wikipedia.org/wiki/Reform_Judaism">Reform Judaism</a>.</dd>
+</dl>
+<dl>
+<dt>Mid-19th century</dt>
+<dd>Rabbi&nbsp;<a title="Israel Salanter" href="https://en.wikipedia.org/wiki/Israel_Salanter">Israel Salanter</a>&nbsp;develops the&nbsp;<a class="mw-redirect" title="Mussar Movement" href="https://en.wikipedia.org/wiki/Mussar_Movement">Mussar Movement</a>. While teaching that Jewish law is binding, he dismisses current philosophical debate and advocates the ethical teachings as the essence of Judaism.</dd>
+</dl>
+<dl>
+<dt>Mid-19th century</dt>
+<dd>Positive-Historical Judaism, later known as&nbsp;<a title="Conservative Judaism" href="https://en.wikipedia.org/wiki/Conservative_Judaism">Conservative Judaism</a>, is developed.</dd>
+</dl>
+<dl>
+<dt>1841</dt>
+<dd><a title="David Levy Yulee" href="https://en.wikipedia.org/wiki/David_Levy_Yulee">David Levy Yulee</a>&nbsp;of Florida is elected to the&nbsp;<a title="United States Senate" href="https://en.wikipedia.org/wiki/United_States_Senate">United States Senate</a>, becoming the first Jew elected to Congress.</dd>
+</dl>
+<dl>
+<dt>1851</dt>
+<dd><a title="Norway" href="https://en.wikipedia.org/wiki/Norway">Norway</a>&nbsp;allows Jews to enter the country. They are not emancipated until 1891.</dd>
+</dl>
+<dl>
+<dt>1858</dt>
+<dd>Jews&nbsp;<a class="mw-redirect" title="History of the Jews in England&mdash;The Struggle for Emancipation" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_England%E2%80%94The_Struggle_for_Emancipation">emancipated in England</a>.</dd>
+</dl>
+<dl>
+<dt>1860</dt>
+<dd><a class="mw-redirect" title="Alliance Israelite Universelle" href="https://en.wikipedia.org/wiki/Alliance_Israelite_Universelle">Alliance Israelite Universelle</a>, an international Jewish organization is founded in&nbsp;<a title="Paris" href="https://en.wikipedia.org/wiki/Paris">Paris</a>&nbsp;with the goal to protect Jewish rights as&nbsp;<a class="mw-redirect" title="Citizen" href="https://en.wikipedia.org/wiki/Citizen">citizens</a>.</dd>
+</dl>
+<dl>
+<dt>1860&ndash;1875</dt>
+<dd><a class="mw-redirect" title="Moshe Montefiori" href="https://en.wikipedia.org/wiki/Moshe_Montefiori">Moshe Montefiori</a>&nbsp;builds Jewish neighbourhoods outside the&nbsp;<a title="Old City (Jerusalem)" href="https://en.wikipedia.org/wiki/Old_City_(Jerusalem)">Old City</a>&nbsp;of Jerusalem starting with&nbsp;<a title="Mishkenot Sha'ananim" href="https://en.wikipedia.org/wiki/Mishkenot_Sha%27ananim">Mishkenot Sha'ananim</a>.</dd>
+</dl>
+<dl>
+<dt>1860&ndash;1864</dt>
+<dd>Jews are taking part in Polish national movement, that was followed by&nbsp;<a class="mw-redirect" title="January rising" href="https://en.wikipedia.org/wiki/January_rising">January rising</a>.</dd>
+</dl>
+<dl>
+<dt>1860&ndash;1943</dt>
+<dd><a title="Henrietta Szold" href="https://en.wikipedia.org/wiki/Henrietta_Szold">Henrietta Szold</a>: educator, author, social worker and founder of&nbsp;<a class="mw-redirect" title="Hadassah" href="https://en.wikipedia.org/wiki/Hadassah">Hadassah</a>.</dd>
+</dl>
+<dl>
+<dt>1861</dt>
+<dd>The Zion Society is formed in&nbsp;<a class="mw-redirect" title="Frankfurt am Main" href="https://en.wikipedia.org/wiki/Frankfurt_am_Main">Frankfurt am Main</a>, Germany.</dd>
+</dl>
+<dl>
+<dt>1862</dt>
+<dd>Jews are given equal rights in Russian-controlled&nbsp;<a title="Congress Poland" href="https://en.wikipedia.org/wiki/Congress_Poland">Congress Poland</a>. The privileges of some towns regarding prohibition of Jewish settlement are revoked. In Leipzig,&nbsp;<a title="Moses Hess" href="https://en.wikipedia.org/wiki/Moses_Hess">Moses Hess</a>&nbsp;publishes the book&nbsp;<a title="Rome and Jerusalem" href="https://en.wikipedia.org/wiki/Rome_and_Jerusalem">Rome and Jerusalem</a>, the first book to call for the establishment of a Jewish socialist commonwealth in Palestine. The book is also notable for giving the impetus for the Labor Zionist movement.</dd>
+</dl>
+<dl>
+<dt>1867</dt>
+<dd>Jews emancipated in Hungary.</dd>
+</dl>
+<dl>
+<dt>1868</dt>
+<dd><a title="Benjamin Disraeli" href="https://en.wikipedia.org/wiki/Benjamin_Disraeli">Benjamin Disraeli</a>&nbsp;becomes Prime Minister of the&nbsp;<a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a>. Though converted to Christianity as a child, he is the first person of Jewish descent to become a leader of government in Europe.</dd>
+</dl>
+<dl>
+<dt>1870&ndash;1890</dt>
+<dd>Russian Zionist group&nbsp;<a title="Hovevei Zion" href="https://en.wikipedia.org/wiki/Hovevei_Zion">Hovevei Zion</a>&nbsp;(Lovers of Zion) and&nbsp;<a title="Bilu" href="https://en.wikipedia.org/wiki/Bilu">Bilu</a>&nbsp;(est. 1882) set up a series of Jewish settlements in the&nbsp;<a title="Land of Israel" href="https://en.wikipedia.org/wiki/Land_of_Israel">Land of Israel</a>, financially aided by Baron&nbsp;<a title="Edmond James de Rothschild" href="https://en.wikipedia.org/wiki/Edmond_James_de_Rothschild">Edmond James de Rothschild</a>. In&nbsp;<a title="Rishon LeZion" href="https://en.wikipedia.org/wiki/Rishon_LeZion">Rishon LeZion</a>&nbsp;<a class="mw-redirect" title="Eliezer ben Yehuda" href="https://en.wikipedia.org/wiki/Eliezer_ben_Yehuda">Eliezer ben Yehuda</a>&nbsp;revives&nbsp;<a title="Hebrew language" href="https://en.wikipedia.org/wiki/Hebrew_language">Hebrew</a>&nbsp;as spoken modern language.</dd>
+</dl>
+<dl>
+<dt>1870</dt>
+<dd>Jews emancipated in Italy.</dd>
+</dl>
+<dl>
+<dt>1871</dt>
+<dd>Jews emancipated in Germany.</dd>
+</dl>
+<dl>
+<dt>1875</dt>
+<dd><a title="Reform Judaism" href="https://en.wikipedia.org/wiki/Reform_Judaism">Reform Judaism</a>'s&nbsp;<a class="mw-redirect" title="Hebrew Union College" href="https://en.wikipedia.org/wiki/Hebrew_Union_College">Hebrew Union College</a>&nbsp;is founded in&nbsp;<a class="mw-redirect" title="Cincinnati, Ohio" href="https://en.wikipedia.org/wiki/Cincinnati,_Ohio">Cincinnati</a>. Its founder was Rabbi&nbsp;<a title="Isaac Mayer Wise" href="https://en.wikipedia.org/wiki/Isaac_Mayer_Wise">Isaac Mayer Wise</a>, the architect of&nbsp;<a title="Reform Judaism" href="https://en.wikipedia.org/wiki/Reform_Judaism">American Reform Judaism</a>.</dd>
+</dl>
+<dl>
+<dt>1877</dt>
+<dd><a title="New Hampshire" href="https://en.wikipedia.org/wiki/New_Hampshire">New Hampshire</a>&nbsp;becomes the last state to give Jews equal political rights.</dd>
+</dl>
+<dl>
+<dt>1878</dt>
+<dd><a title="Petah Tikva" href="https://en.wikipedia.org/wiki/Petah_Tikva">Petah Tikva</a>&nbsp;is founded by religious pioneers from Jerusalem, led by&nbsp;<a title="Yehoshua Stampfer" href="https://en.wikipedia.org/wiki/Yehoshua_Stampfer">Yehoshua Stampfer</a>.</dd>
+</dl>
+<dl>
+<dt>1880</dt>
+<dd>World Jewish population around 7.7 million, 90% in Europe, mostly Eastern Europe; around 3.5 million in the former Polish provinces.</dd>
+</dl>
+<dl>
+<dt>1881&ndash;1884, 1903&ndash;1906, 1918&ndash;1920</dt>
+<dd>Three major waves of&nbsp;<a title="Pogrom" href="https://en.wikipedia.org/wiki/Pogrom">pogroms</a>&nbsp;kill tens of thousands of Jews in Russia and Ukraine. More than two million Russian Jews emigrate in the period 1881&ndash;1920.</dd>
+</dl>
+<dl>
+<dt>1881</dt>
+<dd>On December 30&ndash;31, the First Congress of all Zionist Unions for the colonization of Palestine was held at Focşani, Romania.</dd>
+</dl>
+<dl>
+<dt>1882&ndash;1903</dt>
+<dd>The First&nbsp;<a title="Aliyah" href="https://en.wikipedia.org/wiki/Aliyah">Aliyah</a>, a major wave of Jewish immigrants to build a homeland in&nbsp;<a title="Palestine (region)" href="https://en.wikipedia.org/wiki/Palestine_(region)">Palestine</a>.</dd>
+</dl>
+<dl>
+<dt>1886</dt>
+<dd>Rabbi&nbsp;<a title="Sabato Morais" href="https://en.wikipedia.org/wiki/Sabato_Morais">Sabato Morais</a>&nbsp;and&nbsp;<a title="Alexander Kohut" href="https://en.wikipedia.org/wiki/Alexander_Kohut">Alexander Kohut</a>&nbsp;begin to champion the&nbsp;<a title="Conservative Judaism" href="https://en.wikipedia.org/wiki/Conservative_Judaism">Conservative Jewish</a>&nbsp;reaction to American Reform, and establish The&nbsp;<a title="Jewish Theological Seminary of America" href="https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America">Jewish Theological Seminary of America</a>&nbsp;as a school of 'enlightened Orthodoxy'.</dd>
+</dl>
+<dl>
+<dt>1890</dt>
+<dd>The term "<a title="Zionism" href="https://en.wikipedia.org/wiki/Zionism">Zionism</a>" is coined by an&nbsp;<a title="Austria" href="https://en.wikipedia.org/wiki/Austria">Austrian</a>&nbsp;Jewish publicist&nbsp;<a title="Nathan Birnbaum" href="https://en.wikipedia.org/wiki/Nathan_Birnbaum">Nathan Birnbaum</a>&nbsp;in his journal&nbsp;<em>Self Emancipation</em>&nbsp;and was defined as the national movement for the return of the Jewish people to their homeland and the resumption of Jewish sovereignty in the Land of Israel.</dd>
+</dl>
+<dl>
+<dt>1895</dt>
+<dd>First published book by&nbsp;<a title="Sigmund Freud" href="https://en.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>.</dd>
+</dl>
+<dl>
+<dt>1897</dt>
+<dd>In response to the&nbsp;<a title="Dreyfus affair" href="https://en.wikipedia.org/wiki/Dreyfus_affair">Dreyfus affair</a>,&nbsp;<a class="mw-redirect" title="Theodore Herzl" href="https://en.wikipedia.org/wiki/Theodore_Herzl">Theodore Herzl</a>&nbsp;writes&nbsp;<a title="Der Judenstaat" href="https://en.wikipedia.org/wiki/Der_Judenstaat">Der Judenstaat</a>&nbsp;(The Jewish State), advocating the creation of a free and independent Jewish state in Israel.</dd>
+</dl>
+<dl>
+<dt>1897</dt>
+<dd>The Bund (<a class="mw-redirect" title="General Jewish Labour Bund in Lithuania, Poland and Russia" href="https://en.wikipedia.org/wiki/General_Jewish_Labour_Bund_in_Lithuania,_Poland_and_Russia">General Jewish Labour Bund</a>) is formed in Russia.</dd>
+</dl>
+<dl>
+<dt>1897</dt>
+<dd>First&nbsp;<a title="Russian Empire Census" href="https://en.wikipedia.org/wiki/Russian_Empire_Census">Russian Empire Census</a>: 5,200,000 of Jews, 4,900,000 in the Pale. The lands of former&nbsp;<a title="Poland" href="https://en.wikipedia.org/wiki/Poland">Poland</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Please clarify" href="https://en.wikipedia.org/wiki/Wikipedia:Please_clarify"><span title="The text near this tag may need clarification or removal of jargon. (November 2007)">clarification needed</span></a></em>]</sup>&nbsp;have 1,300,000 Jews or 14% of population.</dd>
+</dl>
+<dl>
+<dt>1897</dt>
+<dd>The&nbsp;<a title="First Zionist Congress" href="https://en.wikipedia.org/wiki/First_Zionist_Congress">First Zionist Congress</a>&nbsp;was held at&nbsp;<a title="Basel" href="https://en.wikipedia.org/wiki/Basel">Basel</a>, which brought the&nbsp;<a title="World Zionist Organization" href="https://en.wikipedia.org/wiki/World_Zionist_Organization">World Zionist Organization</a>&nbsp;(WZO) into being.</dd>
+</dl>
+<dl>
+<dt>1902</dt>
+<dd>Rabbi Dr.&nbsp;<a title="Solomon Schechter" href="https://en.wikipedia.org/wiki/Solomon_Schechter">Solomon Schechter</a>&nbsp;reorganizes the&nbsp;<a title="Jewish Theological Seminary of America" href="https://en.wikipedia.org/wiki/Jewish_Theological_Seminary_of_America">Jewish Theological Seminary of America</a>&nbsp;and makes it into the flagship institution of&nbsp;<a title="Conservative Judaism" href="https://en.wikipedia.org/wiki/Conservative_Judaism">Conservative Judaism</a>.</dd>
+</dl>
+<dl>
+<dt>1903</dt>
+<dd>St. Petersburg's&nbsp;<em>Znamya</em>&nbsp;newspaper publishes a literary&nbsp;<a title="Hoax" href="https://en.wikipedia.org/wiki/Hoax">hoax</a>&nbsp;<em><a title="The Protocols of the Elders of Zion" href="https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion">The Protocols of the Elders of Zion</a></em>.&nbsp;<a class="mw-redirect" title="Kishinev Pogrom" href="https://en.wikipedia.org/wiki/Kishinev_Pogrom">Kishinev Pogrom</a>&nbsp;caused by accusations that Jews practice cannibalism.</dd>
+</dl>
+<dl>
+<dt>1905</dt>
+<dd><a title="1905 Russian Revolution" href="https://en.wikipedia.org/wiki/1905_Russian_Revolution">1905 Russian Revolution</a>&nbsp;accompanied by pogroms.</dd>
+</dl>
+<dl>
+<dt>1915</dt>
+<dd><a title="Yeshiva University" href="https://en.wikipedia.org/wiki/Yeshiva_University">Yeshiva College</a>&nbsp;(later University) and its Rabbi Isaac Elchanan Rabbinical Seminary is established in&nbsp;<a title="New York City" href="https://en.wikipedia.org/wiki/New_York_City">New York City</a>&nbsp;for training in a Modern Orthodox milieu.</dd>
+</dl>
+<dl>
+<dt>1916</dt>
+<dd><a title="Louis Brandeis" href="https://en.wikipedia.org/wiki/Louis_Brandeis">Louis Brandeis</a>, on the first of June, is confirmed as the&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a>' first Jewish&nbsp;<a class="mw-redirect" title="United States Supreme Court" href="https://en.wikipedia.org/wiki/United_States_Supreme_Court">Supreme Court</a>&nbsp;justice. Brandeis was nominated by American President&nbsp;<a title="Woodrow Wilson" href="https://en.wikipedia.org/wiki/Woodrow_Wilson">Woodrow Wilson</a>.</dd>
+</dl>
+<div class="thumb tright">&nbsp;</div>
+<dl>
+<dt>1917</dt>
+<dd>The British defeat the Turks and gain control of Palestine. The British issue the&nbsp;<a title="Balfour Declaration" href="https://en.wikipedia.org/wiki/Balfour_Declaration">Balfour Declaration</a>&nbsp;which gives official British support for "the establishment in Palestine of a national home for the Jewish people ... it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine". Many Jews interpret this to mean that all of Palestine was to become a&nbsp;<a title="Jewish state" href="https://en.wikipedia.org/wiki/Jewish_state">Jewish state</a>.</dd>
+</dl>
+<dl>
+<dt>1917 February</dt>
+<dd>The Pale of Settlement is abolished, and Jews get equal rights. The&nbsp;<a class="mw-redirect" title="Russian civil war" href="https://en.wikipedia.org/wiki/Russian_civil_war">Russian civil war</a>&nbsp;leads to over 2,000 pogroms with tens of thousands murdered and hundreds of thousand made homeless.</dd>
+</dl>
+<dl>
+<dt>1918&ndash;1939</dt>
+<dd>The period between the two World Wars is often referred to as the "golden age" of&nbsp;<em><a title="Hazzan" href="https://en.wikipedia.org/wiki/Hazzan">hazzanut</a></em>&nbsp;(cantors). Some of the great Jewish cantors of this era include&nbsp;<a class="new" title="Abraham Davis (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Abraham_Davis&amp;action=edit&amp;redlink=1">Abraham Davis</a>,&nbsp;<a title="Moshe Koussevitzky" href="https://en.wikipedia.org/wiki/Moshe_Koussevitzky">Moshe Koussevitzky</a>,&nbsp;<a title="Zavel Kwartin" href="https://en.wikipedia.org/wiki/Zavel_Kwartin">Zavel Kwartin</a>&nbsp;(1874&ndash;1953),&nbsp;<a title="Jan Peerce" href="https://en.wikipedia.org/wiki/Jan_Peerce">Jan Peerce</a>,&nbsp;<a title="Yossele Rosenblatt" href="https://en.wikipedia.org/wiki/Yossele_Rosenblatt">Josef "Yossele" Rosenblatt</a>&nbsp;(1882&ndash;1933),&nbsp;<a title="Gershon Sirota" href="https://en.wikipedia.org/wiki/Gershon_Sirota">Gershon Sirota</a>&nbsp;(1874&ndash;1943), and&nbsp;<a class="new" title="Laibale Waldman (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Laibale_Waldman&amp;action=edit&amp;redlink=1">Laibale Waldman</a>.</dd>
+</dl>
+<dl>
+<dt>1919</dt>
+<dd></dd>
+<dd>February 15: Over 1,200 Jews killed in&nbsp;<a title="Khmelnytskyi, Ukraine" href="https://en.wikipedia.org/wiki/Khmelnytskyi,_Ukraine">Khmelnitsky</a>&nbsp;pogrom.</dd>
+<dd>March 25: Around 4,000 Jews killed by Cossack troops in&nbsp;<a class="mw-redirect" title="Tetiev" href="https://en.wikipedia.org/wiki/Tetiev">Tetiev</a>.</dd>
+<dd>June 17: 800 Jews decapitated in assembly-line fashion in&nbsp;<a class="new" title="Dubova, Uman Raion (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Dubova,_Uman_Raion&amp;action=edit&amp;redlink=1">Dubova</a><span class="noprint">&nbsp;[<a class="extiw" title="uk:Дубова (Уманський район)" href="https://uk.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D0%BE%D0%B2%D0%B0_(%D0%A3%D0%BC%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)">uk</a>]</span>.</dd>
+</dl>
+<dl>
+<dt>1920</dt>
+<dd>At the&nbsp;<a title="San Remo conference" href="https://en.wikipedia.org/wiki/San_Remo_conference">San Remo conference</a>&nbsp;<a title="United Kingdom of Great Britain and Ireland" href="https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland">Britain</a>&nbsp;receives the&nbsp;<a title="League of Nations" href="https://en.wikipedia.org/wiki/League_of_Nations">League of Nations</a>'&nbsp;<a title="Mandatory Palestine" href="https://en.wikipedia.org/wiki/Mandatory_Palestine">British Mandate of Palestine</a>.</dd>
+<dd>April 4&ndash;7: Five Jews killed and 216 wounded in the&nbsp;<a class="mw-redirect" title="1920 Palestine riots" href="https://en.wikipedia.org/wiki/1920_Palestine_riots">Jerusalem riots</a></dd>
+</dl>
+<dl>
+<dt>1920s&ndash;present</dt>
+<dd>A variety of Jewish authors, including&nbsp;<a title="Gertrude Stein" href="https://en.wikipedia.org/wiki/Gertrude_Stein">Gertrude Stein</a>,&nbsp;<a title="Allen Ginsberg" href="https://en.wikipedia.org/wiki/Allen_Ginsberg">Allen Ginsberg</a>,&nbsp;<a title="Saul Bellow" href="https://en.wikipedia.org/wiki/Saul_Bellow">Saul Bellow</a>,&nbsp;<a title="Adrienne Rich" href="https://en.wikipedia.org/wiki/Adrienne_Rich">Adrienne Rich</a>&nbsp;and&nbsp;<a title="Philip Roth" href="https://en.wikipedia.org/wiki/Philip_Roth">Philip Roth</a>, sometimes drawing on Jewish culture and history, flourish and become highly influential on the&nbsp;<a title="English-speaking world" href="https://en.wikipedia.org/wiki/English-speaking_world">Anglophone</a>&nbsp;literary scene.</dd>
+</dl>
+<dl>
+<dt>1921</dt>
+<dd>British military administration of the Mandate is replaced by civilian rule.</dd>
+</dl>
+<dl>
+<dt>1921</dt>
+<dd>Britain proclaims that all of Palestine east of the&nbsp;<a title="Jordan River" href="https://en.wikipedia.org/wiki/Jordan_River">Jordan River</a>&nbsp;is forever closed to Jewish settlement, but not to Arab settlement.</dd>
+</dl>
+<dl>
+<dt>1921</dt>
+<dd>Polish&ndash;Soviet peace treaty in&nbsp;<a title="Riga" href="https://en.wikipedia.org/wiki/Riga">Riga</a>. Citizens of both sides are given rights to choose the country. Hundred thousands of Jews, especially small businesses forbidden in the Soviets, move to Poland.</dd>
+</dl>
+<dl>
+<dt>1922</dt>
+<dd><a title="Reform Judaism" href="https://en.wikipedia.org/wiki/Reform_Judaism">Reform</a>&nbsp;Rabbi&nbsp;<a class="mw-redirect" title="Stephen S. Wise" href="https://en.wikipedia.org/wiki/Stephen_S._Wise">Stephen S. Wise</a>&nbsp;established the&nbsp;<a title="Jewish Institute of Religion" href="https://en.wikipedia.org/wiki/Jewish_Institute_of_Religion">Jewish Institute of Religion</a>&nbsp;in New York. (It merged with&nbsp;<a class="mw-redirect" title="Hebrew Union College" href="https://en.wikipedia.org/wiki/Hebrew_Union_College">Hebrew Union College</a>&nbsp;in 1950.)</dd>
+</dl>
+<dl>
+<dt>1923</dt>
+<dd>Britain gives the&nbsp;<a title="Golan Heights" href="https://en.wikipedia.org/wiki/Golan_Heights">Golan Heights</a>&nbsp;to the&nbsp;<a class="mw-redirect" title="French Mandate of Syria" href="https://en.wikipedia.org/wiki/French_Mandate_of_Syria">French Mandate of Syria</a>. Arab immigration is allowed; Jewish immigration is not.</dd>
+<dd>The&nbsp;<a title="First World Congress of Jewish Women" href="https://en.wikipedia.org/wiki/First_World_Congress_of_Jewish_Women">First World Congress of Jewish Women</a>&nbsp;is held 6&ndash;11 May in Vienna.</dd>
+</dl>
+<dl>
+<dt>1924</dt>
+<dd>2,989,000 Jews according to religion poll in Poland (10.5% of total). Jewish youth consisted 23% of students of high schools and 26% of students of universities.</dd>
+</dl>
+<dl>
+<dt>1926</dt>
+<dd>Prior to World War I, there were few&nbsp;<a title="Hasidic Judaism" href="https://en.wikipedia.org/wiki/Hasidic_Judaism">Hasidic</a>&nbsp;yeshivas in Europe. On&nbsp;<a title="Lag BaOmer" href="https://en.wikipedia.org/wiki/Lag_BaOmer">Lag BaOmer</a>&nbsp;1926, Rabbi&nbsp;<a title="Shlomo Chanoch Rabinowicz" href="https://en.wikipedia.org/wiki/Shlomo_Chanoch_Rabinowicz">Shlomo Chanoch Hacohen Rabinowicz</a>, the fourth&nbsp;<a class="mw-redirect" title="Radomsk (Hasidic dynasty)" href="https://en.wikipedia.org/wiki/Radomsk_(Hasidic_dynasty)">Radomsker</a>&nbsp;<a title="Rebbe" href="https://en.wikipedia.org/wiki/Rebbe">Rebbe</a>, declared, "The time has come to found yeshivas where the younger generation will be able to learn and toil in Torah", leading to the founding of the&nbsp;<a title="Keser Torah Radomsk" href="https://en.wikipedia.org/wiki/Keser_Torah_Radomsk">Keser Torah</a>&nbsp;network of 36 yeshivas in pre-war Poland.</dd>
+</dl>
+<dl>
+<dt>1929</dt>
+<dd>A long-running dispute between Muslims and Jews over access to the Western Wall in Jerusalem escalates into the&nbsp;<a title="1929 Palestine riots" href="https://en.wikipedia.org/wiki/1929_Palestine_riots">1929 Palestine riots</a>. The riots took the form in the most part of attacks by Arabs on Jews resulting in the&nbsp;<a title="1929 Hebron massacre" href="https://en.wikipedia.org/wiki/1929_Hebron_massacre">1929 Hebron massacre</a>, the&nbsp;<a class="mw-redirect" title="1929 Safed pogrom" href="https://en.wikipedia.org/wiki/1929_Safed_pogrom">1929 Safed pogrom</a>&nbsp;and violence against Jews in Jerusalem.</dd>
+</dl>
+<dl>
+<dt>1930</dt>
+<dd>World Jewry: 15,000,000. Main countries USA(4,000,000), Poland (3,500,000 11% of total), Soviet Union (2,700,000 2% of total), Romania (1,000,000 6% of total). Palestine 175,000 or 17% of total 1,036,000.</dd>
+</dl>
+<dl>
+<dt>1933</dt>
+<dd><a class="mw-redirect" title="Hitler" href="https://en.wikipedia.org/wiki/Hitler">Hitler</a>&nbsp;takes over&nbsp;<a title="Germany" href="https://en.wikipedia.org/wiki/Germany">Germany</a>; his anti-Semitic sentiments are well-known, prompting numerous Jews to emigrate.</dd>
+</dl>
+<dl>
+<dt>1935</dt>
+<dd><a title="Regina Jonas" href="https://en.wikipedia.org/wiki/Regina_Jonas">Regina Jonas</a>&nbsp;became the first woman to be ordained as a rabbi.</dd>
+</dl>
+<dl>
+<dt>1937</dt>
+<dd><a title="Adin Steinsaltz" href="https://en.wikipedia.org/wiki/Adin_Steinsaltz">Adin Steinsaltz</a>&nbsp;born, author of the first comprehensive Babylonian Talmud commentary since&nbsp;<a title="Rashi" href="https://en.wikipedia.org/wiki/Rashi">Rashi</a>&nbsp;in the 11th century.</dd>
+</dl>
+<dl>
+<dt>1939</dt>
+<dd>The British government issues the '<a title="White Paper of 1939" href="https://en.wikipedia.org/wiki/White_Paper_of_1939">White Paper</a>'. The paper proposed a limit of 10,000 Jewish immigrants for each year between 1940&ndash;1944, plus 25,000 refugees for any emergency arising during that period.</dd>
+</dl>
+<dl>
+<dt>1938&ndash;1945</dt>
+<dd><a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust">The Holocaust</a>&nbsp;(Ha Shoah), resulting in the methodical extermination of nearly 6 million Jews across Europe.</dd>
+</dl>
+<dl>
+<dt>1940s&ndash;present</dt>
+<dd>Various Jewish filmmakers, including&nbsp;<a title="Billy Wilder" href="https://en.wikipedia.org/wiki/Billy_Wilder">Billy Wilder</a>,&nbsp;<a title="Woody Allen" href="https://en.wikipedia.org/wiki/Woody_Allen">Woody Allen</a>,&nbsp;<a title="Mel Brooks" href="https://en.wikipedia.org/wiki/Mel_Brooks">Mel Brooks</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="Coen Brothers" href="https://en.wikipedia.org/wiki/Coen_Brothers">Coen Brothers</a>, frequently draw on Jewish philosophy and humor, and become some of the most artistically and popularly successful in the history of the medium.</dd>
+</dl>
+<dl>
+<dt>1941</dt>
+<dd>The Muslim residents of Baghdad carried out a savage pogrom against their Jewish compatriots. In this pogrom, known by its Arabic name&nbsp;<em>al-<a title="Farhud" href="https://en.wikipedia.org/wiki/Farhud">Farhud</a></em>, about 200 Jews were murdered and thousands wounded, on June 1&ndash;2. Jewish property was plundered and many homes set ablaze.</dd>
+</dl>
+<dl>
+<dt>1945&ndash;1948</dt>
+<dd>Post-Holocaust refugee crisis.&nbsp;<a title="United Kingdom" href="https://en.wikipedia.org/wiki/United_Kingdom">British</a>&nbsp;attempts to detain Jews attempting to enter Palestine illegally.</dd>
+</dl>
+<dl>
+<dt>1946&ndash;1948</dt>
+<dd>The violent struggle for the creation of a Jewish state in the&nbsp;<a title="Mandatory Palestine" href="https://en.wikipedia.org/wiki/Mandatory_Palestine">British mandate of Palestine</a>&nbsp;is intensified by Jewish defense groups:&nbsp;<a title="Haganah" href="https://en.wikipedia.org/wiki/Haganah">Haganah</a>,&nbsp;<a title="Irgun" href="https://en.wikipedia.org/wiki/Irgun">Irgun</a>, and&nbsp;<a class="mw-redirect" title="Lehi (group)" href="https://en.wikipedia.org/wiki/Lehi_(group)">Lehi (group)</a>.</dd>
+</dl>
+<dl>
+<dt>November 29, 1947</dt>
+<dd>The&nbsp;<a title="United Nations" href="https://en.wikipedia.org/wiki/United_Nations">United Nations</a>&nbsp;approves the creation of a Jewish State and an Arab State in the British mandate of Palestine.</dd>
+</dl>
+<dl>
+<dt>May 14, 1948</dt>
+<dd>The State of&nbsp;<a title="Israel" href="https://en.wikipedia.org/wiki/Israel">Israel</a>&nbsp;declares itself as an independent Jewish state hours before the British Mandate is due to expire. Within eleven minutes, it is de facto recognized by the&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a>.&nbsp;<a title="Andrei Gromyko" href="https://en.wikipedia.org/wiki/Andrei_Gromyko">Andrei Gromyko</a>, the&nbsp;<a title="Soviet Union" href="https://en.wikipedia.org/wiki/Soviet_Union">Soviet Union</a>'s UN ambassador, calls for the&nbsp;<a title="United Nations" href="https://en.wikipedia.org/wiki/United_Nations">UN</a>&nbsp;to accept Israel as a member state. The UN approves.</dd>
+</dl>
+<dl>
+<dt>May 15, 1948</dt>
+<dd><a title="1948 Arab&ndash;Israeli War" href="https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War">1948 Arab&ndash;Israeli War</a>:&nbsp;<a title="Syria" href="https://en.wikipedia.org/wiki/Syria">Syria</a>, Iraq,&nbsp;<a title="Jordan" href="https://en.wikipedia.org/wiki/Jordan">Transjordan</a>,&nbsp;<a title="Lebanon" href="https://en.wikipedia.org/wiki/Lebanon">Lebanon</a>&nbsp;and&nbsp;<a title="Egypt" href="https://en.wikipedia.org/wiki/Egypt">Egypt</a>&nbsp;invade Israel hours after its creation. The attack is repulsed, and Israel conquers more territory. A&nbsp;<a class="mw-redirect" title="Jewish exodus from Arab and Muslim lands" href="https://en.wikipedia.org/wiki/Jewish_exodus_from_Arab_and_Muslim_lands">Jewish exodus from Arab and Muslim lands</a>&nbsp;results, as up to a million Jews flee or are expelled from Arab and Muslim nations. Most settle in Israel. See also&nbsp;<a title="1949 Armistice Agreements" href="https://en.wikipedia.org/wiki/1949_Armistice_Agreements">1949 Armistice Agreements</a>.</dd>
+</dl>
+<dl>
+<dt>1948&ndash;1949</dt>
+<dd>Almost 250,000 Holocaust survivors make their way to Israel. "<a title="Operation Magic Carpet (Yemen)" href="https://en.wikipedia.org/wiki/Operation_Magic_Carpet_(Yemen)">Operation Magic Carpet</a>" brings thousands of&nbsp;<a title="Yemen" href="https://en.wikipedia.org/wiki/Yemen">Yemenite</a>&nbsp;Jews to Israel.</dd>
+</dl>
+<dl>
+<dt>1956</dt>
+<dd>The&nbsp;<a class="mw-redirect" title="1956 Suez War" href="https://en.wikipedia.org/wiki/1956_Suez_War">1956 Suez War</a>&nbsp;Egypt blockades the Gulf of Aqaba, and closes the Suez canal to Israeli shipping. Egypt's President&nbsp;<a title="Gamal Abdel Nasser" href="https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser">Nasser</a>&nbsp;calls for the destruction of Israel. Israel, England, and France go to war and force Egypt to end the blockade of Aqaba, and open the canal to all nations.</dd>
+</dl>
+<dl>
+<dt>1964</dt>
+<dd>Jewish-Christian relations are revolutionized by the&nbsp;<a class="mw-redirect" title="Roman Catholic Church" href="https://en.wikipedia.org/wiki/Roman_Catholic_Church">Roman Catholic Church</a>'s&nbsp;<a class="mw-redirect" title="Vatican II" href="https://en.wikipedia.org/wiki/Vatican_II">Vatican II</a>.</dd>
+</dl>
+<dl>
+<dt>1966</dt>
+<dd><a title="Shmuel Yosef Agnon" href="https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon">Shmuel Yosef Agnon</a>&nbsp;(1888&ndash;1970) becomes the first Hebrew writer to win the&nbsp;<a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize">Nobel Prize</a>&nbsp;in literature.</dd>
+</dl>
+<dl>
+<dt>May 16, 1967</dt>
+<dd>Egyptian President&nbsp;<a title="Gamal Abdel Nasser" href="https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser">Nasser</a>&nbsp;demands that the UN dismantle the&nbsp;<a class="new" title="UN Emergency Force I (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=UN_Emergency_Force_I&amp;action=edit&amp;redlink=1">UN Emergency Force I</a>&nbsp;(UNEF I) between Israel and Egypt. The&nbsp;<a title="United Nations" href="https://en.wikipedia.org/wiki/United_Nations">UN</a>&nbsp;complies and the last UN peacekeeper is out of Sinai and Gaza by May 19.</dd>
+</dl>
+<dl>
+<dt>1967 May</dt>
+<dd>Egyptian President<a title="Gamal Abdel Nasser" href="https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser">Gamal Abdel Nasser</a>&nbsp;closes the strategic&nbsp;<a title="Straits of Tiran" href="https://en.wikipedia.org/wiki/Straits_of_Tiran">Straits of Tiran</a>&nbsp;to Israeli shipping and states that Egypt is in a state of war with Israel. Egyptian troops begin massing in the&nbsp;<a title="Sinai Peninsula" href="https://en.wikipedia.org/wiki/Sinai_Peninsula">Sinai</a>.</dd>
+</dl>
+<dl>
+<dt>June 5&ndash;10, 1967</dt>
+<dd>The&nbsp;<a title="Six-Day War" href="https://en.wikipedia.org/wiki/Six-Day_War">Six-Day War</a>. Israel launches a pre-emptive strike against&nbsp;<a title="Egypt" href="https://en.wikipedia.org/wiki/Egypt">Egypt</a>,&nbsp;<a title="Jordan" href="https://en.wikipedia.org/wiki/Jordan">Jordan</a>, and&nbsp;<a title="Syria" href="https://en.wikipedia.org/wiki/Syria">Syria</a>. Israeli aircraft destroy the bulk of the Arab air forces on the ground in a&nbsp;<a title="Operation Focus" href="https://en.wikipedia.org/wiki/Operation_Focus">surprise attack</a>, followed by Israeli ground offensives which see Israel decisively defeat the Arab forces and capture the&nbsp;<a title="Sinai Peninsula" href="https://en.wikipedia.org/wiki/Sinai_Peninsula">Sinai Peninsula</a>, the&nbsp;<a title="West Bank" href="https://en.wikipedia.org/wiki/West_Bank">West Bank</a>, and the&nbsp;<a title="Golan Heights" href="https://en.wikipedia.org/wiki/Golan_Heights">Golan Heights</a>.</dd>
+</dl>
+<dl>
+<dt>September 1, 1967</dt>
+<dd>The Arab Leaders meet in&nbsp;<a title="Khartoum" href="https://en.wikipedia.org/wiki/Khartoum">Khartoum</a>,&nbsp;<a title="Sudan" href="https://en.wikipedia.org/wiki/Sudan">Sudan</a>. The Three No's of Khartoum: No recognition of Israel. No negotiations with Israel. No peace with Israel.</dd>
+</dl>
+<dl>
+<dt>1968</dt>
+<dd>Rabbi Mordechai Kaplan formally creates a separate&nbsp;<a title="Reconstructionist Judaism" href="https://en.wikipedia.org/wiki/Reconstructionist_Judaism">Reconstructionist Judaism</a>&nbsp;movement by setting up the Reconstructionist Rabbinical College in Philadelphia.</dd>
+</dl>
+<dl>
+<dt>1969</dt>
+<dd>First group of African Hebrew Israelites begin to migrate to Israel under the leadership of Ben Ammi Ben Israel.</dd>
+</dl>
+<dl>
+<dt>Mid-1970s to present</dt>
+<dd>Growing revival of&nbsp;<a title="Klezmer" href="https://en.wikipedia.org/wiki/Klezmer">Klezmer</a>&nbsp;music (The folk music of European Jews).</dd>
+</dl>
+<dl>
+<dt>1972</dt>
+<dd><a title="Sally Priesand" href="https://en.wikipedia.org/wiki/Sally_Priesand">Sally Priesand</a>&nbsp;became the first female rabbi ordained in America, and is believed to be only the second woman ever to be formally ordained in the history of Judaism.</dd>
+</dl>
+<dl>
+<dt>1972</dt>
+<dd><a title="Mark Spitz" href="https://en.wikipedia.org/wiki/Mark_Spitz">Mark Spitz</a>&nbsp;sets the record for most gold medals won in a single&nbsp;<a title="Olympic Games" href="https://en.wikipedia.org/wiki/Olympic_Games">Olympic Games</a>&nbsp;(seven) in the&nbsp;<a title="1972 Summer Olympics" href="https://en.wikipedia.org/wiki/1972_Summer_Olympics">1972 Summer Olympics</a>. The&nbsp;<a title="Munich massacre" href="https://en.wikipedia.org/wiki/Munich_massacre">Munich massacre</a>&nbsp;occurs when Israeli athletes are taken hostage by&nbsp;<a class="mw-redirect" title="Black September (group)" href="https://en.wikipedia.org/wiki/Black_September_(group)">Black September</a>&nbsp;terrorists. The hostages are killed during a failed rescue attempt.</dd>
+</dl>
+<dl>
+<dt>October 6&ndash;24, 1973</dt>
+<dd>The&nbsp;<a title="Yom Kippur War" href="https://en.wikipedia.org/wiki/Yom_Kippur_War">Yom Kippur War</a>.&nbsp;<a title="Egypt" href="https://en.wikipedia.org/wiki/Egypt">Egypt</a>&nbsp;and&nbsp;<a title="Syria" href="https://en.wikipedia.org/wiki/Syria">Syria</a>, backed up by expeditionary forces from other Arab nations, launch a surprise attack against Israel on&nbsp;<a title="Yom Kippur" href="https://en.wikipedia.org/wiki/Yom_Kippur">Yom Kippur</a>. After absorbing the initial attacks, Israel recaptures lost ground and then pushes into Egypt and Syria. Subsequently,&nbsp;<a title="OPEC" href="https://en.wikipedia.org/wiki/OPEC">OPEC</a>&nbsp;reduces oil production, driving up oil prices and triggering a global economic crisis.</dd>
+</dl>
+<dl>
+<dt>1975</dt>
+<dd>President Gerald Ford signs legislation including the&nbsp;<a class="mw-redirect" title="Jackson-Vanik amendment" href="https://en.wikipedia.org/wiki/Jackson-Vanik_amendment">Jackson-Vanik amendment</a>, which ties U.S. trade benefits to the Soviet Union to freedom of emigration for Jews.</dd>
+</dl>
+<dl>
+<dt>1975</dt>
+<dd>United Nations adopts resolution equating Zionism with racism. Rescinded in 1991.</dd>
+</dl>
+<dl>
+<dt>1976</dt>
+<dd>Israel rescues hostages taken to&nbsp;<a title="Operation Entebbe" href="https://en.wikipedia.org/wiki/Operation_Entebbe">Entebbe</a>, Uganda.</dd>
+</dl>
+<dl>
+<dt>September 18, 1978</dt>
+<dd>At&nbsp;<a title="Camp David" href="https://en.wikipedia.org/wiki/Camp_David">Camp David</a>, near&nbsp;<a class="mw-redirect" title="Washington D.C." href="https://en.wikipedia.org/wiki/Washington_D.C.">Washington D.C.</a>, Israel and Egypt sign a comprehensive peace treaty, The&nbsp;<a class="mw-redirect" title="Camp David Accord" href="https://en.wikipedia.org/wiki/Camp_David_Accord">Camp David Accord</a>, which included the withdrawal of Israel from the&nbsp;<a title="Sinai Peninsula" href="https://en.wikipedia.org/wiki/Sinai_Peninsula">Sinai</a>.</dd>
+</dl>
+<dl>
+<dt>1978</dt>
+<dd><a title="Yiddish" href="https://en.wikipedia.org/wiki/Yiddish">Yiddish</a>&nbsp;writer&nbsp;<a title="Isaac Bashevis Singer" href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer">Isaac Bashevis Singer</a>&nbsp;receives Nobel Prize</dd>
+</dl>
+<dl>
+<dt>1979</dt>
+<dd>Prime Minister&nbsp;<a title="Menachem Begin" href="https://en.wikipedia.org/wiki/Menachem_Begin">Menachem Begin</a>&nbsp;and President&nbsp;<a title="Anwar Sadat" href="https://en.wikipedia.org/wiki/Anwar_Sadat">Anwar Sadat</a>&nbsp;are awarded&nbsp;<a title="Nobel Peace Prize" href="https://en.wikipedia.org/wiki/Nobel_Peace_Prize">Nobel Peace Prize</a>.</dd>
+</dl>
+<dl>
+<dt>1979&ndash;1983</dt>
+<dd>Operation Elijah: Rescue of Ethiopian Jewry.</dd>
+</dl>
+<dl>
+<dt>1982 June&ndash;December</dt>
+<dd>The&nbsp;<a title="1982 Lebanon War" href="https://en.wikipedia.org/wiki/1982_Lebanon_War">Lebanon War</a>. Israel invades Southern&nbsp;<a title="Lebanon" href="https://en.wikipedia.org/wiki/Lebanon">Lebanon</a>&nbsp;to drive out the PLO.</dd>
+</dl>
+<dl>
+<dt>1983</dt>
+<dd>American&nbsp;<a class="mw-redirect" title="Reform Jew" href="https://en.wikipedia.org/wiki/Reform_Jew">Reform Jews</a>&nbsp;formally accept patrilineal descent, creating a new definition of who is a Jew.</dd>
+</dl>
+<dl>
+<dt>1984&ndash;1985</dt>
+<dd>Operations Moses, Joshua: Rescue of Ethiopian Jewry by Israel.</dd>
+</dl>
+<dl>
+<dt>1986</dt>
+<dd><a title="Elie Wiesel" href="https://en.wikipedia.org/wiki/Elie_Wiesel">Elie Wiesel</a>&nbsp;wins the&nbsp;<a title="Nobel Peace Prize" href="https://en.wikipedia.org/wiki/Nobel_Peace_Prize">Nobel Peace Prize</a></dd>
+</dl>
+<dl>
+<dt>1986</dt>
+<dd><a class="mw-redirect" title="Nathan Sharansky" href="https://en.wikipedia.org/wiki/Nathan_Sharansky">Nathan Sharansky</a>, Soviet Jewish dissident, is freed from prison.</dd>
+</dl>
+<dl>
+<dt>1987</dt>
+<dd>Beginning of the&nbsp;<a title="First Intifada" href="https://en.wikipedia.org/wiki/First_Intifada">First Intifada</a>&nbsp;against Israel.</dd>
+</dl>
+<dl>
+<dt>1989</dt>
+<dd>Fall of the&nbsp;<a title="Berlin Wall" href="https://en.wikipedia.org/wiki/Berlin_Wall">Berlin Wall</a>&nbsp;between East and West Germany, collapse of the communist East German government, and the beginning of&nbsp;<a title="German reunification" href="https://en.wikipedia.org/wiki/German_reunification">Germany's reunification</a>&nbsp;(which formally began in October 1990).</dd>
+</dl>
+<dl>
+<dt>1990</dt>
+<dd>The Soviet Union opens its borders for the three million Soviet Jews who had been held as virtual prisoners within their own country. Hundreds of thousands of Soviet Jews choose to leave the Soviet Union and move to Israel.</dd>
+</dl>
+<dl>
+<dt>1990&ndash;1991</dt>
+<dd>Iraq invades&nbsp;<a title="Kuwait" href="https://en.wikipedia.org/wiki/Kuwait">Kuwait</a>, triggering a war between Iraq and Allied United Nations forces. Israel is hit by 39&nbsp;<a class="mw-redirect" title="Scud missile" href="https://en.wikipedia.org/wiki/Scud_missile">Scud missiles</a>&nbsp;from Iraq.</dd>
+</dl>
+<dl>
+<dt>1991</dt>
+<dd><a title="Operation Solomon" href="https://en.wikipedia.org/wiki/Operation_Solomon">Operation Solomon</a>: Rescue of the remainder of&nbsp;<a title="Ethiopia" href="https://en.wikipedia.org/wiki/Ethiopia">Ethiopian</a>&nbsp;Jewry in a twenty-four-hour airlift.</dd>
+</dl>
+<dl>
+<dt>October 30, 1991</dt>
+<dd>The&nbsp;<a title="Madrid Conference of 1991" href="https://en.wikipedia.org/wiki/Madrid_Conference_of_1991">Madrid Peace Conference</a>&nbsp;opens in&nbsp;<a title="Spain" href="https://en.wikipedia.org/wiki/Spain">Spain</a>, sponsored by the United States and the Soviet Union.</dd>
+</dl>
+<dl>
+<dt>April 22, 1993</dt>
+<dd>The&nbsp;<a title="United States Holocaust Memorial Museum" href="https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum">United States Holocaust Memorial Museum</a>&nbsp;dedicated.</dd>
+</dl>
+<div class="thumb tright">&nbsp;</div>
+<dl>
+<dt>September 13, 1993</dt>
+<dd>Israel and&nbsp;<a class="mw-redirect" title="PLO" href="https://en.wikipedia.org/wiki/PLO">PLO</a>&nbsp;sign the&nbsp;<a title="Oslo Accords" href="https://en.wikipedia.org/wiki/Oslo_Accords">Oslo Accords</a>.</dd>
+</dl>
+<dl>
+<dt>1994</dt>
+<dd>The Lubavitcher (<a class="mw-redirect" title="Chabad Lubavitch" href="https://en.wikipedia.org/wiki/Chabad_Lubavitch">Chabad</a>) Rebbe,&nbsp;<a title="Menachem Mendel Schneerson" href="https://en.wikipedia.org/wiki/Menachem_Mendel_Schneerson">Menachem Mendel Schneerson</a>, dies.</dd>
+</dl>
+<dl>
+<dt>October 26, 1994</dt>
+<dd>Israel and Jordan sign an official peace treaty. Israel cedes a small amount of contested land to Jordan, and the countries open official diplomatic relations, with open borders and free trade.</dd>
+</dl>
+<dl>
+<dt>December 10, 1994</dt>
+<dd>Arafat, Rabin and Israeli Foreign Minister Shimon Peres share the&nbsp;<a title="Nobel Peace Prize" href="https://en.wikipedia.org/wiki/Nobel_Peace_Prize">Nobel Peace Prize</a>.</dd>
+</dl>
+<dl>
+<dt>November 4, 1995</dt>
+<dd>Israeli Prime Minister&nbsp;<a title="Yitzhak Rabin" href="https://en.wikipedia.org/wiki/Yitzhak_Rabin">Yitzhak Rabin</a>&nbsp;is assassinated.</dd>
+</dl>
+<dl>
+<dt>1996</dt>
+<dd>Peres loses election to Benyamin (Bibi) Netanyahu (Likud party).</dd>
+</dl>
+<dl>
+<dt>1999</dt>
+<dd><a title="Ehud Barak" href="https://en.wikipedia.org/wiki/Ehud_Barak">Ehud Barak</a>&nbsp;elected Prime Minister of Israel.</dd>
+</dl>
+<dl>
+<dt>May 24, 2000</dt>
+<dd>Israel unilaterally withdraws its remaining forces from its security zone in southern Lebanon to the international border, fully complying with the UN Security Council Res. 425.</dd>
+</dl>
+<dl>
+<dt>2000 July</dt>
+<dd>Camp David Summit.</dd>
+</dl>
+<dl>
+<dt>2000, Summer</dt>
+<dd>Senator&nbsp;<a class="mw-redirect" title="Joseph Lieberman" href="https://en.wikipedia.org/wiki/Joseph_Lieberman">Joseph Lieberman</a>&nbsp;becomes the first Jewish-American to be nominated for a national office (<a title="Vice President of the United States" href="https://en.wikipedia.org/wiki/Vice_President_of_the_United_States">Vice President of the United States</a>) by a major political party (the&nbsp;<a title="Democratic Party (United States)" href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic Party</a>).</dd>
+</dl>
+<dl>
+<dt>September 29, 2000</dt>
+<dd>The&nbsp;<a title="Al-Aqsa Intifada" href="https://en.wikipedia.org/wiki/Al-Aqsa_Intifada">al-Aqsa Intifada</a>&nbsp;begins.</dd>
+</dl>
+<dl>
+<dt>2001</dt>
+<dd>Election of&nbsp;<a title="Ariel Sharon" href="https://en.wikipedia.org/wiki/Ariel_Sharon">Ariel Sharon</a>&nbsp;as Israel's Prime Minister.</dd>
+</dl>
+<dl>
+<dt>2001</dt>
+<dd><a title="Jewish Museum of Turkey" href="https://en.wikipedia.org/wiki/Jewish_Museum_of_Turkey">Jewish Museum of Turkey</a>&nbsp;is founded by&nbsp;<a title="History of the Jews in Turkey" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_Turkey">Turkish Jewry</a></dd>
+</dl>
+<dl>
+<dt>2004</dt>
+<dd><a title="Avram Hershko" href="https://en.wikipedia.org/wiki/Avram_Hershko">Avram Hershko</a>&nbsp;and&nbsp;<a title="Aaron Ciechanover" href="https://en.wikipedia.org/wiki/Aaron_Ciechanover">Aaron Ciechanover</a>&nbsp;of the&nbsp;<a class="mw-redirect" title="Technion" href="https://en.wikipedia.org/wiki/Technion">Technion</a>&nbsp;win the&nbsp;<a title="Nobel Prize in Chemistry" href="https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry">Nobel Prize in Chemistry</a>. The&nbsp;<a title="Jewish Autonomous Oblast" href="https://en.wikipedia.org/wiki/Jewish_Autonomous_Oblast">Jewish Autonomous Oblast</a>&nbsp;builds its first synagogue,&nbsp;<a title="Birobidzhan Synagogue" href="https://en.wikipedia.org/wiki/Birobidzhan_Synagogue">Birobidzhan Synagogue</a>, in accordance with halakha.&nbsp;Uriyahu Butler became the first member of the African Hebrew Israelite community to enlist in the&nbsp;<a title="Israel Defense Forces" href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">Israel Defense Forces</a>&nbsp;(IDF)</dd>
+</dl>
+<dl>
+<dt>March 31, 2005</dt>
+<dd>The Government of Israel officially recognizes the&nbsp;<a title="Bnei Menashe" href="https://en.wikipedia.org/wiki/Bnei_Menashe">Bnei Menashe</a>&nbsp;people of&nbsp;<a class="mw-redirect" title="North-East India" href="https://en.wikipedia.org/wiki/North-East_India">North-East India</a>&nbsp;as one of the&nbsp;<a title="Ten Lost Tribes" href="https://en.wikipedia.org/wiki/Ten_Lost_Tribes">Ten Lost Tribes</a>&nbsp;of Israel, opening the door for thousands of people to immigrate to Israel.</dd>
+</dl>
+<dl>
+<dt>2005 August</dt>
+<dd>The Government of Israel&nbsp;<a class="mw-redirect" title="Israel's unilateral disengagement plan" href="https://en.wikipedia.org/wiki/Israel%27s_unilateral_disengagement_plan">withdraws</a>&nbsp;its military forces and settlers from the&nbsp;<a title="Gaza Strip" href="https://en.wikipedia.org/wiki/Gaza_Strip">Gaza Strip</a>.</dd>
+</dl>
+<dl>
+<dt>2005 December</dt>
+<dd>Prime Minister Ariel Sharon falls into a coma; Deputy Premier Ehud Olmert takes over as Acting Prime Minister</dd>
+</dl>
+<dl>
+<dt>2006 March</dt>
+<dd>Ehud Olmert leads the Kadima party to victory in Israeli elections, becomes Prime Minister of Israel.</dd>
+</dl>
+<dl>
+<dt>2006 July&ndash;August</dt>
+<dd>A&nbsp;<a title="2006 Lebanon War" href="https://en.wikipedia.org/wiki/2006_Lebanon_War">military conflict</a>&nbsp;in Lebanon and northern Israel started on July 12, after a&nbsp;<a title="Hezbollah" href="https://en.wikipedia.org/wiki/Hezbollah">Hezbollah</a>&nbsp;<a class="mw-redirect" title="Zar'it-Shtula incident" href="https://en.wikipedia.org/wiki/Zar%27it-Shtula_incident">cross-border raid</a>&nbsp;into Israel. The war ended with the passage of&nbsp;<a title="United Nations Security Council Resolution 1701" href="https://en.wikipedia.org/wiki/United_Nations_Security_Council_Resolution_1701">United Nations Security Council Resolution 1701</a>&nbsp;after 34 days of fighting. About 2,000 Lebanese and 159 Israelis were killed, and civilian infrastructure on both sides heavily damaged.</dd>
+</dl>
+<dl>
+<dt>2008 December</dt>
+<dd>The&nbsp;<a title="Israel Defense Forces" href="https://en.wikipedia.org/wiki/Israel_Defense_Forces">Israel Defense Forces</a>&nbsp;(IDF) launches&nbsp;<a class="mw-redirect" title="Gaza War (2008&ndash;09)" href="https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%9309)">Operation Cast Lead</a>&nbsp;(מבצע עופרת יצוקה) against&nbsp;<a title="Hamas" href="https://en.wikipedia.org/wiki/Hamas">Hamas</a>&nbsp;in the&nbsp;<a title="Gaza Strip" href="https://en.wikipedia.org/wiki/Gaza_Strip">Gaza Strip</a>.</dd>
+</dl>
+<dl>
+<dt>2009 March</dt>
+<dd><a title="Benjamin Netanyahu" href="https://en.wikipedia.org/wiki/Benjamin_Netanyahu">Benjamin Netanyahu</a>&nbsp;becomes&nbsp;<a title="Prime Minister of Israel" href="https://en.wikipedia.org/wiki/Prime_Minister_of_Israel">Prime Minister of Israel</a>&nbsp;(also, continues as the Chairman of the&nbsp;<a title="Likud" href="https://en.wikipedia.org/wiki/Likud">Likud</a>&nbsp;Party).</dd>
+</dl>
+<dl>
+<dt>2014 January</dt>
+<dd><a title="Ariel Sharon" href="https://en.wikipedia.org/wiki/Ariel_Sharon">Ariel Sharon</a>&nbsp;dies, after undergoing a sudden decline in health, having suffered renal failure and other complications, after spending 8 years in a deep coma due to his January 2006 stroke, on January 11, 2014.</dd>
+</dl>
+<dl>
+<dt>2016 March</dt>
+<dd>The Jewish Agency declares an end to immigration from Yemen, following the successful conclusion of a covert operation that brought 19 people to Israel over several days. The last 50 Yemenite Jews refuse to leave Yemen.</dd>
+</dl>
+<dl>
+<dt>2017 December</dt>
+<dd>President&nbsp;<a title="" href="https://en.wikipedia.org/wiki/Donald_Trump">Donald Trump</a>&nbsp;announces formal&nbsp;<a class="mw-redirect" title="United States recognition of Jerusalem as the capital of Israel" href="https://en.wikipedia.org/wiki/United_States_recognition_of_Jerusalem_as_the_capital_of_Israel">United States recognition of Jerusalem as the capital of Israel</a>.</dd>
+</dl>
+<dl>
+<dt>2019 March&nbsp;</dt>
+<dd>The United States became the first country to recognize Israeli sovereignty over the&nbsp;<a class="mw-redirect" title="Golan heights" href="https://en.wikipedia.org/wiki/Golan_heights">Golan heights</a>&nbsp;territory which it held since 1967.</dd>
+</dl>
+  </br>
+  
+  
+  
+  
   
