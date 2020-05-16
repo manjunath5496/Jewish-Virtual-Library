@@ -1727,7 +1727,6 @@ Modern Europe</a></li>
 <dd>Seeing anarchy breaking out in Judea, Xerxes' successor Persian&nbsp;<a title="Artaxerxes I of Persia" href="https://en.wikipedia.org/wiki/Artaxerxes_I_of_Persia">King Artaxerxes</a>&nbsp;sent&nbsp;<a title="Ezra" href="https://en.wikipedia.org/wiki/Ezra">Ezra</a>&nbsp;to restore order.</dd>
 </dl>
 <p><span id="FN1">*</span>&nbsp;The Exodus (which we know of from Jewish sources) took place in the Jewish year 2448, and the CE begins in the Jewish year 3760. Between 2448 and 3760 are 1312 years.</p>
-<h2>&nbsp;</h2>
 <dl>
 <dt>332 BCE</dt>
 <dd><a title="Alexander the Great" href="https://en.wikipedia.org/wiki/Alexander_the_Great">Alexander the Great</a>&nbsp;conquers Phoenicia and Gaza, probably passing by Judea without entering the Jewish dominated hill country on his way into Egypt.</dd>
@@ -1772,7 +1771,6 @@ Modern Europe</a></li>
 <dt>30&ndash;70 CE</dt>
 <dd><a class="mw-redirect" title="Schisms among the Jews" href="https://en.wikipedia.org/wiki/Schisms_among_the_Jews#Second_Temple_era">Schism within Judaism during the Second Temple era</a>. A sect within&nbsp;<a title="Hellenistic Judaism" href="https://en.wikipedia.org/wiki/Hellenistic_Judaism">Hellenised Jewish</a>&nbsp;society starts&nbsp;<a class="mw-redirect" title="Jewish Christianity" href="https://en.wikipedia.org/wiki/Jewish_Christianity">Jewish Christianity</a>, see also&nbsp;<a title="Rejection of Jesus" href="https://en.wikipedia.org/wiki/Rejection_of_Jesus">Rejection of Jesus</a>.</dd>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt>66&ndash;70</dt>
 <dd>The&nbsp;<a title="First Jewish&ndash;Roman War" href="https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War">First Jewish&ndash;Roman War</a>&nbsp;ended with destruction of the Second Temple and the&nbsp;<a class="mw-redirect" title="Destruction of Jerusalem" href="https://en.wikipedia.org/wiki/Destruction_of_Jerusalem">fall of Jerusalem</a>. 1,100,000 people are killed by the Romans during the siege, and 97,000 captured and enslaved. The&nbsp;<a title="Sanhedrin" href="https://en.wikipedia.org/wiki/Sanhedrin">Sanhedrin</a>&nbsp;was relocated to&nbsp;<a title="Yavne" href="https://en.wikipedia.org/wiki/Yavne">Yavne</a>&nbsp;by&nbsp;<a class="mw-redirect" title="Yochanan ben Zakai" href="https://en.wikipedia.org/wiki/Yochanan_ben_Zakai">Yochanan ben Zakai</a>, see also&nbsp;<a title="Council of Jamnia" href="https://en.wikipedia.org/wiki/Council_of_Jamnia">Council of Jamnia</a>.&nbsp;<a title="Fiscus Judaicus" href="https://en.wikipedia.org/wiki/Fiscus_Judaicus">Fiscus Judaicus</a>&nbsp;levied on all&nbsp;<a title="History of the Jews in the Roman Empire" href="https://en.wikipedia.org/wiki/History_of_the_Jews_in_the_Roman_Empire">Jews of the Roman Empire</a>&nbsp;whether they aided the revolt or not.</dd>
@@ -2017,8 +2015,6 @@ Modern Europe</a></li>
 <dt>1290</dt>
 <dd>Jews are expelled from&nbsp;<a title="England" href="https://en.wikipedia.org/wiki/England">England</a>&nbsp;by&nbsp;<a title="Edward I of England" href="https://en.wikipedia.org/wiki/Edward_I_of_England">Edward I</a>&nbsp;after the banning of usury in the 1275&nbsp;<em><a title="Statute of Jewry" href="https://en.wikipedia.org/wiki/Statute_of_Jewry">Statute of Jewry</a></em>.</dd>
 </dl>
-<h3>&nbsp;</h3>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt>1300</dt>
 <dd>Rabbi Levi ben Gershom, aka&nbsp;<a title="Gersonides" href="https://en.wikipedia.org/wiki/Gersonides">Gersonides</a>. A 14th-century French Jewish philosopher best known for his&nbsp;<em>Sefer Milhamot Adonai</em>&nbsp;("The Book of the Wars of the Lord") as well as for his philosophical commentaries.</dd>
@@ -2255,8 +2251,6 @@ Modern Europe</a></li>
 <dt>1799</dt>
 <dd>Mob violence on Jews in&nbsp;<a title="Safed" href="https://en.wikipedia.org/wiki/Safed">Safed</a>.</dd>
 </dl>
-<h3>&nbsp;</h3>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt>1800&ndash;1900</dt>
 <dd>The Golden Age of&nbsp;<a title="Yiddish literature" href="https://en.wikipedia.org/wiki/Yiddish_literature">Yiddish literature</a>, the revival of Hebrew as a spoken language, and the revival of&nbsp;<a title="Hebrew literature" href="https://en.wikipedia.org/wiki/Hebrew_literature">Hebrew literature</a>.</dd>
@@ -2435,9 +2429,8 @@ Modern Europe</a></li>
 </dl>
 <dl>
 <dt>1916</dt>
-<dd><a title="Louis Brandeis" href="https://en.wikipedia.org/wiki/Louis_Brandeis">Louis Brandeis</a>, on the first of June, is confirmed as the&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a>' first Jewish&nbsp;<a class="mw-redirect" title="United States Supreme Court" href="https://en.wikipedia.org/wiki/United_States_Supreme_Court">Supreme Court</a>&nbsp;justice. Brandeis was nominated by American President&nbsp;<a title="Woodrow Wilson" href="https://en.wikipedia.org/wiki/Woodrow_Wilson">Woodrow Wilson</a>.</dd>
+<dd><a title="Louis Brandeis" href="https://en.wikipedia.org/wiki/Louis_Brandeis">Louis Brandeis</a>, on the first of June, is confirmed as the&nbsp;<a title="United States" href="https://en.wikipedia.org/wiki/United_States">United States</a>' first Jewish&nbsp;<a class="mw-redirect" title="United States Supreme Court" href="https://en.wikipedia.org/wiki/United_States_Supreme_Court">Supreme Court</a>&nbsp;justice. Brandeis was nominated by American President&nbsp;<a title="Woodrow Wilson" href="https://en.wikipedia.org/wiki/Woodrow_Wilson">Woodrow Wilson</a>.&nbsp;</dd>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt>1917</dt>
 <dd>The British defeat the Turks and gain control of Palestine. The British issue the&nbsp;<a title="Balfour Declaration" href="https://en.wikipedia.org/wiki/Balfour_Declaration">Balfour Declaration</a>&nbsp;which gives official British support for "the establishment in Palestine of a national home for the Jewish people ... it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish communities in Palestine". Many Jews interpret this to mean that all of Palestine was to become a&nbsp;<a title="Jewish state" href="https://en.wikipedia.org/wiki/Jewish_state">Jewish state</a>.</dd>
@@ -2681,9 +2674,8 @@ Modern Europe</a></li>
 </dl>
 <dl>
 <dt>April 22, 1993</dt>
-<dd>The&nbsp;<a title="United States Holocaust Memorial Museum" href="https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum">United States Holocaust Memorial Museum</a>&nbsp;dedicated.</dd>
+<dd>The&nbsp;<a title="United States Holocaust Memorial Museum" href="https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum">United States Holocaust Memorial Museum</a>&nbsp;dedicated.&nbsp;</dd>
 </dl>
-<div class="thumb tright">&nbsp;</div>
 <dl>
 <dt>September 13, 1993</dt>
 <dd>Israel and&nbsp;<a class="mw-redirect" title="PLO" href="https://en.wikipedia.org/wiki/PLO">PLO</a>&nbsp;sign the&nbsp;<a title="Oslo Accords" href="https://en.wikipedia.org/wiki/Oslo_Accords">Oslo Accords</a>.</dd>
