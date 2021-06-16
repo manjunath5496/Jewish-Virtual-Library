@@ -2410,7 +2410,7 @@ Modern Europe</a></li>
 </dl>
 <dl>
 <dt>1897</dt>
-<dd>First&nbsp;<a title="Russian Empire Census" href="https://en.wikipedia.org/wiki/Russian_Empire_Census">Russian Empire Census</a>: 5,200,000 of Jews, 4,900,000 in the Pale. The lands of former&nbsp;<a title="Poland" href="https://en.wikipedia.org/wiki/Poland">Poland</a><sup class="noprint Inline-Template">[<em><a title="Wikipedia:Please clarify" href="https://en.wikipedia.org/wiki/Wikipedia:Please_clarify"><span title="The text near this tag may need clarification or removal of jargon. (November 2007)">clarification needed</span></a></em>]</sup>&nbsp;have 1,300,000 Jews or 14% of population.</dd>
+<dd>First&nbsp;<a title="Russian Empire Census" href="https://en.wikipedia.org/wiki/Russian_Empire_Census">Russian Empire Census</a>: 5,200,000 of Jews, 4,900,000 in the Pale. The lands of former&nbsp;<a title="Poland" href="https://en.wikipedia.org/wiki/Poland">Poland</a>&nbsp;have 1,300,000 Jews or 14% of population.</dd>
 </dl>
 <dl>
 <dt>1897</dt>
